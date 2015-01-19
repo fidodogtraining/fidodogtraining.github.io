@@ -4,7 +4,7 @@ exclude: true
 ---
   1.
     ## Always set your dog up for success
-    If you don't want Fido to chew your new shoes, don't leave them on the floor! Reward him for chewing on his toys. If you don't like big holes in your yard, don't leave him alone in the yard too long. Instead, take him for a long walk or play a game of fetch. Remember digging holes and chewing are very normal and rewarding behaviors for your dog. By allowing your dog to stay outside alone or leaving your shoes on the floor, you are effectively teaching him to engage in these behaviors.
+    :dog: If you don't want Fido to chew your new shoes, don't leave them on the floor! Reward him for chewing on his toys. If you don't like big holes in your yard, don't leave him alone in the yard too long. Instead, take him for a long walk or play a game of fetch. Remember digging holes and chewing are very normal and rewarding behaviors for your dog. By allowing your dog to stay outside alone or leaving your shoes on the floor, you are effectively teaching him to engage in these behaviors.
   2.
     ## Expect your dog to act like a dog
     Try not to take his behavior personally when he does the typical things dogs do, like chewing, digging and jumping. He is not being a BAD dog, he is being a DOG! Remember to reward him for desirable behaviors. This will make your dog want to offer those behaviors more often.
