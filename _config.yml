@@ -6,6 +6,8 @@ rdiscount:
   extensions: [smart]
 sass:
   style: :compressed
+gems:
+  - jemoji
 
 ## Site structure
 collections:
