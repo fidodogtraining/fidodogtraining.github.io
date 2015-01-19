@@ -1,0 +1,23 @@
+---
+layout: layout
+---
+<article class="region" itemscope itemtype="http://schema.org/Article"><div class="inner">
+	<header>
+		<h1 itemprop="name headline">{{ page.title }}</h1>
+    <h2>{{ page.tagline }}</h2>
+	</header>
+  {% if page.image %}<img class="right" src="/images/classes/{{ page.image }}" alt="" />{% endif %}
+  <aside class="inline-block">
+    <p>Instructor: {{ page.trainer }}</p>
+    {% if page.assistant %}<p>Assistant: {{ page.assistant }}</p>{% endif %}
+    {% if page.duration %}<p>Duration: {{ page.duration }}</p>{% endif %}
+    {% if page.price %}<p>Price: {{ page.price }}</p>{% endif %}
+  </aside>
+	<div itemprop="articleBody">
+		{{ content }}
+	</div>
+  {% if page.sessions.size >= 1 %}<h2>Sessions</h2>{% endif %}
+  <ul class="sessions cards">
+  {% for s in page.sessions %}<li class="card">{% include event_brief.html session=s %}</li>{% endfor %}
+  </ul>
+</div></article>

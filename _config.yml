@@ -1,0 +1,50 @@
+## Jekyll configs
+markdown: rdiscount
+permalink: /:year/:month/:day/:title/
+highlighter: pygments
+rdiscount:
+  extensions: [smart]
+sass:
+  style: :compressed
+
+## Site structure
+collections:
+  testimonials:
+    output: true
+    permalink: /testimonials/:title/
+  classes:
+    output: true
+    permalink: /classes/:path/
+  autopages:
+    output: true
+    permalink: /:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "autopages" # a collection in your site, in plural form
+    values:
+      layout: "autopage"
+  -
+    scope:
+      path: ""
+      type: "classes"
+    values:
+      layout: "class"
+
+## Basic site info
+title: FIDO Personal Dog Training
+primary_author: "FIDO Personal Dog Training, LLC."
+shortname: Fido
+baseurl: http://www.fidodogtraining.com
+email: fidofetch@sbcglobal.net
+phone: 313-204-6154
+gaid: UA-12803971-1
+
+## Open Graph
+og_street_address: 703 Livernois Avenue
+og_locality: Ferndale
+og_region: MI
+og_postal_code: "48220"
+og_country: USA

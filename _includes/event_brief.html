@@ -1,0 +1,3 @@
+<h3 class="dow">{{ include.session.start | date: "%A" }}s</h3>
+<p class="times">{{ include.session.start | date: "%-I:%M %p" }}-{{ include.session.end | date: "%-I:%M %p" }}</p>
+<p class="dates">{{ include.session.start | date: "%b %-d" }} to {{ include.session.end | date: "%b %-d" }}</p>

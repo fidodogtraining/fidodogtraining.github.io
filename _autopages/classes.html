@@ -1,0 +1,54 @@
+---
+title: Classes
+---
+<p>All classes take place at FIDO in Ferndale. Please pre-register and review our 
+<a href="/rules-for-class/">class rules</a> before attending. Classes are limited 
+to 4 dogs and their handler(s), so register as soon as you can.</p>
+<p><a class="button cta" href="/images/fido_agree_rules.pdf">Sign up</a></p>
+
+{% assign classes = site.classes | sort: "weight" %}
+{% comment %} Anchor links for Classes {% endcomment %}
+<strong class="clear">Classes</strong>
+<ul class="inline anchors">
+{% for c in classes %}
+{% unless c.url contains 'mini-courses' %}
+  <li><a href="#{{ c.url | slugify }}">{{ c.title }}</a></li>
+{% endunless %}
+{% endfor %}
+</ul>
+
+<strong class="clear">Mini courses</strong>
+<ul class="inline anchors">
+{% for c in classes %}
+{% if c.url contains 'mini-courses' %}
+  <li><a href="#{{ c.url | slugify }}">{{ c.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+{% comment %} Main classes (brief template) {% endcomment %}
+{% for c in classes %}
+{% unless c.url contains 'mini-courses' %}
+{% include class_brief.html class=c %}
+{% endunless %}
+{% endfor %}
+
+<hr />
+<h1>Mini Courses</h1>
+<p>These courses are offered periodically. Available sessions are listed below.</p>
+
+{% comment %} Mini courses (brief template) {% endcomment %}
+{% for c in classes %}
+{% if c.url contains 'mini-courses' %}
+{% include class_brief.html class=c %}
+{% endif %}
+{% endfor %}
+
+<aside>
+  <p>A $50 non-refundable deposit is required to secure your spot in any class starting 
+more than 2 weeks before the date you sign up, and is applied to the cost of the 
+class. The remainder of the class fee must be paid in full within two weeks of 
+the class start date. Payment may be cash, check, Visa, or MasterCard.</p>
+  <p>If the class you are attending starts within 2 weeks of the date you are signing 
+up, we ask that you pay for the class in full at the time you register.</p>
+</aside>
