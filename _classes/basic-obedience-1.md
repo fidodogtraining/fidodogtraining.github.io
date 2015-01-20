@@ -20,11 +20,12 @@ sessions:
 ---
 ## Positive Reinforcement Training
 
-This class is for dogs five months and older that need to learn the basics! 
+This class is for dogs five months and older (younger dogs are eligible for Puppy Class) that need to learn the basics! 
 
 We will learn the obedience mainstays like Sit, Down, and Come as well as working on leash manners, polite greetings and  focus.
-If this sounds like your dog, let us help. Please join us for a basic six-week 
-class in Positive Reinforcement/Clicker training.
+
+
+Basic One is a 6 week Clicker Course.
 
 *Please, do not bring your dog to the first class session*
 
