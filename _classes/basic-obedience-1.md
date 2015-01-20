@@ -20,14 +20,9 @@ sessions:
 ---
 ## Positive Reinforcement Training
 
-This basic obedience class is for the older pups that need to learn the basics:
+This class is for dogs months and older that need to learn the basics.
 
-  * Sit
-  * Down
-  * Stay
-  * Come
-
-We will work on solving basic behavior problems, such as jumping and mouthing. 
+We will learn obedience stand-bys like Sit, Down, and Come as well as working on leash manners. 
 If this sounds like your dog, let us help. Please join us for a basic six-week 
 class in Positive Reinforcement/Clicker training.
 
