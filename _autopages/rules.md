@@ -5,7 +5,7 @@ exclude: true
   1.
     ## No Choke or Prong collars
     A martingale or flat buckle collar can be used in puppy classes. Martingale collars are 
-    mandatory for all other classes. No flexi leashes.
+    mandatory for all other classes. If you need help fitting a martingale collar, we sell several brands and would be happy to help you choose one for your dog.  No flexi leashes.
   2.
     ## Training Tools and Treats
     You will need a training tool called a “Clicker” and some very yummy food treats. We 
