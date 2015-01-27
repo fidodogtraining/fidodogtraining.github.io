@@ -3,10 +3,10 @@ title: About
 ---
 
 ![FIDO is at 703 Livernois in Ferndale, MI](/images/fido_building.png)
-Tammy started the Friendly Dog Walking service in 1997, then followed up with FIDO 10 years later. 
+Tammy started Happy Dog Walking service in 1997, then followed up with FIDO 10 years later. 
 FIDO's mission:
 
-  > To help dog owners communicate with their dogs in a manner that the dog can understand&hellip;
+  > To help people communicate with their dogs in a manner that the dog can understand&hellip;
   >
   > To help educate the dog-owning public in what Positive Reinforcement Training is really all about&hellip;
   >
