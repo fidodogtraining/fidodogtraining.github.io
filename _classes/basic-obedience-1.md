@@ -5,7 +5,7 @@ tagline: "The start of a good thing"
 image: basic.jpg
 trainer: Sarah Maki
 duration: "6 weeks"
-price: "$245, includes clicker, No dogs first class"
+price: "$250, includes clicker, No dogs first class"
 sessions:
  - start: 2015-01-20 17:30:00 -0500
    end: 2015-02-24 18:30:00 -0500
