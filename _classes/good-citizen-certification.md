@@ -3,7 +3,7 @@ weight: 5
 title: Canine Good Citizen
 tagline: "American Kennel Club Canine Good Citizen Certification"
 image: cgc.jpg
-trainer: Tammy Crenshaw
+trainer: Tammy Crenshaw, Sarah Maki
 duration: "4 weeks, 3 training and 1 testing"
 sessions:
 ---
