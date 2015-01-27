@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Basic
+title: Basic 1
 tagline: "The start of a good thing"
 image: basic.jpg
 trainer: Sarah Maki
