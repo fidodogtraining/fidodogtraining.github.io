@@ -4,18 +4,18 @@ exclude: true
 ---
   1.
     ## No Choke or Prong collars
-    A martingale or flat buckle collar or harness can be used in class. Martingale collars are 
-    mandatory for all classes except puppy. No flexi leashes.
+    A martingale or flat buckle collar can be used in puppy classes. Martingale collars are 
+    mandatory for all other classes. No flexi leashes.
   2.
     ## Training Tools and Treats
     You will need a training tool called a “Clicker” and some very yummy food treats. We 
-    recommend small mixed up pieces of hot dog, cheese, chicken or any tasty treat your dog 
-    really likes. Soft treats work best for training. We sell a variety of wonderful soft 
+    recommend small pieces of hot dog, cheese, chicken or any tasty treat your dog 
+    really likes. Soft treats work best for training. We sell a variety of  
     training treats as well as clickers.
 
     *_Please bring a long lasting treat for your dog to help them during class time while we are 
     teaching. We recommend a stuffed Kong, with something like peanut butter or wet dog food 
-    to keep your pup busy for a few minutes. Try freezing it so it will last longer._
+    to keep your pup busy. Try freezing it so it will last longer._
   3.
     ## Children in class
     Dog owners who want their child to be responsible for training must make sure their child 
@@ -28,8 +28,8 @@ exclude: true
   5.
     ## Recommended
     Do not feed your dog right before class. If they are hungry they will pay closer attention 
-    to you while training. Some exercise before class can help lower energy levels and stress 
-    levels to help your dog stay better focused. Remember to wear comfortable clothing and flat 
+    to you while training. Some exercise before class can help lower energy and stress 
+    levels and help your dog stay focused. Remember to wear comfortable clothing and flat 
     shoes to class.
   6. 
     ## Cell phones
