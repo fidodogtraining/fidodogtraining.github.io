@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: Advanced
+title: Advanced Field Trip
 tagline: "Special field trips for your best friend"
 image: advanced.jpg
 trainer: Tammy Crenshaw
@@ -14,14 +14,13 @@ sessions:
    end: 2015-10-03 16:00:00 -0500
 ---
 
-Our advanced field trip class takes you and your dog out and about to work 
-on leash manners, reactivity, and recall.
+Our Advanced Field Trip class takes you and your dog out and about to work 
+on leash manners, reactivity, and recall. 
 
 We practice self-control and focus in everyday situations, and teach you to 
 keep your pooch calm, cool, and under control.
 
-This is a class for dogs who already know the basics, but need some help 
-around real-world distractions.
+This is a class for dogs who have completed our Intermediate class or an equivalent class elsewhere.
 
 Since this is an outdoor class, FIDO offers Advanced Field Trip during the 
-Spring and Summer months.
+Spring, Summer, and Fall months only.
