@@ -1,7 +1,7 @@
 ---
 weight: 6
 title: Advanced Field Trip
-tagline: "Special field trips for your best friend"
+tagline: "Outdoor exercises, real life scenarios"
 image: advanced.jpg
 trainer: Tammy Crenshaw
 assistant: Sarah Maki
