@@ -1,6 +1,6 @@
 ---
 weight: 0
-title: Puppy
+title: Puppy 1
 tagline: "Learn to teach your puppy to sit, stay, come, and fix problem behaviors"
 image: puppy.jpg
 trainer: Tammy Crenshaw
