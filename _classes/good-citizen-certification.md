@@ -1,6 +1,6 @@
 ---
 weight: 5
-title: Good Citizen
+title: Canine Good Citizen
 tagline: "American Kennel Club Good Citizen Certification"
 image: cgc.jpg
 trainer: Tammy Crenshaw
