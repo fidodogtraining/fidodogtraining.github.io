@@ -26,7 +26,7 @@ and compassionate way to train a dog. This method helps both dog and owner to co
 whille having fun at the same time.
 
 Tammy was educated in Positive Reinforcement Training at Animal Behavior College; graduating with 
-honors, and certified as a trainer, in 2006. In addition, she also recently earned certification 
+honors, and was certified as a trainer in 2006. She has also earned her certification 
 through the Certification Council for Professional Dog Trainers. Tammy now joins nearly 2,000 
 CPDT-KA Certified trainers worldwide.
 
@@ -52,7 +52,7 @@ Turning the clicker over to me, Tammy showed me how to teach Sprocket some basic
 with him, she remarked that I had good instincts and that I should consider becoming a dog trainer!
 
 I took her words to heart. I've always been an animal lover, and making a career out of working with dogs 
-sounds right up my alley! Now I'm an Animal Behavior College Certified Dog Trainer, and I know I've found 
+sounded right up my alley! Now I'm an Animal Behavior College Certified Dog Trainer, and I know I've found 
 my passion.
 
 I love getting people to that "lightbulb" moment with their dogs: where dog and person learn to communicate 
