@@ -4,7 +4,7 @@ exclude: true
 ---
   1.
     ## Always set your dog up for success
-    :dog: If you don't want Fido to chew your new shoes, don't leave them on the floor! Reward him for chewing on his toys. If you don't like big holes in your yard, don't leave him alone in the yard too long. Instead, take him for a long walk or play a game of fetch. Remember digging holes and chewing are very normal and rewarding behaviors for your dog. By allowing your dog to stay outside alone or leaving your shoes on the floor, you are effectively teaching him to engage in these behaviors.
+    :dog: If you don't want Fido to chew your new shoes, don't leave them on the floor! Reward him for chewing on his toys. If you don't like big holes in your yard, don't leave him alone in the yard too long. Instead, take him for a long walk or play a game of fetch. Remember; digging holes and chewing are very normal and rewarding behaviors for your dog. By allowing your dog to stay outside alone or leaving your shoes on the floor, you are effectively teaching him to engage in these behaviors.
   2.
     ## Expect your dog to act like a dog
     Try not to take his behavior personally when he does the typical things dogs do, like chewing, digging and jumping. He is not being a BAD dog, he is being a DOG! Remember to reward him for desirable behaviors. This will make your dog want to offer those behaviors more often.
@@ -13,7 +13,7 @@ exclude: true
     Self-control should be rewarded. Ask your dog to Sit and Wait "before he gobbles down his food.  Teach him a trick like Shake or High Five to gain a yummy reward. With repetition and consistency your dog will come to understand that listening to you is a way to gain rewards and is a very good idea indeed!
   4.
     ## Start teaching your puppy right away
-    Don't let the pup run wild the first few weeks and then start scolding him when his cute puppy behavior is not so cute anymore. Don't wait for him to start developing bad habits like chewing the furniture or urinating on the carpet before you intervene. Know your puppy is likely to exhibit these behaviors and be ready to prevent them from happening.
+    Don't let the pup run wild the first few weeks and then start scolding him when his cute puppy behavior is not so cute anymore! Don't wait for him to start developing bad habits like chewing the furniture or urinating on the carpet before you intervene. Know your puppy is likely to exhibit these behaviors and be ready to prevent them from happening.
   5.
     ## If you have a puppy, handle and snuggle him endlessly
     Let friends and family do the same. Take him lots of new safe places like a friend's house or a good positive reinforcement puppy class. Make sure it is a very pleasant experience so he will associate being handled, doing new things, meeting new dogs and people and going new places with good feelings.
