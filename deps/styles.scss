@@ -441,6 +441,9 @@ svg:not(:root) {
 .divided {
   border-bottom: 1px solid hex-add($light, -1);
 }
+  .divided.last {
+    border-bottom: 0 none;
+  }
 .float {}
   .left {
     box-shadow: 0 0 2px rgba($text,.25);
@@ -516,7 +519,7 @@ svg:not(:root) {
       content: 'P';
     }
 ul.inline {
-  display: inline-block;
+  display: inline;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -587,19 +590,16 @@ ul.inline {
     font-style: normal;
   }
     .social a[href]:before {
-      background-color: $tertiary;
-      border: 0 none;
-      border-radius: 5px;
-      color: hex-add($primary, 1);
+      color: hex-add($light, -14);
       content: 'a';
       display: block;
       font-family: 'fontello';
-      font-size: 16px;
+      font-size: 24px;
       min-width: 1em;
       padding: 10px 12px;
     }
       .social a[href]:hover:before {
-        background-color: $secondary;
+        background-color: hex-add($light, -10);
         color: $light;
       }
   .social a[href*="fidoblog.com"]:before {
@@ -797,7 +797,7 @@ section.region {}
     margin: 0 20px 0 0;
   }
 footer.region {
-  background-color: hex-add($primary, 1);
+  background-color: hex-add($light, -11);
   padding: 25px 0 0;
 }
   footer.region > .inner > div {
@@ -818,7 +818,7 @@ footer.region {
       }
       @media all and (min-width: 960px) {
         footer.region .location {
-          width: 650px;
+          width: 625px;
         }
       }
     footer.region .social {
@@ -832,16 +832,19 @@ footer.region {
       margin: 0 0 0 -2em;
       min-width: 7em;
     }
-    footer.region .menu > li > a.first {
-      margin-top: -1em;
-    }
+      footer.region .menu > li > a:hover {
+        background-color: hex-add($light, -10);
+      }
+      footer.region .menu > li > a.first {
+        margin-top: -1em;
+      }
 .copyright {
-  background-color: $primary;
-  color: hex-add($text, 6);
+  background-color: hex-add($light, -12);
+  color: hex-add($light, -5);
   font-size: .85em;
 }
   .copyright a {
-    color: hex-add($text, 6);
+    color: hex-add($light, -5);
   }
   .copyright p {
     margin: 0;
