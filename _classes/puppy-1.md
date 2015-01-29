@@ -1,12 +1,12 @@
 ---
 weight: 0
 title: Puppy 1
-tagline: "Learn to teach your puppy to sit, stay, come, and fix problem behaviors"
+tagline: "Set your dog up for a lifetime of success"
 image: puppy.jpg
 trainer: Tammy Crenshaw
 assistant: Sarah Maki
 duration: "6 weeks"
-price: "$245, includes clicker"
+price: "$250, includes clicker"
 sessions:
  - start: 2015-01-03 11:00:00 -0500
    end: 2015-02-07 12:00:00 -0500
@@ -15,26 +15,9 @@ sessions:
  - start: 2015-02-26 17:30:00 -0500
    end: 2015-04-02 18:30:00 -0500
 ---
-## There is no time like now to start training your puppy
 
-Puppies are cute, cuddly, sweet, and wonderful. _Until_ they use the living room 
-as a toilet, the sofa as a chew toy, or your prized rose garden as a playground. 
-Our puppy classes will help teach you what to do when these things happen.
 
-In class, you will learn how to teach your pup to sit, stay, and come when 
-called. We will work on problem behaviors like:
+So you just got a puppy — congrats! Our Puppy 1 class will give you and your new four-legged family member the skills needed to grow into a well-rounded, happy adult dog! We’ll teach you the basics of clicker training and help you tackle and understand common puppy problem behaviors like house breaking, chewing and mouthing, jumping up and more. Basic cues like, sit, down, stand and the beginnings of loose leash walking will be covered, along with some fun tricks and self-control exercises! Just as importantly, your puppy will learn about and experience other dogs, people and new environments — all important to your pup’s social development! Each class includes several short, carefully-controlled play sessions to help your puppy learn the acceptable rules of social interaction with other dogs. 
 
-  * House breaking
-  * Chewing and mouthing
-  * Biting
-  * Jumping up
-
-Most important of all, your puppy will learn about other dogs, people, and new 
-environments.
-
-They will play in carefully-controlled play sessions with the other pups. This 
-will help your puppy learn about the acceptable rules of social interaction 
-with other dogs. Puppy socialization is a very important phase in your pup's 
-social development.
 
 _Please, come join the fun! Your puppy will love you for it_
