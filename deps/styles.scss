@@ -775,6 +775,27 @@ section.region {}
     margin: 2.5em 0 .5em;
     margin-top: 21vw;
   }
+.region-cta {
+  background: hex-add($light, -1) url('images/bestdetroit2014.jpg') top left scroll no-repeat;
+  background-size: cover;
+  color: $light;
+  min-height: 145px;
+  min-height: 24vw;
+  overflow: hidden;
+  position: relative;
+  z-index: 0;
+}
+  section.region-cta > .inner {
+    background: hex-add($primary, 1);
+    background: rgba($primary,.7);
+    color: #fff;
+    margin: 40px auto;
+    max-width: 30em;
+    padding: 1em;
+  }
+  .region-cta h2 {
+    margin-top: 0;
+  }
 .pre-footer {
   background-color: hex-add($primary, 2);
   margin: 2em 0 0;
