@@ -14,28 +14,15 @@ FIDO's mission:
 
 ## Tammy Crenshaw
 <img class="right" src="/images/tammy.jpg" alt="" />
-Tammy has loved dogs her whole life. She started a pet sitting/dog walking business, "Happy Dog 
-Walking Service" in 1997. She still has this business today.
 
-Tammy's goal in life is to help dogs live long, happy lives with their human guardians. She wants 
-to teach people how to communicate with their pets in a dog-friendly way, so that their dogs can 
-truly understand what is being asked of them.
+I have lived with and loved dogs my whole life and have worked with them for 17 years. I started a pet sitting/dog walking business in 1997 and have been training since 2005. I live in Oak Park, Michigan with my husband Robert, our pit bull mix Daisy, the action-packed cat Posey, and a 30 year old Amazon Parrot named Petey.
 
-Tammy teaches only Positive Reinforcement Training (PRT), which she believes is the most rewarding 
-and compassionate way to train a dog. This method helps both dog and owner to communicate better, 
-whille having fun at the same time.
+One of my primary personal and professional goals is to help dogs live happy lives with their human guardians. By teaching people how to communicate with their pets in a way that both human and dog can truly understand, I hope to do my part in making dog and human worlds a better place.
+In my training, I use only science based, force free methods. My first-hand experience has shown me that this is the most rewarding, compassionate and effective way to train a dog. I believe Positive reinforcement methods are much less stressful on dogs than punishment-based methods. In fact, most dogs look forward to and even enjoy clicker training sessions!
 
-Tammy was educated in Positive Reinforcement Training at Animal Behavior College; graduating with 
-honors, and was certified as a trainer in 2006. She has also earned her certification 
-through the Certification Council for Professional Dog Trainers. Tammy now joins nearly 2,000 
-CPDT-KA Certified trainers worldwide.
+I graduated from Animal Behavioral College with honors in 2006. I continued my studies by earning my certification through the Certification Council for Professional Dog Trainers as a Certified Professional Dog Trainer – Knowledge Assessed (CPDT-KA) in 2011. I offer private and group classes through my company Fido Personal Dog Training, LLC in Ferndale, Michigan.
 
-Tammy is currently giving private and group obedience classes through her company "FIDO Personal Dog 
-Training, LLC".
 
-Tammy lives in the wilds of Oak Park, Michigan with her husband Robert, their two lovable rescued 
-pit bull mixes, Lilly and Daisy, a very precocious Amazon parrot Petey, and Posey her action-packed 
-cat.
 
 ## Sarah Maki
 <img class="right" src="/images/sarah.jpg" alt="" />
