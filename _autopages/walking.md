@@ -23,19 +23,14 @@ Royal Oak, and Huntington Woods.
   * 15 minute Let Out - $15
   * 30 minute Let Out - $20
   * 30 minute Walks - $20 (add $5.00 for more than one dog)
+  * 60 minute Walks - $35 (add $5 more for more than one dog)
   * Pick up and drop off at groomers or day care- $20 
   * Veterinary check ups - $35
 
 <img class="right" src="/images/sitting.jpg" alt="" />
-## In-home pet sitting
+## Overnight, in-home pet sitting
 
-Standard sitting hours are from 7:00 PM until 10:00 AM. A mid-day courtesy 
-let-out is included with each subsequent overnight so that your pooch 
-isn't left alone for too long without a potty break. If you need a visit
-before 7:00 PM on the date your overnights begin or after 10:00 AM on the
-morning they end, additional walks or let outs can be arranged with 
-your sitter. Hours may vary according to sitter's schedule. 
-Variances will be agreed upon before visit. 
+Your pet, safe at home while you travel! We will pamper your pooch while you are away, taking care of all exercise needs and providing company at night. Mail, plants, and any other household needs are included in every stay. Skip the stress of boarding and let your dog sleep in his own bed! 
 
 Sitting starts at **$65 per night**. Dog Walking and Pet Sitting on Holidays is an 
 additional $10 per day (New Year's Day, Easter, Thanksgiving Day and Christmas Day) 
