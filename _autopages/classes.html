@@ -6,30 +6,41 @@ title: Classes
 so sign up now to save your spot!</p>
 <p><a class="button cta" href="/images/fido_agree_rules.pdf">Sign up</a></p>
 
-{% assign classes = site.classes | sort: "weight" %}
-{% comment %} Anchor links for Classes {% endcomment %}
 <strong class="clear">Classes</strong>
 <ul class="inline anchors">
-{% for c in classes %}
-{% unless c.url contains 'mini-courses' %}
-  <li><a href="#{{ c.url | slugify }}">{{ c.title }}</a></li>
+{% for class in site.classes %}
+{% assign args = class.url | split: '/' %}
+{% assign args = args | size %}
+{% unless args > 3 %}
+  <li><a href="#{{ class.url | slugify }}">{{ class.title }}</a></li>
 {% endunless %}
 {% endfor %}
 </ul>
 
 <strong class="clear">Mini courses</strong>
 <ul class="inline anchors">
-{% for c in classes %}
-{% if c.url contains 'mini-courses' %}
-  <li><a href="#{{ c.url | slugify }}">{{ c.title }}</a></li>
+{% for class in site.classes %}
+{% if class.url contains 'mini-courses' %}
+  <li><a href="#{{ class.url | slugify }}">{{ class.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+<strong class="clear">Seminars</strong>
+<ul class="inline anchors">
+{% for class in site.classes %}
+{% if class.url contains 'seminars' %}
+  <li><a href="#{{ class.url | slugify }}">{{ class.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
 
 {% comment %} Main classes (brief template) {% endcomment %}
-{% for c in classes %}
-{% unless c.url contains 'mini-courses' %}
-{% include class_brief.html class=c %}
+{% for class in site.classes %}
+{% assign args = class.url | split: '/' %}
+{% assign args = args | size %}
+{% unless args > 3 %}
+{% include class_brief.html class=class %}
 {% endunless %}
 {% endfor %}
 
@@ -38,9 +49,20 @@ so sign up now to save your spot!</p>
 <p>These courses are offered periodically. Available sessions are listed below.</p>
 
 {% comment %} Mini courses (brief template) {% endcomment %}
-{% for c in classes %}
-{% if c.url contains 'mini-courses' %}
-{% include class_brief.html class=c %}
+{% for class in site.classes %}
+{% if class.url contains 'mini-courses' %}
+{% include class_brief.html class=class %}
+{% endif %}
+{% endfor %}
+
+<hr />
+<h1>Seminars</h1>
+<p>Seminars are offered periodically. Available sessions are listed below.</p>
+
+{% comment %} Seminars (brief template) {% endcomment %}
+{% for class in site.classes %}
+{% if class.url contains 'seminars' %}
+{% include class_brief.html class=class %}
 {% endif %}
 {% endfor %}
 
