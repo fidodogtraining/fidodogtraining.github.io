@@ -1,6 +1,7 @@
 ---
 title: Classes
 ---
+{% assign classes = site.classes | sort: "weight" %}
 <p>All classes take place at FIDO in Ferndale. Please pre-register and review our 
 <a href="/rules-for-class/">class rules</a> before attending. Class sizes are kept small to provide personal attention, 
 so sign up now to save your spot!</p>
@@ -8,7 +9,7 @@ so sign up now to save your spot!</p>
 
 <strong class="clear">Classes</strong>
 <ul class="inline anchors">
-{% for class in site.classes %}
+{% for class in classes %}
 {% assign args = class.url | split: '/' %}
 {% assign args = args | size %}
 {% unless args > 3 %}
@@ -19,7 +20,7 @@ so sign up now to save your spot!</p>
 
 <strong class="clear">Mini courses</strong>
 <ul class="inline anchors">
-{% for class in site.classes %}
+{% for class in classes %}
 {% if class.url contains 'mini-courses' %}
   <li><a href="#{{ class.url | slugify }}">{{ class.title }}</a></li>
 {% endif %}
@@ -28,7 +29,7 @@ so sign up now to save your spot!</p>
 
 <strong class="clear">Seminars</strong>
 <ul class="inline anchors">
-{% for class in site.classes %}
+{% for class in classes %}
 {% if class.url contains 'seminars' %}
   <li><a href="#{{ class.url | slugify }}">{{ class.title }}</a></li>
 {% endif %}
@@ -36,7 +37,7 @@ so sign up now to save your spot!</p>
 </ul>
 
 {% comment %} Main classes (brief template) {% endcomment %}
-{% for class in site.classes %}
+{% for class in classes %}
 {% assign args = class.url | split: '/' %}
 {% assign args = args | size %}
 {% unless args > 3 %}
@@ -49,7 +50,7 @@ so sign up now to save your spot!</p>
 <p>These courses are offered periodically. Available sessions are listed below.</p>
 
 {% comment %} Mini courses (brief template) {% endcomment %}
-{% for class in site.classes %}
+{% for class in classes %}
 {% if class.url contains 'mini-courses' %}
 {% include class_brief.html class=class %}
 {% endif %}
@@ -60,7 +61,7 @@ so sign up now to save your spot!</p>
 <p>Seminars are offered periodically. Available sessions are listed below.</p>
 
 {% comment %} Seminars (brief template) {% endcomment %}
-{% for class in site.classes %}
+{% for class in classes %}
 {% if class.url contains 'seminars' %}
 {% include class_brief.html class=class %}
 {% endif %}

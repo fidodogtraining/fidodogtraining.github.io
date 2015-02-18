@@ -34,6 +34,12 @@ defaults:
       type: "classes"
     values:
       layout: "class"
+  -
+    scope:
+      path: ""
+      type: "testimonials"
+    values:
+      layout: "testimonial"
 
 ## Basic site info
 title: FIDO Personal Dog Training
