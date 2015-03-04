@@ -13,6 +13,7 @@ FIDO's mission:
   > To do so in a manner that promotes the betterment &amp; well-being of both dog and owner.
 
 ## Tammy Crenshaw
+Owner, Head Trainer
 <img class="right" src="/images/tammy.jpg" alt="" />
 
 I have lived with and loved dogs my whole life and have worked with them for 17 years. I started a pet sitting/dog walking business in 1997 and have been training since 2005. I live in Oak Park, Michigan with my husband Robert, our pit bull mix Daisy, the action-packed cat Posey, and a 30 year old Amazon Parrot named Petey.
