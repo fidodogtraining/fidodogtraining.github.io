@@ -12,8 +12,7 @@ FIDO's mission:
   >
   > To do so in a manner that promotes the betterment &amp; well-being of both dog and owner.
 
-## Tammy Crenshaw Owner, Head Trainer
-
+## Tammy Crenshaw
 <img class="right" src="/images/tammy.jpg" alt="" />
 
 I have lived with and loved dogs my whole life and have worked with them for 17 years. I started a pet sitting/dog walking business in 1997 and have been training since 2005. I live in Oak Park, Michigan with my husband Robert, our pit bull mix Daisy, the action-packed cat Posey, and a 30 year old Amazon Parrot named Petey.
@@ -50,3 +49,9 @@ with us, so that training feels like play instead of work.
 
 Sprocket has two sisters now: an English Lab named Molly Moo Cow, and an odd little poodle/muppet mix 
 named Tchotchke. The three of them keep me on my toes and provide plenty of opportunity to train every day.
+
+##Lindsay Flatter
+Lindsay joined the FIDO team in September 2011 with over 17 years of experience in the pet care industry.  In addition to working for FIDO, her background ranges from working as a veterinary assistant, doggy daycare attendant, groomer, as well as working in kennels, shelters, and even horse stables.  She has also been a Puppy Raiser for Paws with a Cause, loves fostering dogs and volunteering with rescue groups, and has rescued, trained, and certified her own dog with Therapy Dogs International (TDI).  She is currently seeking her next Therapy Dog candidate.
+
+When Lindsay isn't working or doing something dog related, you will likely find her spending quality time with her husband Brian and their two young children. 
+
