@@ -30,6 +30,7 @@ This option is perfect for dogs who cannot attend a group class for any
 reason. Our office allows a safe space for your dog to work through his struggles 
 and learn new, better manners. 
 
+<img class="right" src="/images/home-training.jpg" alt="" />
 ## Private lessons in your home
 
 We will come to you! Private, in-home training is customized to solve any issue 
