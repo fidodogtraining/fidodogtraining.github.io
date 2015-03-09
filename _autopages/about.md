@@ -39,7 +39,7 @@ private and group classes through my company Fido Personal Dog Training, LLC in 
 
 <section class="region">
 ## Sarah Maki
-### Trainer
+### Head Trainer, Head Dog Walker
 <img class="right" src="/images/sarah.jpg" alt="" />
 In July of 2008 I adopted my best buddy, a then-4-year-old Tibetan Terrier. Sprocket was close to perfect 
 from the start; cute, cuddly, enthusiastic about giving kisses and taking walks. He did have one small 
@@ -68,13 +68,13 @@ named Tchotchke. The three of them keep me on my toes and provide plenty of oppo
 
 <section class="region">
 ## Laura Witkowski
-### Job Title
+### Assistant Trainer, Dog Walker
 <img class="right" src="/images/laura.jpg" alt="" />
 Laura has a biography. It starts with these two sentences.
 </section>
 <section class="region">
 ## Lindsay Flatter
-### Job Title
+### Assistant Trainer, Dog Walker
 <img class="right" src="/images/lindsay.jpg" alt="" />
 Lindsay joined the FIDO team in September 2011 with over 17 years of experience in the pet care industry. 
 In addition to working for FIDO, her background ranges from working as a veterinary assistant, doggy daycare 
@@ -89,28 +89,30 @@ with her husband Brian and their two young children.
 
 <section class="region">
 ## Kelli
-### Job Title
+### Dog Walker, Pet Sitter
 <img class="right" src="/images/kelli.jpg" alt="" />
-Kelli has a biography. It starts with these two sentences.
+Kelli has been involved in animal rescue for many years. At 6 years old, she met a stray dog, and after placing ads and hanging fliers, convinced her parents to let her keep the unclaimed pup. They named her Pepper and she quickly became a cherished member of the family.
+
+Kelli loves and respects all animals, and as a result, has been vegan since 2001. Her home is shared with clever, beautiful cats and a handsome, cat-loving Pit bull named Rōkō.
 </section>
 
 <section class="region">
 ## Beth
-### Job Title
+### Dog Walker, Pet Sitter
 <img class="right" src="/images/beth.jpg" alt="" />
 Beth has a biography. It starts with these two sentences.
 </section>
 
 <section class="region">
 ## Christy
-### Job Title
+### Dog Walker, Pet Sitter
 <img class="right" src="/images/christy.jpg" alt="" />
 Christy has a biography. It starts with these two sentences.
 </section>
 
 <section class="region">
 ## Emily
-### Job Title
+### Dog Walker, Pet Sitter
 <img class="right" src="/images/emily.jpg" alt="" />
 Emily has a biography. It starts with these two sentences.
 </section>
