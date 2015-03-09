@@ -1,6 +1,6 @@
 <section class="region region-testimonials"><div class="inner">
   <h2>Happy Clients</h2>
-  {% for testimonial in site.testimonials %}
+  {% for testimonial in site.testimonials limit:3 %}
   {% include testimonial_brief.html testimonial=testimonial %}
   {% endfor %}
 </div></section>
