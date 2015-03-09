@@ -1,7 +1,7 @@
 ---
 title: Loose Leash Walking
 tagline: "Your best friend, right by your side"
-trainer: Tammy Crenshaw
+trainer: Tammy Crenshaw, Sarah Maki
 duration: "4 weeks"
 sessions:
   - start: 2014-12-04 17:30:00 -0500
