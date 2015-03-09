@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3090"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   width="432.98544"
+   height="695.89319"
+   sodipodi:docname="fido-logo.svg"
+   inkscape:export-filename="/home/brad/Downloads/fido/logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata3096">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3094" />
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1645"
+     inkscape:window-height="1021"
+     id="namedview3092"
+     showgrid="false"
+     inkscape:zoom="0.54235535"
+     inkscape:cx="498.67284"
+     inkscape:cy="249.38645"
+     inkscape:window-x="2118"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3090"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="true"
+     inkscape:showpageshadow="false" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke:none"
+     d="M 0,160.69234 135.08247,159.60188 67.65415,0 z"
+     id="path3100" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#ffffff;stroke:none"
+     id="path3104"
+     sodipodi:cx="534.26154"
+     sodipodi:cy="336.93848"
+     sodipodi:rx="31.646154"
+     sodipodi:ry="31.646154"
+     d="m 565.90769,336.93848 a 31.646154,31.646154 0 1 1 -63.29231,0 31.646154,31.646154 0 1 1 63.29231,0 z"
+     transform="matrix(0.70883839,0,0,0.72963565,-249.84601,33.68848)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke:none"
+     d="M 181.54676,459.00956 181.348,442.00948 c 0,0 6.95357,-19.81932 42.77482,-19.87574 38.27579,-0.0603 43.20828,20.27669 43.20828,20.27669 l 0.13676,16.9282 c 0,0 -14.53343,-2.86092 -21.09595,2.12558 -7.91115,6.01124 -5.03007,20.54196 -5.03007,20.54196 l -33.95938,0.22584 c 0,0 3.96554,-12.75672 -5.01542,-20.12981 -7.40004,-6.0752 -20.82028,-3.09264 -20.82028,-3.09264 z"
+     id="path3108" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#ffffff;stroke:none"
+     id="path3104-3"
+     sodipodi:cx="534.26154"
+     sodipodi:cy="336.93848"
+     sodipodi:rx="31.646154"
+     sodipodi:ry="31.646154"
+     d="m 565.90769,336.93848 a 31.646154,31.646154 0 1 1 -63.29231,0 31.646154,31.646154 0 1 1 63.29231,0 z"
+     transform="matrix(0.70883839,0,0,0.72963565,-60.13898,33.18026)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke:none"
+     d="M 297.90297,162.62919 432.98544,161.53873 365.55712,1.93685 z"
+     id="path3100-4" />
+  <path
+     style="fill:#f89b89;fill-opacity:1;stroke:none"
+     d="m 169.86986,547.236 114.08572,-0.46095 0.46096,92.19048 c 0,0 -7.91168,56.86189 -57.15811,56.92762 -50.37956,0.0673 -57.61905,-54.39238 -57.61905,-54.39238 z"
+     id="path3061"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccscc" />
+</svg>
