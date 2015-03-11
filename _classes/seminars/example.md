@@ -5,8 +5,6 @@ trainer: Tammy Crenshaw
 duration: "12:00pm-1:30pm June 6, 2015"
 sessions:1
 ---
-Along with smoke rings, Brad will teach your dog great parlor tricks, like
+More than mere caution, neophobia is a real and serious disorder that impacts a dog's quality of life if not managed properly. Neophobic dogs have a fear of new things, new places, new people, any novel stimulus. Luckily, there are things we can do to help these cautious canines. If you have a dog like this, come learn what you can do to make his life more stable and less scary! 
 
-  * Pulling away tablecloths
-  * "Is this your card?"
-  * 3-card monte
+ 
