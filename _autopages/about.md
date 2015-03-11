@@ -114,5 +114,5 @@ Christy has a biography. It starts with these two sentences.
 ## Emily
 ### Dog Walker, Pet Sitter
 <img class="right" src="/images/emily.jpg" alt="" />
-Emily has a biography. It starts with these two sentences.
+Emily is a born and raised Michigander who loves the outdoors—sun or snow! She graduated from the University of Michigan in 2009 with a degree in Brain, Behavior, and Cognitive Science, which shines through with her natural ability to work with all kinds of dogs! In her spare time Emily enjoys backcountry camping, rock climbing, spoiling her dog, Layla, and spending as much time outside as she can (preferably in the company of dogs).
 </section>
