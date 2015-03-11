@@ -70,7 +70,7 @@ named Tchotchke. The three of them keep me on my toes and provide plenty of oppo
 ## Laura Witkowski
 ### Assistant Trainer, Dog Walker
 <img class="right" src="/images/laura.jpg" alt="" />
-Laura has a biography. It starts with these two sentences.
+Laura Witkowski is one of our assistant dog trainers. She loves all things dog, animal behavior and reward based training. She is also a stand up comedian and writer. Laura lives in Hamtramck with her girlfriend Jamie and their two pit bulls: Asha the snuggle pup and Gomez the friendly barbarian.
 </section>
 <section class="region">
 ## Lindsay Flatter
