@@ -1,9 +1,9 @@
 ---
-title: Example seminar
-tagline: "Teach your dog to blow smoke rings"
-trainer: Brad Czerniak
-duration: "2 sessions"
-sessions:
+title: Neophobia 
+tagline: "What to do when your dog is afraid of EVERYTHING"
+trainer: Tammy Crenshaw 
+duration: "12:00pm-1:30pm June 6, 2015"
+sessions:1
 ---
 Along with smoke rings, Brad will teach your dog great parlor tricks, like
 
