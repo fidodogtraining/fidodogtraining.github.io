@@ -107,7 +107,7 @@ Beth has a biography. It starts with these two sentences.
 ## Christy
 ### Dog Walker, Pet Sitter
 <img class="right" src="/images/christy.jpg" alt="" />
-Christy has a biography. It starts with these two sentences.
+Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is currently enrolled in the CATCH program to become a certified dog trainer! Christy has three dog of her own; a pit mix named Palmer, a bulldog mix named Penny, and her Labrabdor, Pearl. 
 </section>
 
 <section class="region">
