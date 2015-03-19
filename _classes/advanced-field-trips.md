@@ -2,7 +2,7 @@
 weight: 6
 title: Advanced Field Trip
 tagline: "Outdoor exercises, real life scenarios"
-image: advanced-alt.jpg
+image: advanced.jpg
 trainer: Tammy Crenshaw
 assistant: Sarah Maki
 duration: "4 weeks"
