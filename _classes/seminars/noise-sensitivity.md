@@ -1,9 +1,10 @@
 ---
-title: Thunder and Other Things that Go BOOM: Help for the Noise Sensitive Dog
+title: "Thunder and Other Things that Go BOOM: Help for the Noise Sensitive Dog"
 tagline: "How to help your pup get past scary noises"
 trainer: Sarah Maki
 duration: "2:00pm-3:30pm June 6, 2015"
 ---
+
 If your dogs starts to quiver before the rain even starts or has a difficult recovering 
 from fireworks and other startling noises, being proactive is key. Don't wait until the 
 Fourth of July to start working on her noise sensitivity. The sooner you address this 
