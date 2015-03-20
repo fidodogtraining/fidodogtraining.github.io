@@ -1,5 +1,5 @@
 ---
-title: "Thunder and Other Things that Go BOOM: Help for the Noise Sensitive Dog"
+title: "Noise sensitivity"
 tagline: "How to help your pup get past scary noises"
 trainer: Sarah Maki
 duration: "2:00pm-3:30pm June 6, 2015"
