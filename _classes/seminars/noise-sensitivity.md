@@ -1,6 +1,6 @@
 ---
 title: "Noise sensitivity"
-tagline: "How to help your pup get past storms and scary noises"
+tagline: "How to help your pup cope with storms and scary noises"
 trainer: Sarah Maki
 duration: "2:00pm-3:30pm June 6, 2015"
 ---
