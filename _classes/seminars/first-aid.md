@@ -1,14 +1,13 @@
 ---
-title: New Dog 101
-tagline: "Be prepared for a new pup"
-trainer: Sarah Maki 
-duration: "12:00pm-1:30pm June 6, 2015"
+title: First Aid
+tagline: "Canine First Aid"
+trainer: Felicia Asher 
+duration: "3:00pm-5:30pm July 25, 2015"
 ---
 
-Thinking of adding a furry friend to your dogless house or adopting a buddy for your 
-current canine pal? There's a lot to consider when the idea of bringing a dog home 
-comes up! What breed is best for you? Adopt or find a responsible breeder? Puppy 
-or an adult dog? We can give you the information you need to make a choice that 
-fits your household and give you an idea of what to expect when your new family 
-member comes home. From expenses to possible behavior problems, you need to be 
-prepared! 
+Learn First Aid basics, find out what should be in your canine emergency kit, and get the answers to common dog 
+health questions! Felicia Asher, KPA Certified Dog Trainer and Licensed Veterinary Technician, will be teaching this 
+wonderful class for us. A live dog will be on site so that you get hands on practice finding a pulse, but please 
+leave your own pooch at home; this is a person-only class. 
+
+This is valuable information for anyone who lives with a dog! Please call to sign up, space is limited to 25 students. Each student will take home a First Aid book and Felicia's own handouts. 
