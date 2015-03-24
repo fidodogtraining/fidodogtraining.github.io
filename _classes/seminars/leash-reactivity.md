@@ -6,10 +6,11 @@ duration: "12:00pm-1:30pm July 1, 2015"
 cost: "$30"
 ---
 
-Thinking of adding a furry friend to your dogless house or adopting a buddy for your 
-current canine pal? There's a lot to consider when the idea of bringing a dog home 
-comes up! What breed is best for you? Adopt or find a responsible breeder? Puppy 
-or an adult dog? We can give you the information you need to make a choice that 
-fits your household and give you an idea of what to expect when your new family 
-member comes home. From expenses to possible behavior problems, you need to be 
-prepared!
+If your dog barks, lunges, and growls when he spots another dog on walks, don't despair! We can help you with this
+very common problem! 
+
+Join us for a conversation on what leash reactivity is and where it stems from, how our response to it can amp things
+up, and how to (finally!) have a nice walk with your dog. 
+
+This is a limited space seminar, we only have room for 25 people! If you are interested please call and let us know
+you're coming. 
