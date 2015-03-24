@@ -1,8 +1,9 @@
 ---
-title: New Dog 101
-tagline: "Be prepared for a new pup"
-trainer: Sarah Maki 
-duration: "12:00pm-1:30pm June 6, 2015"
+title: Leash Reactivity
+tagline: "Take a FUN walk with your dog!"
+trainer: Tammy Crenshaw
+duration: "12:00pm-1:30pm July 1, 2015"
+cost: "$30"
 ---
 
 Thinking of adding a furry friend to your dogless house or adopting a buddy for your 
