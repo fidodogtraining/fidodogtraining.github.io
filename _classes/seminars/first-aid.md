@@ -3,7 +3,7 @@ title: First Aid
 tagline: "Canine First Aid"
 trainer: Felicia Asher 
 duration: "3:00pm-5:30pm July 25, 2015"
-cost: $45 per student
+price: $45 per student
 ---
 
 Learn First Aid basics, find out what should be in your canine emergency kit, and get the answers to common health questions! Felicia Asher, KPA Certified Dog Trainer and Licensed Veterinary Technician, will be teaching this 
