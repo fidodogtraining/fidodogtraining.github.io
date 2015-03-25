@@ -3,7 +3,7 @@ title: New Dog 101
 tagline: "Be prepared for a new pup"
 trainer: Sarah Maki 
 duration: "2:00pm-4:00pm August 1, 2015"
-cost: $40 per person
+Price: "$40 per person"
 ---
 
 Thinking of adding a furry friend to your dogless house or adopting a buddy for your 
