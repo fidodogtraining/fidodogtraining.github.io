@@ -3,7 +3,7 @@ title: Leash Reactivity
 tagline: "Take a FUN walk with your dog!"
 trainer: Tammy Crenshaw
 duration: "12:00pm-1:30pm July 1, 2015"
-cost: "$30"
+price: "$30 per person"
 ---
 
 If your dog barks, lunges, and growls when he spots another dog on walks, don't despair! We can help you with this
