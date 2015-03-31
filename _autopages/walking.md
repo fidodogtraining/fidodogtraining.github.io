@@ -1,5 +1,7 @@
 ---
 title: Walking
+regions:
+  contact: true
 ---
 <img class="right" src="/images/walk.jpg" alt="" />
 **Happy Dog Walking** - Fido Personal Dog Training has been walking dogs since 

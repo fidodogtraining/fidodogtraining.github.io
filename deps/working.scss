@@ -499,6 +499,9 @@ svg:not(:root) {
       background-color: $secondary;
       color: $light;
     }
+  .highlight h2 {
+    margin-top: .2em;
+  }
 .icon {}
   .icon:before {
     color: hex-add($primary, 2);

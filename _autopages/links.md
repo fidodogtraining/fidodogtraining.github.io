@@ -1,6 +1,8 @@
 ---
 title: Links
 exclude: true
+regions:
+  blog: true
 ---
 
 ## Great Websites

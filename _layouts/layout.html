@@ -30,6 +30,9 @@
   {% include nav.html %}
   {% if page.regions.splash %}{% include splash.html %}{% endif %}
 	{{ content }}
+  {% if page.regions.free %}{% include free.html %}{% endif %}
+  {% if page.regions.contact %}{% include contact.html %}{% endif %}
+  {% if page.regions.blog %}{% include blog.html %}{% endif %}
   {% if page.regions.cta %}{% include cta.html %}{% endif %}
   {% if page.regions.testimonials %}{% include testimonials.html %}{% endif %}
   {% include footer.html %}

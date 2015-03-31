@@ -1,6 +1,8 @@
 ---
 title: Training Tips
 exclude: true
+regions:
+  blog: true
 ---
   1.
     ## Always set your dog up for success

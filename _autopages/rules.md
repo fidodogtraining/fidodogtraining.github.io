@@ -1,6 +1,8 @@
 ---
 title: Rules for Class
 exclude: true
+regions:
+  contact: true
 ---
   1.
     ## No Choke or Prong collars

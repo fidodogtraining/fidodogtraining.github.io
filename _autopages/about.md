@@ -1,5 +1,7 @@
 ---
 title: About
+regions:
+  contact: true
 ---
 
 ![FIDO is at 703 Livernois in Ferndale, MI](/images/fido_building.png)

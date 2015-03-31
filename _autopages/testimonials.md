@@ -2,6 +2,7 @@
 title: Testimonials
 exclude: true
 regions:
+  contact: true
   cta: true
 ---
 

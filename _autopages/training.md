@@ -1,5 +1,7 @@
 ---
 title: Training
+regions:
+  contact: true
 ---
 <img class="right" src="/images/training.jpg" alt="" />
 In addition to [classes](/classes), we offer multiple training options to suit your needs.
