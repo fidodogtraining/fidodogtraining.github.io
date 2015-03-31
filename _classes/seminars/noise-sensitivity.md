@@ -3,6 +3,7 @@ title: "Noise sensitivity"
 tagline: "How to help your pup cope with storms and scary noises"
 trainer: Sarah Maki
 duration: "2:00pm-3:30pm June 6, 2015"
+price: "$30 per person"
 ---
 
 If your dogs starts to quiver before the rain even starts or has a difficult recovering 
