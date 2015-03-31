@@ -404,7 +404,6 @@ svg:not(:root) {
       background: rgba(hex-add($primary,1),.85);
     }
 .cards {
-  clear: both;
   list-style: none;
   margin: 5px 0 0;
   overflow: hidden;
@@ -431,11 +430,16 @@ svg:not(:root) {
       margin: .5em 0;
     }
 .class-brief {
-  background: transparent top right scroll no-repeat;
-  box-sizing: border-box;
-  min-height: 200px;
-  padding: 0 320px 0 0;
+  border-bottom: 1px solid hex-add($light, -1);
+  overflow: hidden;
+  padding: 1em 0;
 }
+  .class-brief h2 {
+    margin-top: 0;
+  }
+  .class-brief img {
+    max-height: 220px;
+  }
 .clear {
   clear: both;
   display: block;

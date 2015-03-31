@@ -1,4 +1,5 @@
-<div class="class-brief" id="{{ include.class.url | slugify }}"{% if include.class.image %} style="background-image: url('/images/classes/{{ include.class.image }}');"{% endif %}>
+<div class="class-brief" id="{{ include.class.url | slugify }}">
+  {% if include.class.image %}<img class="right" src="/images/classes/{{ include.class.image }}" alt="" />{% endif %}
   <h2 itemprop="name headline"><a href="{{ include.class.url }}">{{ include.class.title }}</a></h2>
   <p>{{ include.class.tagline }}</p>
   <ul class="sessions cards">
