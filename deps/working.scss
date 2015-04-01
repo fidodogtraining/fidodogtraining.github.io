@@ -434,6 +434,9 @@ svg:not(:root) {
   overflow: hidden;
   padding: 1em 0;
 }
+  .class-brief:last-child {
+    border-bottom: 0 none;
+  }
   .class-brief h2 {
     margin-top: 0;
   }
@@ -576,6 +579,9 @@ ul.inline {
       }
 .print-break {
   page-break-before: always;
+}
+.separator {
+  border-bottom: 1px solid;
 }
 .smaller {
   font-size: .75em;
