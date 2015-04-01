@@ -438,7 +438,7 @@ svg:not(:root) {
     margin-top: 0;
   }
   .class-brief img {
-    max-height: 220px;
+    max-width: 180px;
   }
 .clear {
   clear: both;
@@ -765,7 +765,7 @@ section.region {}
     margin-bottom: 0;
   }
 .splash {
-  background: hex-add($light, -1) url('images/bg_puppy_class.jpg') top left scroll no-repeat;
+  background: hex-add($light, -1) url('images/bg_new_class.jpg') top left scroll no-repeat;
   background-size: cover;
   color: $light;
   min-height: 145px;
