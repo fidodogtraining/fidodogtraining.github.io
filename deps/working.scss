@@ -403,6 +403,14 @@ svg:not(:root) {
     .captioned:hover .caption {
       background: rgba(hex-add($primary,1),.85);
     }
+  @media all and (max-width: 960px) {
+    .captioned {
+      position: static;
+    }
+      .captioned .caption {
+        position: static;
+      }
+  }
 .cards {
   list-style: none;
   margin: 5px 0 0;
@@ -443,6 +451,11 @@ svg:not(:root) {
   .class-brief img {
     max-width: 180px;
   }
+  @media all and (max-width: 400px) {
+    .class-brief img {
+      display: none;
+    }
+  }
 .clear {
   clear: both;
   display: block;
@@ -463,6 +476,14 @@ svg:not(:root) {
     box-shadow: 0 0 2px rgba($text,.25);
     float: right;
     margin: 0 0 1.5em 1.5em;
+  }
+  @media all and (max-width: 650px) {
+    .left,
+    .right {
+      display: block;
+      float: none;
+      margin: 0 auto 1.5em;
+    }
   }
 .grid {}
   .grid h3 {
@@ -577,6 +598,18 @@ ul.inline {
       .menu > li > a.active {
         color: $tertiary;
       }
+      @media all and (max-width: 560px) {
+        .menu > li {
+          float: none;
+        }
+          .menu > li > a {
+            border-bottom: 1px solid hex-add($light, -3);
+            display: block;
+          }
+            .menu > li > a.first {
+              margin: 0;
+            }
+      }
 .print-break {
   page-break-before: always;
 }
@@ -682,6 +715,64 @@ ul.inline {
   text-align: center;
   text-shadow: 2px 2px 1px rgba(hex-add($primary,1),.5);
 }
+  @media all and (max-width: 760px) {
+    .tagline {
+      font-size: 1.5em;
+    }
+  }
+.testimonial-brief {
+  background: hex-add($light, -1);
+  border: 0;
+  margin: 1em 0 3em;
+  padding: 1em;
+  position: relative;
+}
+  .testimonial-brief:before {
+    border-color: hex-add($light, -1) transparent;
+    border-style: solid;
+    border-width: 20px 20px 0;
+    bottom: -20px;
+    content: "";
+    display: block;
+    left: 10%;
+    position: absolute;
+    width: 0;
+  }
+    .testimonial-brief:nth-child(odd):before {
+      left: 80%;
+    }
+  .testimonial-brief:after {
+    clear: both;
+    content: ' ';
+    display: table;
+  }
+  .testimonial-brief:nth-child(odd) {
+    text-align: right;
+  }
+  .testimonial-brief a {
+    color: hex-add($light, -10);
+    text-decoration: none;
+  }
+    .testimonial-brief a:hover {
+      color: $secondary;
+    }
+  .testimonial-brief h2 {
+    margin: 0;
+  }   
+  .testimonial-brief img {
+    box-shadow: 0 0 2px rgba($text,.25);
+    float: right;
+    margin: 0 0 0 1em;
+    max-width: 100px;
+  }
+    .testimonial-brief:nth-child(odd) img {
+      float: left;
+      margin: 0 1em 0 0;
+    }
+  .testimonial-brief p {
+    color: hex-add($light, -5);
+    margin: .25em 0;
+  }
 .title {
   margin-top: 0;
 }
@@ -751,6 +842,15 @@ header.region {
     float: left;
     margin: 5px 20px 0 0;
   }
+  @media all and (max-width: 780px) {
+    header.region {
+      text-align: center;
+    }
+    .actions,
+    .logo-link {
+      float: none;
+    }
+  }
 nav.region {
   background-color: hex-add($primary, 2);
   box-shadow: 0 2px 2px rgba(hex-add($primary,1),.5);
@@ -759,6 +859,16 @@ nav.region {
 }
   nav.region > .inner {
     padding: 0;
+  }
+  @media all and (max-width: 720px) {
+    nav.region {
+      font-size: .75em;
+    }
+  }
+  @media all and (max-width: 560px) {
+    nav.region {
+      font-size: inherit;
+    }
   }
 section.region {}
   section.region > .inner {
@@ -799,6 +909,11 @@ section.region {}
     margin: 2.5em 0 .5em;
     margin-top: 21vw;
   }
+  @media all and (max-width: 415px) {
+    .splash .list-no abbr {
+      display: none;
+    }
+  }
 .region-cta {
   background: hex-add($light, -1) url('images/bestdetroit2014.jpg') top left scroll no-repeat;
   background-size: cover;
@@ -830,6 +945,7 @@ section.region {}
     vertical-align: baseline;
   }
     .pre-footer button {
+      margin-bottom: 0;
       vertical-align: bottom;
     }
     .pre-footer input {
@@ -840,6 +956,11 @@ section.region {}
     color: $light;
     display: inline-block;
     margin: 0 20px 0 0;
+  }
+  @media all and (max-width: 960px) {
+    .pre-footer {
+      padding: .3em 20px .65em;
+    }
   }
 footer.region {
   background-color: hex-add($light, -11);
@@ -854,7 +975,7 @@ footer.region {
       background-size: cover;
       height: 240px;
       min-width: 170px;
-      width: 43vw;
+      width: 52vw;
     }
       footer.region .location > .map {
         display: block;
@@ -863,11 +984,24 @@ footer.region {
       }
       @media all and (min-width: 960px) {
         footer.region .location {
-          width: 625px;
+          width: 735px;
+        }
+      }
+      @media all and (max-width: 960px) {
+        footer.region .location {
+          height: inherit;
+        }
+          footer.region .location > .map {
+            height: 90px
+          }
+      }
+      @media all and (max-width: 560px) {
+        footer.region .location {
+          width: inherit;
         }
       }
     footer.region .social {
-      text-align: right;
+      float: none;
     }
   footer.region .menu > li {
     float: none;
@@ -883,6 +1017,17 @@ footer.region {
       footer.region .menu > li > a.first {
         margin-top: -1em;
       }
+  @media all and (max-width: 960px) {
+    footer.region {
+      padding: 25px 20px 0;
+    }
+  }
+  @media all and (max-width: 560px) {
+    footer.region > .inner > div {
+      float: none;
+      margin: 0 0 20px;
+    }
+  }
 .copyright {
   background-color: hex-add($light, -12);
   color: hex-add($light, -5);
@@ -902,57 +1047,8 @@ footer.region {
   .affiliations img {
     max-height: 75px;
   }
-  
-  .testimonial-brief {
-    background: hex-add($light, -1);
-    border: 0;
-    margin: 1em 0 3em;
-    padding: 1em;
-    position: relative;
-  }
-    .testimonial-brief:before {
-      border-color: hex-add($light, -1) transparent;
-      border-style: solid;
-      border-width: 20px 20px 0;
-      bottom: -20px;
-      content: "";
+  @media all and (max-width: 400px) {
+    .affiliations a {
       display: block;
-      left: 10%;
-      position: absolute;
-      width: 0;
     }
-      .testimonial-brief:nth-child(odd):before {
-        left: 80%;
-      }
-    .testimonial-brief:after {
-      clear: both;
-      content: ' ';
-      display: table;
-    }
-    .testimonial-brief:nth-child(odd) {
-      text-align: right;
-    }
-    .testimonial-brief a {
-      color: hex-add($light, -10);
-      text-decoration: none;
-    }
-      .testimonial-brief a:hover {
-        color: $secondary;
-      }
-    .testimonial-brief h2 {
-      margin: 0;
-    }   
-    .testimonial-brief img {
-      box-shadow: 0 0 2px rgba($text,.25);
-      float: right;
-      margin: 0 0 0 1em;
-      max-width: 100px;
-    }
-      .testimonial-brief:nth-child(odd) img {
-        float: left;
-        margin: 0 1em 0 0;
-      }
-    .testimonial-brief p {
-      color: hex-add($light, -5);
-      margin: .25em 0;
-    }
+  }
