@@ -14,12 +14,9 @@ regions:
     {% if page.assistant %}<p>Assistant: {{ page.assistant }}</p>{% endif %}
     {% if page.duration %}<p>Duration: {{ page.duration }}</p>{% endif %}
     {% if page.price %}<p>Price: {{ page.price }}</p>{% endif %}
+    {% if page.square %}<a class="button" href="{{ page.square }}" target="_blank">Sessions/Register</a>{% endif %}
   </aside>
 	<div itemprop="articleBody">
 		{{ content }}
 	</div>
-  {% if page.sessions.size >= 1 %}<h2>Sessions</h2>{% endif %}
-  <ul class="sessions cards">
-  {% for s in page.sessions %}<li class="card">{% include event_brief.html session=s %}</li>{% endfor %}
-  </ul>
 </div></article>

@@ -4,6 +4,7 @@ tagline: "Canine First Aid"
 trainer: Felicia Asher 
 duration: "3:00pm-5:30pm July 25, 2015"
 price: "$45 per student"
+square: "https://squareup.com/market/FidoPersonalDogTraining/seminars"
 ---
 
 Learn First Aid basics, find out what should be in your canine emergency kit, and get the answers to common health questions! Felicia Asher, KPA Certified Dog Trainer and Licensed Veterinary Technician, will be teaching this 

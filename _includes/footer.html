@@ -11,45 +11,47 @@
   <div class="more">
   {% assign pages = site.autopages | sort:"weight" %}
   <ul class="menu">
-    <li><a class="first" href="http://www.fidoblog.com/">FIDO Blog</a></li>
+    <li><a class="first" href="http://www.fidoblog.com/" target="_blank">FIDO Blog</a></li>
     {% for p in pages %}{% if p.exclude %}
     <li><a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">{{ p.title }}</a></li>
     {% endif %}{% endfor %}
   </ul>
   </div>
   <div class="location captioned">
-    <a class="map" href="https://www.google.com/maps/place/703+Livernois+Ave,+Ferndale,+MI+48220/">
-      <div class="caption"><div class="inner">
-        <address class="inline-block" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-          <span itemprop="legalName">FIDO Personal Dog Training, LLC</span><br>
-          <span itemprop="streetAddress">703 Livernois Ave</span><br>
-          <span itemprop="addressLocality">Ferndale</span>, <span itemprop="addressRegion">MI</span> <span itemprop="postalCode">48220</span>
-        </address>
-        <div class="inline-block smaller">
-          <strong>Tammy</strong>: (313) 204-6154<br>
-          <strong>Sarah</strong>: (248) 854-5540<br>
-          <strong>Fax</strong>: (248) 398-8600<br>
-          fidofetch@sbcglobal.net
-        </div>
-      </div></div>
+    <a class="map" href="https://www.google.com/maps/place/703+Livernois+Ave,+Ferndale,+MI+48220/" target="_blank">
+      
     </a>
+    <div class="caption"><div class="inner">
+      <address class="inline-block" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <span itemprop="legalName">FIDO Personal Dog Training, LLC</span><br>
+        <span itemprop="streetAddress">703 Livernois Ave</span><br>
+        <span itemprop="addressLocality">Ferndale</span>, <span itemprop="addressRegion">MI</span> 
+         <span itemprop="postalCode">48220</span>
+      </address>
+      <div class="inline-block smaller">
+        <strong>Tammy</strong>: (313) 204-6154<br>
+        <strong>Sarah</strong>: (248) 854-5540<br>
+        <strong>Fax</strong>: (248) 398-8600<br>
+        fidofetch@sbcglobal.net
+      </div>
+    </div></div>
   </div>
   {% include socials.html %}
 </div></footer>
 <div class="region copyright"><div class="inner">
   <p>&copy; Copyright {{ site.time | date: '%Y' }} FIDO Personal Dog Training, LLC.</p>
-  <p><a href="http://www.github.com/fidodogtraining/fidodogtraining.github.io">Github source</a></p>
+  <p><a href="http://www.github.com/fidodogtraining/fidodogtraining.github.io" target="_blank">Github source</a></p>
   <div class="affiliations">
-    <a href="http://www.ccpdt.org/">
+    <a href="http://www.ccpdt.org/" target="_blank">
       <img alt="" src="/images/affiliations/cpdt-ka.png" />
     </a>
-    <a href="http://www.associationofanimalbehaviorprofessionals.com/pillars.html">
+    <a href="http://www.associationofanimalbehaviorprofessionals.com/pillars.html" target="_blank">
       <img alt="" src="/images/affiliations/aabp.png" />
     </a>
-    <a href="https://apdt.com/about/">
+    <a href="https://apdt.com/about/" target="_blank">
       <img alt="" src="/images/affiliations/apdt.png" />
     </a>
-    <a href="http://catchdogtrainers.com/who-we-are/">
+    <a href="http://catchdogtrainers.com/who-we-are/" target="_blank">
       <img alt="" src="/images/affiliations/catch.png" />
     </a>
   </div>

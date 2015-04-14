@@ -7,11 +7,7 @@ trainer: Tammy Crenshaw
 assistant: Sarah Maki
 duration: "4 weeks"
 price: "$160 each class"
-sessions:
- - start: 2015-05-09 15:00:00 -0500
-   end: 2015-05-30 16:00:00 -0500
- - start: 2015-09-12 15:00:00 -0500
-   end: 2015-10-03 16:00:00 -0500
+square: "https://squareup.com/market/FidoPersonalDogTraining/advanced-field-trip-aft-web"
 ---
 
 Our Advanced Field Trip class takes you and your dog out and about to work 

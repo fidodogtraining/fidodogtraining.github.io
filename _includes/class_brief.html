@@ -2,7 +2,5 @@
   {% if include.class.image %}<a href="{{ include.class.url }}"><img class="right" src="/images/classes/{{ include.class.image }}" alt="" /></a>{% endif %}
   <h2 itemprop="name headline"><a href="{{ include.class.url }}">{{ include.class.title }}</a></h2>
   <p>{{ include.class.tagline }}</p>
-  <ul class="sessions cards">
-  {% for s in include.class.sessions %}<li class="card">{% include event_brief.html session=s %}</li>{% endfor %}
-  </ul>
+  {% if include.class.square %}<a class="button" href="{{ include.class.square }}" target="_blank">Sessions/Register</a>{% endif %}
 </div>

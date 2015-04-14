@@ -7,13 +7,7 @@ trainer: Tammy Crenshaw
 assistant: Sarah Maki
 duration: "6 weeks"
 price: "$250, includes clicker"
-sessions:
- - start: 2015-01-03 11:00:00 -0500
-   end: 2015-02-07 12:00:00 -0500
- - start: 2015-01-08 17:30:00 -0500
-   end: 2015-02-12 18:30:00 -0500
- - start: 2015-02-26 17:30:00 -0500
-   end: 2015-04-02 18:30:00 -0500
+square: "https://squareup.com/market/FidoPersonalDogTraining/puppy-wednesday-june-th-july-th-pm"
 ---
 
 

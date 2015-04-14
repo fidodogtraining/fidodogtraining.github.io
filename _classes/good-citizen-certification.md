@@ -5,7 +5,7 @@ tagline: "American Kennel Club Canine Good Citizen Certification"
 image: cgc.jpg
 trainer: Tammy Crenshaw, Sarah Maki
 duration: "4 weeks"
-sessions:
+square: "https://squareup.com/market/FidoPersonalDogTraining/canine-good-citizen-cgc-web"
 ---
 An American Kennel Club endorsed title that promotes responsible dog ownership 
 and good doggy manners.

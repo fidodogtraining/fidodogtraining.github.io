@@ -7,9 +7,7 @@ trainer: Tammy Crenshaw
 assistant: Sarah Maki
 duration: "6 weeks"
 price: "$250, includes clicker"
-sessions:
- - start: 2015-02-21 11:00:00 -0500
-   end: 2015-03-28 12:00:00 -0500
+square: "https://squareup.com/market/FidoPersonalDogTraining/intermediate-web"
 ---
 You’ve laid a solid training foundation, successfully added distance, duration and distraction, improved your own training skills… Now, let’s sharpen your understanding of how your dog communicates with you and the world! Dogs tell us a lot through body language, so the better we understand what they're saying, the better our relationship with them! 
 
