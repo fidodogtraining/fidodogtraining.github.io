@@ -605,6 +605,7 @@ ul.inline {
           .menu > li > a {
             border-bottom: 1px solid hex-add($light, -3);
             display: block;
+            padding: .25em 2em;
           }
             .menu > li > a.first {
               margin: 0;
