@@ -8,6 +8,7 @@ sass:
   style: :compressed
 gems:
   - jemoji
+  - jekyll-sitemap
 
 ## Site structure
 collections:
