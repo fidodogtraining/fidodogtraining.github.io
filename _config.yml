@@ -46,7 +46,7 @@ defaults:
 title: FIDO Personal Dog Training
 primary_author: "FIDO Personal Dog Training, LLC."
 shortname: Fido
-baseurl: http://www.fidodogtraining.com
+baseurl: http://fidodogtraining.com
 email: fidofetch@sbcglobal.net
 phone: 313-204-6154
 gaid: UA-12803971-1
