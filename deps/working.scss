@@ -963,6 +963,19 @@ section.region {}
       padding: .3em 20px .65em;
     }
   }
+  @media all and (max-width: 860px) {
+    .pre-footer h2 {
+      margin: 0 0 .5em;
+    }
+  }
+  @media all and (max-width: 400px) {
+    .pre-footer {
+      text-align: center;
+    }
+    .pre-footer input {
+      margin: 0 auto 20px;
+    }
+  }
 footer.region {
   background-color: hex-add($light, -11);
   padding: 25px 0 0;
