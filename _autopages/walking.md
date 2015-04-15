@@ -11,7 +11,8 @@ insured, adult dog walkers who *love* dogs.
 We have many long-term clients, and their dogs are as important
 to us as our own. We provide dog-walking services for the following
 Michigan communities: Ferndale, Oak Park, Pleasant Ridge, Berkley,
-Royal Oak, and Huntington Woods.
+Royal Oak, and Huntington Woods. To set up a walking schedule for your dog, or if you have any questions about our 
+service, call Sarah at 248-854-5540
 
 ## Services
 
@@ -36,6 +37,7 @@ Your pet, safe at home while you travel! We will pamper your pooch while you are
 
 Sitting starts at **$65 per night**. Dog Walking and Pet Sitting on Holidays is an 
 additional $10 per day (New Year's Day, Easter, Thanksgiving Day and Christmas Day) 
-Additional fees apply for clients outside of service area, please call for a price.
+Additional fees apply for clients outside of service area, please call Sarah at 248-854-5540 for a price or to 
+schedule a sitter for your pooch. 
 
 <aside class="clear">Happy Dog Walking Services is a service of Fido Personal Dog Training, LLC.</aside>
