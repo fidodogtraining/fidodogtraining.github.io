@@ -6,11 +6,10 @@ regions:
 
 ![FIDO is at 703 Livernois in Ferndale, MI](/images/fido_building.png)
 
-At Fido Personal Dog Training we use up to date science and reward based Positive 
-Reinforcement training methods, which includes clicker training. We are here to help 
-dog owners communicate with their dogs in a manner that the dog can understand. To 
-help educate the dog owning public in what Positive Reinforcement Training, is really 
-about, and to do so in a manner that promotes the betterment and wellbeing of both.
+At Fido Personal Dog Training we use up-to-date science and reward based positive 
+reinforcement training methods, which includes clicker training. We are here to help 
+dog owners communicate with their dogs in a manner that the dog can understand. We strive to 
+educate the public about positive reinforcment training and to do so in a manner that promotes the betterment and wellbeing of both dogs and their people.
 
 <section class="region">
 ## Tammy Crenshaw
