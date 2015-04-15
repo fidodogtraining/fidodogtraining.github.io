@@ -28,9 +28,9 @@ human and dog can truly understand, I hope to do my part in making dog and human
 better place.
 
 In my training, I use only science based, force free methods. My first-hand experience has 
-shown me that this is the most rewarding, compassionate and effective way to train a dog. 
-I believe Positive reinforcement methods are much less stressful on dogs than 
-punishment-based methods. In fact, most dogs look forward to and even enjoy clicker 
+shown me that this is the most rewarding, compassionate, and effective way to train a dog. 
+I believe positive reinforcement methods are much less stressful on dogs than 
+punishment based methods. In fact, most dogs look forward to and even enjoy clicker 
 training sessions!
 
 I graduated from Animal Behavioral College with honors in 2006. I continued my studies 
@@ -72,7 +72,7 @@ named Tchotchke. The three of them keep me on my toes and provide plenty of oppo
 ## Laura Witkowski
 ### Assistant Trainer, Dog Walker
 <img class="right" src="/images/laura.jpg" alt="" />
-Laura Witkowski is one of our assistant dog trainers. She loves all things dog, animal behavior and reward based training. She is also a stand up comedian and writer. Laura lives in Hamtramck with her girlfriend Jamie and their two pit bulls: Asha the snuggle pup and Gomez the friendly barbarian.
+Laura Witkowski is one of our assistant dog trainers. She loves all things dog, animal behavior and reward based training. She is also a stand up comedian and writer. Laura lives in Hamtramck with her girlfriend, Jamie, and their two pit bulls: Asha the snuggle pup and Gomez the friendly barbarian.
 </section>
 <section class="region">
 ## Lindsay Flatter
@@ -102,7 +102,8 @@ Kelli loves and respects all animals, and as a result, has been vegan since 2001
 ## Beth
 ### Dog Walker, Pet Sitter
 <img class="right" src="/images/beth.jpg" alt="" />
-Beth has a biography. It starts with these two sentences.
+A lifelong animal lover, Beth is comfortable with cats, rats, anyone with four legs! Nervous dogs appreciate her
+calm personality, making her our go-to sitter for pups that stress when their people are away. 
 </section>
 
 <section class="region">
