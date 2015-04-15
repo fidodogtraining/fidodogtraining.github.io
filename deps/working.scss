@@ -1067,3 +1067,21 @@ footer.region {
       display: block;
     }
   }
+  
+  @media print {
+    header.region,
+    nav.region,
+    .splash,
+    .region-cta,
+    .region-testimonials,
+    .pre-footer,
+    footer.region,
+    .copyright {
+      display: none;
+    }
+    
+    * {
+      background: transparent !important;
+      color: #000 !important;
+    }
+  }
