@@ -384,6 +384,10 @@ svg:not(:root) {
     color: $light;
     padding: 5px;
   }
+    .caption a {
+      color: $light;
+      text-decoration: none;
+    }
   .captioned .caption {
     background: rgba(hex-add($primary,1),.5);
     bottom: 0;
