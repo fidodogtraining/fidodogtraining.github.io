@@ -118,10 +118,3 @@ calm personality, making her our go-to sitter for pups that stress when their pe
 <img class="right" src="/images/christy.jpg" alt="" />
 Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is currently enrolled in the CATCH program to become a certified dog trainer! Christy has three dog of her own; a pit mix named Palmer, a bulldog mix named Penny, and her Labrabdor, Pearl. 
 </section>
-
-<section class="region">
-## Emily
-### Dog Walker, Pet Sitter
-<img class="right" src="/images/emily.jpeg" alt="" />
-Emily is a born and raised Michigander who loves the outdoors—sun or snow! She graduated from the University of Michigan in 2009 with a degree in Brain, Behavior, and Cognitive Science, which shines through with her natural ability to work with all kinds of dogs! In her spare time Emily enjoys backcountry camping, rock climbing, spoiling her dog, Layla, and spending as much time outside as she can (preferably in the company of dogs).
-</section>
