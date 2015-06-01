@@ -5,7 +5,7 @@ tagline: "Take the next step"
 image: basic-2.jpg
 trainer: Sarah Maki
 duration: "6 weeks"
-price: "$245, includes clicker"
+price: "$250, includes clicker"
 square: "https://squareup.com/market/FidoPersonalDogTraining/basic-web-1"
 ---
 Challenge your dog and take training further! Dogs that have completed our Basic One class or can demonstrate a strong basic skill set are welcome to join us for this fast-moving class where we add distance, distraction, and duration to our cues. 
