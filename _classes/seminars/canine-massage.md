@@ -2,7 +2,7 @@
 title: Canine Massage
 tagline: "Canine Massage"
 trainer: Holly Schutlz
-duration: "3:00pm-4:30pm July 25, 2015"
+duration: "3:00pm-4:30pm July 18, 2015"
 price: "$35 per student"
 square: "https://squareup.com/market/FidoPersonalDogTraining/seminars"
 ---
