@@ -13,5 +13,5 @@ very common problem!
 Join us for a conversation on what leash reactivity is and where it stems from, how our response to it can amp things
 up, and how to (finally!) have a nice walk with your dog. 
 
-This is a limited space seminar, we only have room for 25 people! If you are interested please call and let us know
+This is a limited space seminar, we only have room for 25 people (no dogs at this one, folks). If you are interested please call and let us know
 you're coming. 
