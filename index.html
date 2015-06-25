@@ -28,7 +28,7 @@ regions:
   {% assign args = class.url | split: '/' %}
   {% assign args = args | size %}
   {% unless args > 3 %}
-    <li><a href="/classes/#{{ class.url | slugify }}">{{ class.title }}</a></li>
+    <li><a href="{{ class.url }}">{{ class.title }}</a></li>
   {% endunless %}
   {% endfor %}
   </ul><br />
