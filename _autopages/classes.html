@@ -15,35 +15,6 @@ so sign up now to save your spot! To register:</p>
 <p>All dogs must have age-appropriate vaccinations in order to attend class. Please see the 
 <a href="/images/fido_agree_rules.pdf">Customer Agreement</a> for the required vaccinations.</p>
 
-<strong class="clear">Classes</strong>
-<ul class="inline anchors">
-{% for class in classes %}
-{% assign args = class.url | split: '/' %}
-{% assign args = args | size %}
-{% unless args > 3 %}
-  <li><a href="#{{ class.url | slugify }}">{{ class.title }}</a></li>
-{% endunless %}
-{% endfor %}
-</ul>
-
-<strong class="clear">Mini courses</strong>
-<ul class="inline anchors">
-{% for class in classes %}
-{% if class.url contains 'mini-courses' %}
-  <li><a href="#{{ class.url | slugify }}">{{ class.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
-
-<strong class="clear">Seminars</strong>
-<ul class="inline anchors">
-{% for class in classes %}
-{% if class.url contains 'seminars' %}
-  <li><a href="#{{ class.url | slugify }}">{{ class.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
-
 {% comment %} Main classes (brief template) {% endcomment %}
 {% for class in classes %}
 {% assign args = class.url | split: '/' %}
