@@ -193,6 +193,17 @@ h6 {
 }
 
 /*-Form-*/
+fieldset {}
+  legend {}
+label {
+  display: inline-block;
+  min-width: 8.5em;
+}
+.form-item {
+  display: block;
+  margin: 1.5em 0;
+}
+
 button, input, select, textarea {
   font-size: 100%;
   margin: 0;
