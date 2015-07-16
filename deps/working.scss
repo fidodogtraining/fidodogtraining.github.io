@@ -193,10 +193,17 @@ h6 {
 }
 
 /*-Form-*/
-fieldset {}
-  legend {}
+fieldset {
+  border: 1px solid hex-add($primary, 1);
+  margin: 1.5em 0;
+}
+  legend {
+    color: $secondary;
+    font-size: 2em;
+  }
 label {
   display: inline-block;
+  font-weight: bold;
   min-width: 8.5em;
 }
 .form-item {
