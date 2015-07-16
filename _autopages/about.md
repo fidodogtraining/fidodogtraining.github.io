@@ -118,3 +118,12 @@ calm personality, making her our go-to sitter for pups that stress when their pe
 <img class="right" src="/images/christy.jpg" alt="" />
 Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is currently enrolled in the CATCH program to become a certified dog trainer! Christy has three dog of her own; a pit mix named Palmer, a bulldog mix named Penny, and her Labrabdor, Pearl. 
 </section>
+
+<section class="region">
+## Marisa 
+### Dog Walker, Pet Sitter
+<img class="right" src="/images/marisa.jpg" alt="" />
+Marisa's empathy for animals was instilled early. As a child, her mother taught her to care for the family's 
+numerous pets, including dogs, cats, gerbils, even hermit crabs!  Her latest family member is Winnie, a rescued jack
+russell terrier mix.
+</section>
