@@ -1,6 +1,6 @@
 ---
 title: After School Special
-tagline: "Responsible Dog Handlin for the Young Trainer"
+tagline: "Responsible Dog Handling for the Young Trainer"
 trainer: Tammy Crenshaw, Sarah Maki
 image: llw.jpg
 duration: "3 weeks"
