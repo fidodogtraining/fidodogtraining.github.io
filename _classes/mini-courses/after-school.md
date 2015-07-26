@@ -2,7 +2,7 @@
 title: After School Special
 tagline: "Responsible Dog Handling for the Young Trainer"
 trainer: Tammy Crenshaw, Sarah Maki
-image: afterschool.JPG
+image: afterschool.jpg
 duration: "3 weeks"
 price: "$120"
 square: "https://squareup.com/market/FidoPersonalDogTraining/after-school-special"
