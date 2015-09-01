@@ -1,5 +1,5 @@
 ---
-title: Training
+title: One-on-One Training
 regions:
   contact: true
 ---
@@ -22,6 +22,8 @@ phone or email.
 This is a great option for new puppy parents who need help socializing as well as 
 adult dogs who have developed bad habits.
 
+Cost: Day training starts at $1650 for a 6 week program.
+
 ## Private lessons at our office
 
 Dog behaving badly? Need more personal attention than a group class allows? Schedule 
@@ -31,6 +33,8 @@ are having.
 This option is perfect for dogs who cannot attend a group class for any 
 reason. Our office allows a safe space for your dog to work through his struggles 
 and learn new, better manners. 
+
+Cost: In office lessons start at $110 per session. Please call for details.
 
 <img class="right" src="/images/home-training.jpg" alt="" />
 ## Private lessons in your home
@@ -42,3 +46,5 @@ we can address the problem in the environment it is happening in.
 
 Dogs who aren't eligible for a group class, are nervous in new places, or are troubled 
 travelers benefit from having us conduct an in-home appointment. 
+
+Cost: In home training starts at $120 per hour. Please call for details. 
