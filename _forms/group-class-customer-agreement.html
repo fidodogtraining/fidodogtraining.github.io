@@ -4,6 +4,8 @@ regions:
   contact: true
 ---
 
+<p>Please see the bottom of the page for terms, conditions, and other applicable 
+  text.</p>
 <form method="POST" action="//formspree.io/fidofetch@sbcglobal.net">
   <fieldset><legend>About you</legend>
     <div class="form-item">
@@ -99,25 +101,42 @@ regions:
     </div>
     <fieldset><legend>Veterinary info</legend>
       <div class="form-item">
-        <label for="ownerName1">Owner Name 1</label>
-        <input type="text" id="ownerName1" name="ownerName1" placeholder="John Doe" />
+        <label for="spayneuter">Spayed/Neutered?</label>
+        <select id="spayneuter" name="spayneuter">
+          <option value="spayed">Spayed</option>
+          <option value="neutered">Neutered</option>
+          <option value="not">Neither</option>
+        </select>
       </div>
     </fieldset>
   </fieldset>
 
-
-
   <fieldset><legend>Class</legend>
     <div class="form-item">
-      <label for="ownerName1">Owner Name 1</label>
-      <input type="text" id="ownerName1" name="ownerName1" placeholder="John Doe" />
+      <label for="startingdate">Class starting date</label>
+      <input type="date" id="startingdate" name="startingdate" />
     </div>
   </fieldset>
 
   <fieldset><legend>FIDO</legend>
     <div class="form-item">
-      <label for="ownerName1">Owner Name 1</label>
-      <input type="text" id="ownerName1" name="ownerName1" placeholder="John Doe" />
+      <label for="getemails">Newsletters</label>
+      <input type="checkbox" id="getemails" name="getemails" value="Agree" />
+      <div class="description">Receive periodic emails from FIDO about dog 
+      training, deals, and other communications.</div>
+    </div>
+    <div class="form-item">
+      <label for="heardfrom">How'd you hear about FIDO?</label>
+      <select id="heardfrom" name="heardfrom">
+        <option value="google">Google</option>
+        <option value="yahoo">Yahoo!</option>
+        <option value="bing">Bing</option>
+        <option value="facebook">Facebook</option>
+        <option value="wordofmouth">Word of mouth</option>
+        <option value="newspaper">Newspaper</option>
+        <option value="friend">Friend</option>
+        <option value="other">Other</option>
+      </select>
     </div>
   </fieldset>
 
@@ -135,18 +154,18 @@ regions:
   <input type="hidden" name="_subject" value="Group Class Owner Agreement" />
   <div class="form-item">
       <label for="ownerName1">Owner 1 Agree</label>
-      <input type="checkbox" id="ownerAgree1" name="ownerAgree1" required />
+      <input type="checkbox" id="ownerAgree1" name="ownerAgree1" required value="Agree" />
       <div class="description">Owner 1 listed above agrees to all terms and conditions 
       listed on this webpage.</div>
     </div>
     <div class="form-item">
       <label for="ownerName1">Owner 2 Agree</label>
-      <input type="checkbox" id="ownerAgree2" name="ownerAgree2" />
+      <input type="checkbox" id="ownerAgree2" name="ownerAgree2" value="Agree" />
       <div class="description">Owner 2 listed above agrees to all terms and conditions 
       listed on this webpage.</div>
     </div>
   <button type="submit">Send</button>
-  </form>
+</form>
 <aside>
   <h3>TERMS &amp; CONDITIONS</h3>
   <p>FIDO PERSONAL DOG TRAINING, LLC (Fido) cannot make any guarantee 
