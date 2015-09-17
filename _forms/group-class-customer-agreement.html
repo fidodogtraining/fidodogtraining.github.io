@@ -100,6 +100,20 @@ regions:
       </select>
     </div>
     <fieldset><legend>Veterinary info</legend>
+      <strong>Vaccination records</strong><br />
+      Proof of vaccinations within the last eleven (11) months is required with 
+      this registration form. Please have your Veterinarian fax your dog’s 
+      vaccination records to Fido @ (248) 398-8600 or email to FidoFetch@sbcglobal.net. 
+      The following vaccinations are required and must be received prior to class date.
+      <ul>
+        <li>DOGS ages over 6 months must be up-to-date on the following
+        vaccinations Dhppl , Rabies, Bordetella, Fecal and Heartworm (clean
+        fecal and heartworm within 30 days).</li>
+        <li>PUPPIES under the age 5 mo. require two (2) series of their puppy
+        vaccinations to be able to attend class. These include Dhlpp, Bordetella
+        and Fecal. Puppies younger then 6 months do not require a rabies
+        vaccination. Fecal should be done 30 days before class starts.</li>
+      </ul>
       <div class="form-item">
         <label for="spayneuter">Spayed/Neutered?</label>
         <select id="spayneuter" name="spayneuter">
@@ -108,6 +122,48 @@ regions:
           <option value="not">Neither</option>
         </select>
       </div>
+      <div class="form-item">
+        <strong>Medical conditions</strong><br />
+        <label for="epilepsy"><input type="checkbox" id="epilepsy" name="epilepsy" value="epilepsy" /> Epilepsy</label><br />
+        <label for="hipdysphasia"><input type="checkbox" id="hipdysphasia" name="hipdysphasia" value="epilepsy" /> Hip Dysphasia</label><br />
+        <label for="arthritis"><input type="checkbox" id="arthritis" name="arthritis" value="arthritis" /> Arthritis</label><br />
+        <label for="heartdisease"><input type="checkbox" id="heartdisease" name="heartdisease" value="heartdisease" /> Heart disease</label><br />
+        <label for="othermed">Other</label>
+        <input type="text" id="othermed" name="othermed" placeholder="IBS" />
+      </div>
+      <div class="form-item">
+        <label for="medications">Medications</label>
+        <input type="text" id="medications" name="medications" placeholder="Prozac" />
+        <div class="description">Please list all medications currently prescribed for the pet(s).</div>
+      </div>
+      <div class="form-item">
+        <label for="foodallergies">Known food allergies</label>
+        <input type="text" id="foodallergies" name="foodallergies" placeholder="Corn" />
+      </div>
+      <div class="form-item">
+        <label for="vetname">Veterinarian's name</label>
+        <input type="text" id="vetname" name="vetname" placeholder="Jane Doe" />
+      </div>
+      <div class="form-item">
+        <label for="vetphone">Vet phone</label>
+        <input type="tel" id="vetphone" name="vetphone" placeholder="(248) 555-1234" />
+      </div>
+      <div class="form-item">
+        <label for="vetaddress">Vet Address Line 1</label>
+        <input type="text" id="vetaddress" name="vetaddress" placeholder="123 Fake St" />
+      </div>
+      <div class="form-item">
+        <label for="vetaddress2">Vet Address Line 2</label>
+        <input type="text" id="vetaddress2" name="vetaddress2" placeholder="Apt 7" />
+      </div>
+      <div class="form-item">
+        <label for="vetcity">Vet City</label>
+        <input type="text" id="vetcity" name="vetcity" placeholder="Ferndale" />
+      </div>
+      <div class="form-item">
+        <label for="vetzipcode">Vet ZIP Code</label>
+        <input type="text" id="vetzipcode" name="vetzipcode" placeholder="48220" />
+      </div>
     </fieldset>
   </fieldset>
 
@@ -115,6 +171,20 @@ regions:
     <div class="form-item">
       <label for="startingdate">Class starting date</label>
       <input type="date" id="startingdate" name="startingdate" />
+    </div>
+    <div class="form-item">
+      <label for="class">Class</label>
+      <select id="class" name="class">
+        <option value="puppyone">Puppy 1 (6 week) - $250.00*</option>
+        <option value="puppytwo">Puppy 2 (6 week) - $250.00*</option>
+        <option value="basicone">Basic 1 (6 week) - $250.00*</option>
+        <option value="basictwo">Basic 2 (6 week) - $250.00*</option>
+        <option value="intermediate">Intermediate (6 week) - $250.00*</option>
+        <option value="minicourse">Mini Course (3 week) - $150.00</option>
+        <option value="advfieldtrip">Advanced Field Trip (4 week) - $160.00</option>
+        <option value="cgc">CGC (4 week) - $160.00</option>
+      </select>
+      <div class="description">*Price of class includes one clicker.</div>
     </div>
   </fieldset>
 
@@ -167,12 +237,12 @@ regions:
   <button type="submit">Send</button>
 </form>
 <aside>
-  <h3>TERMS &amp; CONDITIONS</h3>
+  <h3>Terms &amp; conditions</h3>
   <p>FIDO PERSONAL DOG TRAINING, LLC (Fido) cannot make any guarantee 
   regarding the outcome of any training/counseling program. The Owner 
   assumes full responsibility for the dog's behavior during and after the 
   training/counseling program.</p>
-  <h3>TERMINATION OF TRAINING</h3>
+  <h3>Termination of training</h3>
   <p>A $50.00 Dollar non-refundable deposit is required to secure your spot in any 
   class starting more than 2 weeks before the date you sign up and is applied to 
   the cost of the class. The remainder of the class fee must be paid in full 2 
@@ -191,21 +261,7 @@ regions:
   they recognize the risk of taking a group class with other people and their 
   pets. This risk is entered into with the Owner 100% responsible for their pet's 
   behavior at all times in the class environment.</p>
-  <h3>TRAINING EQUIPMENT</h3>
+  <h3>Training equipment</h3>
   <p>The Owner will be responsible for purchasing all necessary equipment that the 
   trainer recommends for training the dog(s).</p>
-  <h3>VACCINATION RECORDS</h3>
-Proof of vaccinations within the last eleven (11) months is required with this
-registration form. Please have your Veterinarian fax your dog’s vaccination
-records to Fido @ (248) 398-8600 or email to FidoFetch@sbcglobal.net. The
-following vaccinations are required and must be received prior to class date.
-<ul>
-  <li>DOGS ages over 6 months must be up-to-date on the following
-  vaccinations Dhppl , Rabies, Bordetella, Fecal and Heartworm (clean
-  fecal and heartworm within 30 days).</li>
-  <li>PUPPIES under the age 5 mo. require two (2) series of their puppy
-  vaccinations to be able to attend class. These include Dhlpp, Bordetella
-  and Fecal. Puppies younger then 6 months do not require a rabies
-  vaccination. Fecal should be done 30 days before class starts.</li>
-</ul>
 </aside>
