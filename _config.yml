@@ -21,6 +21,9 @@ collections:
   autopages:
     output: true
     permalink: /:title/
+  forms:
+    output: true
+    permalink: /forms/:title/
 
 defaults:
   -
@@ -41,6 +44,12 @@ defaults:
       type: "testimonials"
     values:
       layout: "testimonial"
+  -
+    scope:
+      path: ""
+      type: "forms"
+    values:
+      layout: "form"
 
 ## Basic site info
 title: FIDO Personal Dog Training
