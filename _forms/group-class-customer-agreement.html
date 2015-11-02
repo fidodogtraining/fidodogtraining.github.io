@@ -127,10 +127,22 @@ regions:
       </div>
       <div class="form-item">
         <strong>Medical conditions</strong><br />
-        <label for="epilepsy"><input type="checkbox" id="epilepsy" name="epilepsy" value="epilepsy" /> Epilepsy</label><br />
-        <label for="hipdysphasia"><input type="checkbox" id="hipdysphasia" name="hipdysphasia" value="epilepsy" /> Hip Dysphasia</label><br />
-        <label for="arthritis"><input type="checkbox" id="arthritis" name="arthritis" value="arthritis" /> Arthritis</label><br />
-        <label for="heartdisease"><input type="checkbox" id="heartdisease" name="heartdisease" value="heartdisease" /> Heart disease</label><br />
+        <label for="epilepsy">
+          <input type="hidden" name="epilepsy" value="" />
+          <input type="checkbox" id="epilepsy" name="epilepsy" value="epilepsy" /> Epilepsy
+        </label><br />
+        <label for="hipdysphasia">
+          <input type="hidden" name="hipdysphasia" value="" />
+          <input type="checkbox" id="hipdysphasia" name="hipdysphasia" value="hipdysphasia" /> Hip Dysphasia
+        </label><br />
+        <label for="arthritis">
+          <input type="hidden" name="arthritis" value="" />
+          <input type="checkbox" id="arthritis" name="arthritis" value="arthritis" /> Arthritis
+        </label><br />
+        <label for="heartdisease">
+          <input type="hidden" name="heartdisease" value="" />
+          <input type="checkbox" id="heartdisease" name="heartdisease" value="heartdisease" /> Heart disease
+        </label><br />
         <label for="othermed">Other</label>
         <input type="text" id="othermed" name="othermed" placeholder="IBS" />
       </div>
@@ -194,6 +206,7 @@ regions:
   <fieldset><legend>FIDO</legend>
     <div class="form-item">
       <label for="getemails">Newsletters</label>
+      <input type="hidden" name="getemails" value="" />
       <input type="checkbox" id="getemails" name="getemails" value="Agree" checked />
       <div class="description">Receive periodic emails from FIDO about dog 
       training, deals, and other communications.</div>
@@ -224,12 +237,14 @@ regions:
 
   <div class="form-item">
       <label for="ownerAgree1">Owner 1 Agree</label>
-      <input type="checkbox" id="ownerAgree1" name="ownerAgree1" required value="Agree" />
+      <input type="hidden" name="ownerAgree1" value="" />
+      <input type="checkbox" id="ownerAgree1" name="ownerAgree1" required value="Agree" checked />
       <div class="description">Owner 1 listed above agrees to all terms and conditions 
       listed on this webpage.</div>
     </div>
     <div class="form-item">
       <label for="ownerAgree2">Owner 2 Agree</label>
+      <input type="hidden" name="ownerAgree2" value="" />
       <input type="checkbox" id="ownerAgree2" name="ownerAgree2" value="Agree" />
       <div class="description">Owner 2 listed above agrees to all terms and conditions 
       listed on this webpage.</div>
