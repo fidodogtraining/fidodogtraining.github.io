@@ -122,7 +122,7 @@ Christy has worked with dogs professionally for three years. She has completed h
 <section class="region">
 ## Stephanie 
 ### Dog Walker, Pet Sitter
-<img class="right" src="/images/marisa.jpg" alt="" />
+<img class="right" src="/images/stephanie.jpg" alt="" />
 Stephanie is eagerly awaiting the right time to adopt and in the meantime, is happy to be considered the go-to pet 
 sitter for family and friends. As a dog bather at a busy pet salon, working daily with large groups of dogs made her
 appreciate and examine closely the diverse range of personalities each can possess. She is excited to build upon 
