@@ -116,14 +116,15 @@ calm personality, making her our go-to sitter for pups that stress when their pe
 ## Christy
 ### Dog Walker, Pet Sitter
 <img class="right" src="/images/christy.jpg" alt="" />
-Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is currently enrolled in the CATCH program to become a certified dog trainer! Christy has three dog of her own; a pit mix named Palmer, a bulldog mix named Penny, and her Labrabdor, Pearl. 
+Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is currently enrolled in the CATCH program to become a certified dog trainer! Christy has three dogs of her own; a pit mix named Palmer, a bulldog mix named Penny, and her Labrabdor, Pearl. 
 </section>
 
 <section class="region">
-## Marisa 
+## Stephanie 
 ### Dog Walker, Pet Sitter
 <img class="right" src="/images/marisa.jpg" alt="" />
-Marisa's empathy for animals was instilled early. As a child, her mother taught her to care for the family's 
-numerous pets, including dogs, cats, gerbils, even hermit crabs!  Her latest family member is Winnie, a rescued jack
-russell terrier mix.
+Stephanie is eagerly awaiting the right time to adopt and in the meantime, is happy to be considered the go-to pet 
+sitter for family and friends. As a dog bather at a busy pet salon, working daily with large groups of dogs made her
+appreciate and examine closely the diverse range of personalities each can possess. She is excited to build upon 
+this knowledge as a dog walker and looks forward to meeting some new furry faces.
 </section>
