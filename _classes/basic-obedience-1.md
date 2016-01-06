@@ -5,7 +5,7 @@ tagline: "The start of a good thing"
 image: basic.jpg
 trainer: Sarah Maki
 duration: "6 weeks"
-price: "$250, includes clicker, No dogs first class"
+price: "$255, includes clicker, No dogs first class"
 square: "https://squareup.com/market/FidoPersonalDogTraining/basic-web"
 ---
 
