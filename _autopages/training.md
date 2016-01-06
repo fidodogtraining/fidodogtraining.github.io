@@ -34,7 +34,7 @@ This option is perfect for dogs who cannot attend a group class for any
 reason. Our office allows a safe space for your dog to work through his struggles 
 and learn new, better manners. 
 
-Cost: In office lessons start at $110 per session. Please call for details.
+Cost: In office lessons start at $115 per session. Please call for details.
 
 <img class="right" src="/images/home-training.jpg" alt="" />
 ## Private lessons in your home
@@ -47,4 +47,6 @@ we can address the problem in the environment it is happening in.
 Dogs who aren't eligible for a group class, are nervous in new places, or are troubled 
 travelers benefit from having us conduct an in-home appointment. 
 
-Cost: In home training starts at $120 per hour. Please call for details. 
+Cost: In home training starts at $120 per hour. A $50 deposit will be taken in advance of your first appointment and applied
+to your first session. Your deposit will be forfieted if you cancel your appointment with less than 24 hours notice. Please
+call for details on scheduling. 
