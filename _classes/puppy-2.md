@@ -6,7 +6,7 @@ image: puppy-2.jpg
 trainer: Tammy Crenshaw
 assistant: Sarah Maki
 duration: "6 weeks"
-price: "$250 (includes clicker)"
+price: "$255 (includes clicker)"
 square: "https://squareup.com/market/FidoPersonalDogTraining/puppy-class-web"
 ---
 Your puppy is growing by leaps and bounds — and so is his brain! You’ll learn about 
