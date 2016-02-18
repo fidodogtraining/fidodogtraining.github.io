@@ -1,5 +1,4 @@
 ## Jekyll configs
-markdown: rdiscount
 permalink: /:year/:month/:day/:title/
 highlighter: rouge
 rdiscount:
