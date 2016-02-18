@@ -19,6 +19,7 @@ and pet sitting with our adult, insured staff allows you to schedule services at
 We would love to talk to you about your training or walking needs, please get in touch today!
 
 <section class="region">
+
 ## Tammy Crenshaw
 
 ### Owner, Head Trainer
@@ -48,8 +49,11 @@ private and group classes through my company Fido Personal Dog Training, LLC in 
 </section>
 
 <section class="region">
+
 ## Sarah Maki
+
 ### Head Trainer, Head Dog Walker
+
 <img class="right" src="/images/sarah.jpg" alt="" />
 In July of 2008 I adopted my best buddy, a then-4-year-old Tibetan Terrier. Sprocket was close to perfect 
 from the start; cute, cuddly, enthusiastic about giving kisses and taking walks. He did have one small 
@@ -77,8 +81,11 @@ named Tchotchke. The three of them keep me on my toes and provide plenty of oppo
 </section>
 
 <section class="region">
+
 ## Laura Witkowski
+
 ### Assistant Trainer, Dog Walker
+
 <img class="right" src="/images/laura.jpg" alt="" />
 Laura Witkowski loves all things dog, animal behavior and reward-based training. She is also a stand up comedian and writer.
 Laura lives in Hamtramck with her girlfriend, Jamie, and their two pit bulls: Asha the snuggle pup and Gomez the friendly 
