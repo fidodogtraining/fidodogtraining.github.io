@@ -20,7 +20,9 @@ We would love to talk to you about your training or walking needs, please get in
 
 <section class="region">
 ## Tammy Crenshaw
+
 ### Owner, Head Trainer
+
 <img class="right" src="/images/tammy.jpg" alt="" />
 
 I have lived with and loved dogs my whole life and have worked with them for 17 years. 
