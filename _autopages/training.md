@@ -37,6 +37,7 @@ and learn new, better manners.
 Cost: In office lessons start at $115 per session. Please call for details.
 
 <img class="right" src="/images/home-training.jpg" alt="" />
+
 ## Private lessons in your home
 
 We will come to you! Private, in-home training is customized to solve any issue 
