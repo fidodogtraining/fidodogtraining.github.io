@@ -31,6 +31,7 @@ if you have any questions about our service, call Sarah at 248-854-5540
   * Veterinary check ups - $35
 
 <img class="right" src="/images/sitting.jpg" alt="" />
+
 ## Overnight, in-home pet sitting
 
 Your pet, safe at home while you travel! We will pamper your pooch while you are 
