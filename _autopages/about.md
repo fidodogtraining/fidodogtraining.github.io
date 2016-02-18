@@ -92,9 +92,13 @@ Laura Witkowski loves all things dog, animal behavior and reward-based training.
 Laura lives in Hamtramck with her girlfriend, Jamie, and their two pit bulls: Asha the snuggle pup and Gomez the friendly 
 barbarian.
 </section>
+
 <section class="region">
+
 ## Lindsay Flatter
+
 ### Assistant Trainer, Dog Walker
+
 <img class="right" src="/images/lindsay.jpg" alt="" />
 Lindsay joined the FIDO team in September 2011 with over 17 years of experience in the pet care industry. 
 In addition to working for FIDO, her background ranges from working as a veterinary assistant, doggy daycare 
@@ -108,8 +112,11 @@ with her husband Brian and their two young children.
 </section>
 
 <section class="region">
+
 ## Kelli
+
 ### Dog Walker, Pet Sitter
+
 <img class="right" src="/images/kelli.jpg" alt="" />
 Kelli has been involved in animal rescue for many years. At 6 years old, she met a stray dog, and after placing ads and hanging fliers, convinced her parents to let her keep the unclaimed pup. They named her Pepper and she quickly became a cherished member of the family.
 
@@ -117,16 +124,22 @@ Kelli loves and respects all animals, and as a result, has been vegan since 2001
 </section>
 
 <section class="region">
+
 ## Beth
+
 ### Dog Walker, Pet Sitter
+
 <img class="right" src="/images/beth.jpg" alt="" />
 A lifelong animal lover, Beth is comfortable with cats, rats, anyone with four legs! Nervous dogs appreciate her
 calm personality, making her our go-to sitter for pups that stress when their people are away. 
 </section>
 
 <section class="region">
+
 ## Christy
+
 ### Assistant Trainer, Dog Walker, Pet Sitter
+
 <img class="right" src="/images/christy.jpg" alt="" />
 Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is currently
 enrolled in the CATCH program to become a certified dog trainer! Christy has three dogs of her own; a pit mix named Palmer, 
@@ -134,8 +147,11 @@ a bulldog mix named Penny, and her Labrabdor, Pearl.
 </section>
 
 <section class="region">
+
 ## Stephanie 
+
 ### Dog Walker, Pet Sitter
+
 <img class="right" src="/images/stephanie.jpg" alt="" />
 Stephanie is eagerly awaiting the right time to adopt and in the meantime, is happy to be considered the go-to pet 
 sitter for family and friends. As a dog bather at a busy pet salon, working daily with large groups of dogs made her
