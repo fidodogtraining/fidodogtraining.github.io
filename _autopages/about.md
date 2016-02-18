@@ -18,7 +18,7 @@ and pet sitting with our adult, insured staff allows you to schedule services at
 
 We would love to talk to you about your training or walking needs, please get in touch today!
 
-<section class="region">
+<div class="region">
 
 ## Tammy Crenshaw
 
@@ -47,9 +47,9 @@ by earning my certification through the Certification Council for Professional D
 as a Certified Professional Dog Trainer – Knowledge Assessed (CPDT-KA) in 2011. I offer 
 private and group classes through my company Fido Personal Dog Training, LLC in Ferndale, Michigan.
 
-</section>
+</div>
 
-<section class="region">
+<div class="region">
 
 ## Sarah Maki
 
@@ -79,9 +79,9 @@ with us, so that training feels like play instead of work.
 
 Sprocket has two sisters now: an English Lab named Molly Moo Cow, and an odd little poodle/muppet mix 
 named Tchotchke. The three of them keep me on my toes and provide plenty of opportunities to train every day.
-</section>
+</div>
 
-<section class="region">
+<div class="region">
 
 ## Laura Witkowski
 
@@ -91,8 +91,8 @@ named Tchotchke. The three of them keep me on my toes and provide plenty of oppo
 Laura Witkowski loves all things dog, animal behavior and reward-based training. She is also a stand up comedian and writer.
 Laura lives in Hamtramck with her girlfriend, Jamie, and their two pit bulls: Asha the snuggle pup and Gomez the friendly 
 barbarian.
-</section>
-<section class="region">
+</div>
+<div class="region">
 ## Lindsay Flatter
 ### Assistant Trainer, Dog Walker
 <img class="right" src="/images/lindsay.jpg" alt="" />
@@ -105,35 +105,35 @@ Therapy Dog candidate.
 
 When Lindsay isn't working or doing something dog related, you will likely find her spending quality time 
 with her husband Brian and their two young children. 
-</section>
+</div>
 
-<section class="region">
+<div class="region">
 ## Kelli
 ### Dog Walker, Pet Sitter
 <img class="right" src="/images/kelli.jpg" alt="" />
 Kelli has been involved in animal rescue for many years. At 6 years old, she met a stray dog, and after placing ads and hanging fliers, convinced her parents to let her keep the unclaimed pup. They named her Pepper and she quickly became a cherished member of the family.
 
 Kelli loves and respects all animals, and as a result, has been vegan since 2001. Her home is shared with clever, beautiful cats and a handsome, cat-loving Pit bull named Rōkō.
-</section>
+</div>
 
-<section class="region">
+<div class="region">
 ## Beth
 ### Dog Walker, Pet Sitter
 <img class="right" src="/images/beth.jpg" alt="" />
 A lifelong animal lover, Beth is comfortable with cats, rats, anyone with four legs! Nervous dogs appreciate her
 calm personality, making her our go-to sitter for pups that stress when their people are away. 
-</section>
+</div>
 
-<section class="region">
+<div class="region">
 ## Christy
 ### Assistant Trainer, Dog Walker, Pet Sitter
 <img class="right" src="/images/christy.jpg" alt="" />
 Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is currently
 enrolled in the CATCH program to become a certified dog trainer! Christy has three dogs of her own; a pit mix named Palmer, 
 a bulldog mix named Penny, and her Labrabdor, Pearl. 
-</section>
+</div>
 
-<section class="region">
+<div class="region">
 ## Stephanie 
 ### Dog Walker, Pet Sitter
 <img class="right" src="/images/stephanie.jpg" alt="" />
@@ -141,4 +141,4 @@ Stephanie is eagerly awaiting the right time to adopt and in the meantime, is ha
 sitter for family and friends. As a dog bather at a busy pet salon, working daily with large groups of dogs made her
 appreciate and examine closely the diverse range of personalities each can possess. She is excited to build upon 
 this knowledge as a dog walker and looks forward to meeting some new furry faces.
-</section>
+</div>
