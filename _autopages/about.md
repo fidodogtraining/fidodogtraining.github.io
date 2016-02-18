@@ -46,6 +46,7 @@ I graduated from Animal Behavioral College with honors in 2006. I continued my s
 by earning my certification through the Certification Council for Professional Dog Trainers 
 as a Certified Professional Dog Trainer – Knowledge Assessed (CPDT-KA) in 2011. I offer 
 private and group classes through my company Fido Personal Dog Training, LLC in Ferndale, Michigan.
+
 </section>
 
 <section class="region">
