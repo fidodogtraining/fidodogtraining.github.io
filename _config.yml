@@ -1,8 +1,8 @@
 ## Jekyll configs
 permalink: /:year/:month/:day/:title/
 highlighter: rouge
-rdiscount:
-  extensions: [smart]
+kramdown: 
+  parse_block_html: true
 sass:
   style: :compressed
 gems:
