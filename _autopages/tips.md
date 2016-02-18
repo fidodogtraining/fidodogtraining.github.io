@@ -4,6 +4,7 @@ exclude: true
 regions:
   blog: true
 ---
+
 ## Always set your dog up for success
 
 :dog: If you don't want Fido to chew your new shoes, don't leave them on the floor! 
