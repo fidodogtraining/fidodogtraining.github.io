@@ -71,14 +71,16 @@ really helps us to know our pup. __And it's fun!__ Positive Reinforcement traini
 with us, so that training feels like play instead of work.
 
 Sprocket has two sisters now: an English Lab named Molly Moo Cow, and an odd little poodle/muppet mix 
-named Tchotchke. The three of them keep me on my toes and provide plenty of opportunity to train every day.
+named Tchotchke. The three of them keep me on my toes and provide plenty of opportunities to train every day.
 </section>
 
 <section class="region">
 ## Laura Witkowski
 ### Assistant Trainer, Dog Walker
 <img class="right" src="/images/laura.jpg" alt="" />
-Laura Witkowski is one of our assistant dog trainers. She loves all things dog, animal behavior and reward based training. She is also a stand up comedian and writer. Laura lives in Hamtramck with her girlfriend, Jamie, and their two pit bulls: Asha the snuggle pup and Gomez the friendly barbarian.
+Laura Witkowski loves all things dog, animal behavior and reward-based training. She is also a stand up comedian and writer.
+Laura lives in Hamtramck with her girlfriend, Jamie, and their two pit bulls: Asha the snuggle pup and Gomez the friendly 
+barbarian.
 </section>
 <section class="region">
 ## Lindsay Flatter
@@ -114,9 +116,11 @@ calm personality, making her our go-to sitter for pups that stress when their pe
 
 <section class="region">
 ## Christy
-### Dog Walker, Pet Sitter
+### Assistant Trainer, Dog Walker, Pet Sitter
 <img class="right" src="/images/christy.jpg" alt="" />
-Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is currently enrolled in the CATCH program to become a certified dog trainer! Christy has three dogs of her own; a pit mix named Palmer, a bulldog mix named Penny, and her Labrabdor, Pearl. 
+Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is currently
+enrolled in the CATCH program to become a certified dog trainer! Christy has three dogs of her own; a pit mix named Palmer, 
+a bulldog mix named Penny, and her Labrabdor, Pearl. 
 </section>
 
 <section class="region">
