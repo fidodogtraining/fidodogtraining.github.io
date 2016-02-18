@@ -1,7 +1,7 @@
 ## Jekyll configs
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-highlighter: pygments
+highlighter: rouge
 rdiscount:
   extensions: [smart]
 sass:
