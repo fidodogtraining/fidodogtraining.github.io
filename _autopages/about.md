@@ -91,6 +91,9 @@ named Tchotchke. The three of them keep me on my toes and provide plenty of oppo
 Laura Witkowski loves all things dog, animal behavior and reward-based training. She is also a stand up comedian and writer.
 Laura lives in Hamtramck with her girlfriend, Jamie, and their two pit bulls: Asha the snuggle pup and Gomez the friendly 
 barbarian.
+
+In February of 2016 Laura was accepted into The Academy for Dog Trainers and is currently studying to become a certified dog
+trainer. 
 </section>
 
 <section class="region">
