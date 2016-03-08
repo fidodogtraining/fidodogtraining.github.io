@@ -133,7 +133,7 @@ with her husband Brian and their two young children.
 
 <section class="region">
 
-## Kelli
+## Kelli Marshall
 
 ### Dog Walker, Pet Sitter
 
@@ -145,7 +145,7 @@ Kelli loves and respects all animals, and as a result, has been vegan since 2001
 
 <section class="region">
 
-## Beth
+## Beth Delaney
 
 ### Dog Walker, Pet Sitter
 
@@ -156,7 +156,7 @@ calm personality, making her our go-to sitter for pups that stress when their pe
 
 <section class="region">
 
-## Christy
+## Christy Hopkins
 
 ### Assistant Trainer, Dog Walker, Pet Sitter
 
@@ -168,7 +168,7 @@ a bulldog mix named Penny, and her Labrabdor, Pearl.
 
 <section class="region">
 
-## Stephanie 
+## Stephanie Chisholm
 
 ### Dog Walker, Pet Sitter
 
