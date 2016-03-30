@@ -2,7 +2,7 @@
 title: Leash Reactivity
 tagline: "Take a FUN walk with your dog!"
 trainer: Tammy Crenshaw
-duration: "11:00am-1:00pm July 16, 2016"
+duration: "check back for upcoming dates"
 price: "$30 per person"
 square: "https://squareup.com/market/FidoPersonalDogTraining/seminars"
 ---
