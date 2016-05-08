@@ -1,9 +1,9 @@
 ---
 title: Loose Leash Walking
 tagline: "Your best friend, right by your side"
-trainer: Tammy Crenshaw, Sarah Maki
+trainer: Tammy Crenshaw, Sarah Maki, Felicia Asher
 image: llw.jpg
-duration: "4 weeks"
+duration: "3 weeks"
 price: "$165"
 square: "https://squareup.com/market/FidoPersonalDogTraining/loose-leash-walking-llw-web"
 ---
