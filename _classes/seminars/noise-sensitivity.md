@@ -2,7 +2,7 @@
 title: "Noise sensitivity"
 tagline: "How to help your pup cope with storms and scary noises"
 trainer: Sarah Maki
-duration: "5:30-7:00pm June 3, 2016"
+duration: "watch this space for upcoming dates"
 price: "$30 per person"
 square: "https://squareup.com/market/FidoPersonalDogTraining/seminars"
 ---
