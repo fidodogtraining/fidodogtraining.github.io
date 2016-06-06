@@ -16,4 +16,5 @@ and strengthening the basic cues learned in Puppy 1 as well as adding new cues
 such as ‘on your spot,’ ‘watch’ and ‘leave it.’ We’ll also still have plenty of 
 playtime to keep your pup’s socialization skills sharp!
 
-This class is only for graduates of our Puppy 1 class, and will prepare your dog for Basic 2
+This class is for graduates of our Puppy 1 class or puppies between 5-6 months old that have not had prior training and will 
+prepare your dog for Basic 2
