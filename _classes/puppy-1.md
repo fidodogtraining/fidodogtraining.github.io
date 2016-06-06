@@ -17,7 +17,7 @@ We’ll teach you the basics of clicker training and help you tackle and underst
 
 Just as importantly, your puppy will learn about and experience other dogs, people and new environments — all important to your pup’s social development! Each class includes several short, carefully-controlled play sessions to help your puppy learn the acceptable rules of social interaction with other dogs. 
 
-This class is for pups between the ages of 2 1/2 to 5 months old. Puppies must have two rounds of vaccinations before
-attending class. 
+This class is for pups between the ages of 2 1/2 to 4 months old. Puppies between 5-6 months old are welcome to join our 
+Puppy 2 class but are not eligible for Puppy 1. Puppies must have two rounds of vaccinations before attending class. 
 
 _Please, come join the fun! Your puppy will love you for it_
