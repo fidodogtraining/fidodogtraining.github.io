@@ -2,7 +2,7 @@
 title: Neophobia 
 tagline: "What to do when your dog is afraid of EVERYTHING"
 trainer: Tammy Crenshaw 
-duration: "12:00pm-1:30pm June 6, 2015"
+duration: "stay posted for upcoming dates5"
 price: $30 per person
 square: "https://squareup.com/market/FidoPersonalDogTraining/seminars"
 ---
