@@ -16,8 +16,14 @@ motor skills develop. We’ll review management and training strategies to decre
 for all and identify fun ways to keep your dog safely included in daily activities. Please note that this is a 
 humans-only seminar. 
 
+Cathy Reisfield is founder, head trainer and parent educator at Dependable Dogs®, a company based in Ann Arbor MI Arbor that 
+specializes in training, education and support services for individuals and families who share their homes with dogs. 
+Formally educated as a therapist with degrees from the University of Pennsylvania, she is a parent, a grandparent, a former 
+clinician with 30 years of experience, and an eighteen year veteran in the field of dog training. Dependable Dogs business 
+tagline best sums up her approach in working with families: “Training for Success at Both Ends of the Leash®”
+
 Family Paws™ Parent Education is the parent organization of two International licensed programs: 
-Dogs & Storks® and Dogs & Toddlers™ . 
+Dogs & Storks® and Dogs & Toddlers™. 
 
 Licensed Educators with Family Paws provide specialized programs for new and expecting families with dogs. 
 We offer a wide range of support to families, dog professionals, childbirth, childcare and health professionals 
