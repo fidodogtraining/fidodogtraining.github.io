@@ -13,7 +13,8 @@ your child’s developmental milestones and dog behavior to promote safe interac
 This seminar is for parents, grandparents, childcare professionals and others interested in supporting 
 successful and safer dog and toddler interactions. You’ll learn how to help your dog adjust as your child’s 
 motor skills develop. We’ll review management and training strategies to decrease stress and increase safety 
-for all and identify fun ways to keep your dog safely included in daily activities.
+for all and identify fun ways to keep your dog safely included in daily activities. Please note that this is a 
+humans-only seminar. 
 
 Family Paws™ Parent Education is the parent organization of two International licensed programs: 
 Dogs & Storks® and Dogs & Toddlers™ . 
