@@ -36,6 +36,8 @@ and learn new, better manners.
 
 Cost: In office lessons start at $115 per session. Please call for details.
 
+<a class="button" href="https://squareup.com/store/FidoPersonalDogTraining/item/in-office">Make a deposit</a>
+
 <img class="right" src="/images/home-training.jpg" alt="" />
 
 ## Private lessons in your home
