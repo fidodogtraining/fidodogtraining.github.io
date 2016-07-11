@@ -37,7 +37,7 @@ and learn new, better manners.
 Cost: In office lessons start at $115 per session. A $75 deposit is required to hold your appointment. Please call for 
 details.
 
-<a class="button" href="https://squareup.com/store/FidoPersonalDogTraining/item/deposit-for-private-lesson>Make a deposit</a>
++<a class="button" href="https://squareup.com/store/FidoPersonalDogTraining/item/deposit-for-private-lesson">Make a deposit</a>
 
 <img class="right" src="/images/home-training.jpg" alt="" />
 
@@ -53,4 +53,5 @@ travelers benefit from having us conduct an in-home appointment.
 
 Cost: In home training starts at $120 per hour. A $75 non-refundable deposit is required to hold your appointment time. 
 
-<a class="button" href="https://squareup.com/store/FidoPersonalDogTraining/item/deposit-for-private-lesson>Make a deposit</a>
++<a class="button" href="https://squareup.com/store/FidoPersonalDogTraining/item/deposit-for-private-lesson">Make a deposit</a>
+
