@@ -34,7 +34,8 @@ This option is perfect for dogs who cannot attend a group class for any
 reason. Our office allows a safe space for your dog to work through his struggles 
 and learn new, better manners. 
 
-Cost: In office lessons start at $115 per session. Please call for details.
+Cost: In office lessons start at $115 per session. A $75 deposit is required to hold your appointment. Please call for 
+details.
 
 <a class="button" href="https://squareup.com/store/FidoPersonalDogTraining/item/in-office">Make a deposit</a>
 
@@ -50,4 +51,4 @@ we can address the problem in the environment it is happening in.
 Dogs who aren't eligible for a group class, are nervous in new places, or are troubled 
 travelers benefit from having us conduct an in-home appointment. 
 
-Cost: In home training starts at $120 per hour. A $50 non-refundable deposit is required to hold your appointment time. 
+Cost: In home training starts at $120 per hour. A $75 non-refundable deposit is required to hold your appointment time. 
