@@ -106,8 +106,7 @@ dragon and a cantankerous rat snake.
 
 <img class="right" src="/images/laura.jpg" alt="" />
 Laura Witkowski loves all things dog, animal behavior and reward-based training. She is also a stand up comedian and writer.
-Laura lives in Hamtramck with her girlfriend, Jamie, and their two pit bulls: Asha the snuggle pup and Gomez the friendly 
-barbarian.
+Laura lives with her two pit bulls: Asha the snuggle pup and Gomez the friendly barbarian.
 
 In February of 2016 Laura was accepted into The Academy for Dog Trainers and is currently studying to become a certified dog
 trainer. 
