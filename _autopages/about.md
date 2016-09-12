@@ -83,6 +83,34 @@ named Tchotchke. The three of them keep me on my toes and provide plenty of oppo
 
 <section class="region">
 
+## Jean Carew
+
+### Head Trainer
+
+<img class="right" src="/images/jean.jpg" alt="" />
+Jean Carew is a nationally certified Force Free Trainer. She spends her time living 
+her passion; teaching dogs and their owners how to develop a better relationship 
+through training. She trains in both private and group class settings at all levels. 
+Jean is passionate about all dogs, but has a soft spot in her heart for those that 
+are fearful or aggressive. As a result, she co-developed one of the area’s most 
+successful reactive dog class programs. 
+
+Jean is a member in good standing with both APDT (Association of Professional Dog 
+Trainers) and PPG (Professional Pet Guild). For the past several years she has been 
+the owner of Sit Stay Swim, an indoor swim fitness and training facility in Garden 
+City.  While there, she taught owners and their dogs the benefits of warm water 
+swim therapy and relationship-building.  
+
+Jean also has a passion for rescue. She has spent the last decade volunteering her 
+time ensuring proper placement and integration of dogs from all walks of life.
+
+While at home, she shares her life with her 3 amazing children, her husband, three 
+beautiful rescue dogs, and one crazy rescue cat.
+
+</section>
+
+<section class="region">
+
 ## Felicia Asher
 
 ### Head Trainer
@@ -132,6 +160,38 @@ with her husband Brian and their two young children.
 
 <section class="region">
 
+## Christy Hopkins
+
+### Assistant Trainer, Dog Walker, Pet Sitter
+
+<img class="right" src="/images/christy.jpg" alt="" />
+Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is currently
+enrolled in the CATCH program to become a certified dog trainer! Christy has three dogs of her own; a pit mix named Palmer, 
+a bulldog mix named Penny, and her Labrabdor, Pearl. 
+</section>
+
+<section class="region">
+
+## Alissa Sullivan
+
+### Assistant Trainer
+
+<img class="right" src="/images/alissa.jpg" alt="" />
+Hi there! My name is Alissa.I have over 10 years experience as a vet tech and am 
+currently working towards becoming a Certified Professional Dog Trainer (CPDT). 
+I have been working with animals - volunteering at shelters and rescues as well as 
+pet sitting and dog walking- for almost 20 years and have experience with all breeds 
+of dogs and cats, as well as exotics & even large mammals. My volunteer work with 
+some amazing rescue organizations has given me the opportunity to provide care for 
+animals from all walks of life. I enjoy animals and learning about them so much, I 
+have chosen to make their care and well-being my career. I believe that the more 
+education you have, the more knowledge you can share, and that leads to a better 
+relationship between owners and their pets! 
+
+</section>
+
+<section class="region">
+
 ## Kelli Marshall
 
 ### Dog Walker, Pet Sitter
@@ -155,18 +215,6 @@ calm personality, making her our go-to sitter for pups that stress when their pe
 
 <section class="region">
 
-## Christy Hopkins
-
-### Assistant Trainer, Dog Walker, Pet Sitter
-
-<img class="right" src="/images/christy.jpg" alt="" />
-Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is currently
-enrolled in the CATCH program to become a certified dog trainer! Christy has three dogs of her own; a pit mix named Palmer, 
-a bulldog mix named Penny, and her Labrabdor, Pearl. 
-</section>
-
-<section class="region">
-
 ## Stephanie Chisholm
 
 ### Dog Walker, Pet Sitter
@@ -176,4 +224,19 @@ Stephanie is eagerly awaiting the right time to adopt and in the meantime, is ha
 sitter for family and friends. As a dog bather at a busy pet salon, working daily with large groups of dogs made her
 appreciate and examine closely the diverse range of personalities each can possess. She is excited to build upon 
 this knowledge as a dog walker and looks forward to meeting some new furry faces.
+</section>
+
+<section class="region">
+
+## Molly Laich
+
+### Dog Walker, Pet Sitter
+
+<img class="right" src="/images/molly.jpg" alt="" />
+For the past three years, Molly's been working as a pet care professional in the 
+greater Seattle area. She's since returned home to Michigan and can't wait to start 
+up again with dogs, cats and other. A lifelong animal lover, Molly adopted a senior 
+rottweiler named Dorothy Parker two years ago (not pictured), and they've been best 
+friends ever since.
+
 </section>
