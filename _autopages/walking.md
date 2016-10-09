@@ -4,7 +4,7 @@ regions:
   contactsarah: true
 ---
 <img class="right" src="/images/walk.jpg" alt="" />
-**Happy Dog Walking** - Fido Personal Dog Training has been walking dogs since 
+**Fido Dog Walking and Pet Sitting Service** - Fido Personal Dog Training has been walking dogs since 
 1996 in the Southeast Oakland County area in Michigan. We are dependable, 
 insured, adult dog walkers who *love* dogs.
 
@@ -27,7 +27,7 @@ if you have any questions about our service, call Sarah at 248-854-5540
   * 30 minute Let Out - $20
   * 30 minute Walks - $20 (add $5.00 for more than one dog)
   * 60 minute Walks - $35 (add $5 more for more than one dog)
-  * Pick up and drop off at groomers or day care- $20 
+  * Pick up and drop off at groomers or day care- $20 each way
   * Veterinary check ups - $35
 
 <img class="right" src="/images/sitting.jpg" alt="" />
@@ -44,4 +44,4 @@ additional $10 per day (New Year's Day, Easter, Thanksgiving Day and Christmas D
 Additional fees apply for clients outside of service area, please call Sarah 
 at 248-854-5540 for a price or to schedule a sitter for your pooch. 
 
-<aside class="clear">Happy Dog Walking Services is a service of Fido Personal Dog Training, LLC.</aside>
+<aside class="clear">Fido Dog Walking and Pet Sitting Service is a service of Fido Personal Dog Training, LLC.</aside>
