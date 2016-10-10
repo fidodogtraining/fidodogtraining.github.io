@@ -111,23 +111,6 @@ beautiful rescue dogs, and one crazy rescue cat.
 
 <section class="region">
 
-## Felicia Asher
-
-### Head Trainer
-
-<img class="right" src="/images/Felicia.JPG" alt="" />
-Caring for and comfortable with a variety of species since she could walk, everyone knew Felicia would have a career with 
-animals. After graduating Summa Cum Laude from Macomb Community College's Veterinary Technician Program, she became licensed
-in 2010 and has been working in the veterinary medical field for almost 10 years. Though she loves every aspect of being a
-vet tech, animal behavior has always been a passion. In 2014, Felicia became a certified professional dog trainer through
-the Karen Pryor Academy of Animal Training and Behavior (KPA-CTP) a positive reinforcement, reward-based methodology with
-emphasis in clicker training. She currently shares her home with two talented pitbulls, two inquisitive cats, a bearded
-dragon and a cantankerous rat snake.
-
-</section>
-
-<section class="region">
-
 ## Laura Witkowski
 
 ### Assistant Trainer, Dog Walker
