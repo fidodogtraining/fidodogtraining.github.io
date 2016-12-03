@@ -9,7 +9,7 @@ regions:
   <img src="/images/2020/fuzzball-after.jpg" alt="" />
 </div></div>
 Your dog deserves to look great without stress. As with our training programs, Fido's Gray Dog Grooming 
-has your dog’s safety and comfort as our highest priority.
+was designed with your dog’s safety and comfort in mind. 
 
 Our brand-new facility features a stainless-steel tub lined with noise-canceling 
 matting, and a host of other features to ensure your pup’s comfort.
@@ -23,6 +23,7 @@ different:
   * Strategically pre-trim heavy coats to speed drying time
   * Provide guidance, handouts, and videos to prepare for a visit
   * Drop your dog off at home free of charge (with the option for a walk too!)
+  * Walk-in floor tub for dogs that are too large for normal grooming tubs
 
 Call now [(248) 854-5540] to schedule an appointment and get an estimate.
 
