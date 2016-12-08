@@ -5,8 +5,8 @@ tagline: "Set your dog up for a lifetime of success"
 image: puppy.jpg
 trainer: Tammy Crenshaw
 assistant: Sarah Maki
-duration: "6 weeks"
-price: "$255, includes clicker"
+duration: "8 weeks"
+price: "$345, includes clicker"
 square: "https://squareup.com/market/FidoPersonalDogTraining/puppy-wednesday-june-th-july-th-pm"
 ---
 
