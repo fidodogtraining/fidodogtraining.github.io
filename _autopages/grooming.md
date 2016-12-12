@@ -25,7 +25,7 @@ different:
   * Drop your dog off at home free of charge (with the option for a walk too!)
   * Walk-in floor tub for dogs that are too large for normal grooming tubs
 
-Call now [(248) 854-5540] to schedule an appointment and get an estimate.
+Call now [(248) 854-5540] to schedule an appointment and get an estimate. [Fill out the grooming agreement](/forms/grooming-customer-agreement/) prior to your appointment.
 
 <aside class="clear">
   Gray Dog Grooming is a service of Fido Personal Dog Training, LLC.
