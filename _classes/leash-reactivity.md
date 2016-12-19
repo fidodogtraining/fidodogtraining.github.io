@@ -4,6 +4,7 @@ title: Leash Reactivity
 tagline: "Skills to help the leash reactive dog"
 trainer: Laura Witkowski
 assistant: Jane Wolff
+image: vocalizing.jpg
 duration: "6 weeks"
 price: "$285"
 square: "https://squareup.com/dashboard/items/library/ANN4LXFSCFBKGFFEKLBBK62L"
