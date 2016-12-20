@@ -68,8 +68,8 @@ Calling on the services of a professional, I had Tammy out to the house to see i
 
 From the first 'click' of the clicker, Sprocket and I were hooked on Positive Reinforcement Training. 
 Seeing his eyes light up as he realized that he could make good things happen by obeying cues was amazing. 
-I couldn't get enough of that reaction, so now I'm an Animal Behavior College Certified Dog Trainer, 
-and my passion is my career.
+I couldn't get enough of that reaction, and in 2009 I graduated with honors from Animal Behavior College, 
+and my passion became my career.
 
 I love getting people to that "lightbulb" moment with their dogs: where dog and person learn to communicate 
 with each other, maybe for the first time ever. Training our dogs is so satisfying; it deepens our bond and 
