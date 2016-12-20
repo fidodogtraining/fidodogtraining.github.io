@@ -20,7 +20,7 @@ Fido also offers comfortable grooming, done by an experienced dog trainer who wi
 and coach them through the process. Our new salon has a host of features to make a visit to the groomer an enjoyable 
 day instead of something to dread.
 
-We would love to talk to you about your training, grooming, sitting, or walking needs, please get in touch today!
+We would love to talk to you about your training, grooming, sitting, or walking needs. Please get in touch today!
 
 <section class="region">
 
@@ -57,32 +57,36 @@ private and group classes through my company Fido Personal Dog Training, LLC in 
 
 ## Sarah Maki
 
-### Head Trainer, Head Dog Walker
+### Head Trainer, Groomer, Office Manager
 
 <img class="right" src="/images/sarah.jpg" alt="" />
 In July of 2008 I adopted my best buddy, a then-4-year-old Tibetan Terrier. Sprocket was close to perfect 
 from the start; cute, cuddly, enthusiastic about giving kisses and taking walks. He did have one small 
 problem, though: he was a cat chaser!
 
-With three felines in the house, dog-chases-cat was more than a minor issue. Calling on the services of 
-a professional, I had Tammy out to the house to see if my animals could live in harmony.
+Calling on the services of a professional, I had Tammy out to the house to see if my animals could live in harmony.
 
-From the first 'click' of Tammy's clicker, Sprocket and I were hooked on Positive Reinforcement training. 
+From the first 'click' of the clicker, Sprocket and I were hooked on Positive Reinforcement Training. 
 Seeing his eyes light up as he realized that he could make good things happen by obeying cues was amazing. 
-Turning the clicker over to me, Tammy showed me how to teach Sprocket some basic cues. Watching me work 
-with him, she remarked that I had good instincts and that I should consider becoming a dog trainer!
-
-I took her words to heart. I've always been an animal lover, and making a career out of working with dogs 
-sounded right up my alley! Now I'm an Animal Behavior College Certified Dog Trainer, and I know I've found 
-my passion.
+I couldn't get enough of that reaction, so now I'm an Animal Behavior College Certified Dog Trainer, 
+and my passion is my career.
 
 I love getting people to that "lightbulb" moment with their dogs: where dog and person learn to communicate 
 with each other, maybe for the first time ever. Training our dogs is so satisfying; it deepens our bond and 
 really helps us to know our pup. __And it's fun!__ Positive Reinforcement training motivates our dogs to work 
 with us, so that training feels like play instead of work.
 
-Sprocket has two sisters now: an English Lab named Molly Moo Cow, and an odd little poodle/muppet mix 
-named Tchotchke. The three of them keep me on my toes and provide plenty of opportunities to train every day.
+After adopting my third dog (a silly little muppet mix named Tchotchke), I realized there was another thing I could 
+do to help further the Postitive Reinforcement message; learn to groom in a way that respects the dog's boundaries. Trips 
+to the groomer were always stressful. Sprocket and Tchothcke would have to be dragged into the tub and came home exhausted 
+and clearly unhappy. I didn't like putting them through it, but their coats needed professional care. Even my English Lab,
+Molly, hated going for baths, and she's a pretty easy-going gal. I became determined to find another way, and attended Bingo
+Institute of Grooming to learn how to bathe, clip and scissor. 
+
+Fido's Gray Dog Grooming opened its doors in Decemeber 2016 an I couldn't be prouder. My years of experience in canine body
+language let me recognize when a dog needs coaching, a different method, or just a break. The team at Fido gave their input and 
+we designed a salon that minimizes stress and truly is something special. We hope you'll check us out and know you'll see the 
+difference between "assembly line" groomers and what we're doing here.
 </section>
 
 <section class="region">
