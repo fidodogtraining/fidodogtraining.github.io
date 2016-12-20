@@ -16,7 +16,11 @@ Our clients enjoy small classes in our convenient Ferndale office and our carefu
 the best of the best in toys, treats, and other products to assist in your training. In-home training, dog walking, 
 and pet sitting with our adult, insured staff allows you to schedule services at your convenience. 
 
-We would love to talk to you about your training or walking needs, please get in touch today!
+Fido also offers comfortable grooming, done by an experienced dog trainer who will respect your dog's stress levels 
+and coach them through the process. Our new salon has a host of features to make a visit to the groomer an enjoyable 
+day instead of something to dread.
+
+We would love to talk to you about your training, grooming, sitting, or walking needs, please get in touch today!
 
 <section class="region">
 
