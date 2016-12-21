@@ -7,7 +7,7 @@ assistant: Jane Wolff
 image: vocalizing.jpg
 duration: "6 weeks"
 price: "$285"
-square: "https://squareup.com/dashboard/items/library/ANN4LXFSCFBKGFFEKLBBK62L"
+square: "https://squareup.com/dashboard/items/library/2UM7SC342KGONBEHZYKN3WXF"
 ---
 If your dog barks and lunges at other dogs on leash, this 6 week class might be 
 for you! We will focus on skills to help your dog better be able to cope when 
