@@ -1,7 +1,7 @@
 ---
 weight: 7
 title: Grooming Prep
-tagline: "Handling and counterconditioning to reduce stress"
+tagline: "Reducing salon stress"
 trainer: Sarah Maki
 assistant: varies
 image: vocalizing.jpg
