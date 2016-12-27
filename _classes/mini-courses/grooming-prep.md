@@ -4,7 +4,7 @@ title: Grooming Prep
 tagline: "Reducing salon stress"
 trainer: Sarah Maki
 assistant: varies
-image: vocalizing.jpg
+image: grooming.jpg
 duration: "2 weeks"
 price: "$110"
 square: "https://squareup.com/store/FidoPersonalDogTraining/item/grooming-prep-class"
