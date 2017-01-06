@@ -4,25 +4,7 @@ regions:
   contact: true
 ---
 <img class="right" src="/images/training.jpg" alt="" />
-In addition to [classes](/classes), we offer multiple training options to suit your needs.
-
-## Day Training
-
-We start your dog's training for you! During our weekly sessions we teach cues and 
-behaviors and then practice them in your home, our office, and other locations such 
-as the park and your neighborhood. It helps your dog get professional training in 
-weeks instead of months!
-
-Busy clients appreciate their dog learning the basics or having problem behaviors 
-addressed without needing to be present (although you are welcome to attend sessions!). 
-We will meet with you several times throughout the program to show you the progress 
-your dog is making and answer any questions you have. Support is always available by 
-phone or email.
-
-This is a great option for new puppy parents who need help socializing as well as 
-adult dogs who have developed bad habits.
-
-Cost: Day training starts at $1650 for a 6 week program.
+In addition to [classes](/classes), we offer personal training.
 
 ## Private lessons at our office
 
