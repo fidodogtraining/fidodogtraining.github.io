@@ -238,16 +238,3 @@ this knowledge as a dog walker and looks forward to meeting some new furry faces
 </section>
 
 <section class="region">
-
-## Molly Laich
-
-### Dog Walker, Pet Sitter
-
-<img class="right" src="/images/molly.jpg" alt="" />
-For the past three years, Molly's been working as a pet care professional in the 
-greater Seattle area. She's since returned home to Michigan and can't wait to start 
-up again with dogs, cats and other. A lifelong animal lover, Molly adopted a senior 
-rottweiler named Dorothy Parker two years ago (not pictured), and they've been best 
-friends ever since.
-
-</section>
