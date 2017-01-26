@@ -4,9 +4,9 @@ title: Advanced Field Trip
 tagline: "Outdoor exercises, real life scenarios"
 image: advanced.jpg
 trainer: Tammy Crenshaw
-assistant: Sarah Maki
+assistant: varies
 duration: "4 weeks"
-price: "$165"
+price: "$170"
 square: "https://squareup.com/market/FidoPersonalDogTraining/advanced-field-trip-aft-web"
 ---
 
