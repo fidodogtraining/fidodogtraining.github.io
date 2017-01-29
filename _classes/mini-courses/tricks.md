@@ -1,6 +1,6 @@
 ---
 title: Practical Tricks
-tagline: "Responsible dog handling for the young trainer"
+tagline: "Bond with your dog and teach useful behaviors"
 trainer: Laura Witkowski
 duration: "4 weeks"
 price: "$170"
