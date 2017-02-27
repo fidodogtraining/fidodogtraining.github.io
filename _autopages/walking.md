@@ -39,7 +39,7 @@ away, taking care of all exercise needs and providing company at night. Mail,
 plants, and any other household needs are included in every stay. Skip the stress 
 of boarding and let your dog sleep in his own bed! 
 
-Sitting starts at **$65 per night**. Dog Walking and Pet Sitting on Holidays is an 
+Sitting starts at **$70 per night**. Dog Walking and Pet Sitting on Holidays is an 
 additional $10 per day (New Year's Day, Easter, Thanksgiving Day and Christmas Day) 
 Additional fees apply for clients outside of service area, please call Sarah 
 at 248-854-5540 for a price or to schedule a sitter for your pooch. 
