@@ -242,7 +242,7 @@ this knowledge as a dog walker and looks forward to meeting some new furry faces
 
 ### Dog Walker, Pet Sitter
 
-<img class="right" src="/images/stephanie.jpg" alt="" />
+<img class="right" src="/images/chloe.jpg" alt="" />
 Chloe’ has been involved in animal care for 8 years. She has worked at DePorre Veterinary Hospital, PetSmart Pet
 Hotel and other boarding facilities in the Macomb and Oakland areas. She shares her home with her favorite four-footed friend;
 a handsome orange tabby named Prince. 
