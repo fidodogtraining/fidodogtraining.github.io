@@ -3,10 +3,10 @@ weight: 1
 title: Puppy 2
 tagline: "Continue your dog’s training as he enters adolescence"
 image: puppy-2.jpg
-trainer: Tammy Crenshaw
-assistant: Sarah Maki
+trainer: varies
+assistant: varies
 duration: "6 weeks"
-price: "$255 (includes clicker)"
+price: "$260 (includes clicker)"
 square: "https://squareup.com/market/FidoPersonalDogTraining/puppy-class-web"
 ---
 Your puppy is growing by leaps and bounds — and so is his brain! You’ll learn about 
