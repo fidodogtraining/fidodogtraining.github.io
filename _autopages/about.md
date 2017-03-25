@@ -158,15 +158,16 @@ trainer.
 ### Assistant Trainer, Dog Walker
 
 <img class="right" src="/images/lindsay.jpg" alt="" />
-Lindsay joined the FIDO team in September 2011 with over 17 years of experience in the pet care industry. 
-In addition to working for FIDO, her background ranges from working as a veterinary assistant, doggy daycare 
-attendant, groomer, as well as working in kennels, shelters, and even horse stables. She has also been a 
-Puppy Raiser for Paws with a Cause, loves fostering dogs and volunteering with rescue groups, and has rescued, 
-trained, and certified her own dog with Therapy Dogs International (TDI). She is currently seeking her next 
-Therapy Dog candidate.
+Lindsay joined the FIDO team in September 2011 with over 17 years of experience in the pet care industry. In addition to 
+working for FIDO, her background ranges from working as a veterinary assistant, doggy daycare attendant, groomer, as well as 
+working in kennels, shelters, and even horse stables. She has also been a Puppy Raiser for Paws with a Cause, loves fostering 
+dogs and volunteering with rescue groups, and has rescued, trained, and certified her own dog with Therapy Dogs International 
+(TDI). 
 
-When Lindsay isn't working or doing something dog related, you will likely find her spending quality time 
-with her husband Brian and their two young children. 
+When Lindsay isn’t working or doing something dog related, you will find her spending quality time with her husband Brian, 
+their two young children, and their beloved rescued Border Collie, Rhodey.  
+
+
 </section>
 
 <section class="region">
