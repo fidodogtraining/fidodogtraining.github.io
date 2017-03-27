@@ -1,5 +1,5 @@
 ---
-title: One-on-One Training
+title: One-on-One 
 regions:
   contact: true
 ---
