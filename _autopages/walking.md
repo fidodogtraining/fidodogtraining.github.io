@@ -1,5 +1,5 @@
 ---
-title: Walking
+title: Walking & Sitting
 regions:
   contactsarah: true
 ---
