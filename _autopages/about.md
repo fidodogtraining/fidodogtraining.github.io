@@ -121,7 +121,7 @@ beautiful rescue dogs, and one crazy rescue cat.
 
 ## Jane Wolff
 
-### Trainer
+### Head Trainer
 
 <img class="right" src="/images/jane.jpg" alt="" />
 Jane Wolff has been working with dogs professionally since 2014 and is certified 
@@ -141,7 +141,7 @@ elderly, blonde mix-breed girl named Cdog.
 
 ## Laura Witkowski
 
-### Assistant Trainer, Dog Walker
+### Head Trainer
 
 <img class="right" src="/images/laura.jpg" alt="" />
 Laura Witkowski loves all things dog, animal behavior and reward-based training. She is also a stand up comedian and writer.
