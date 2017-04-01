@@ -227,6 +227,8 @@ appreciate and examine closely the diverse range of personalities each can posse
 this knowledge as a dog walker and looks forward to meeting some new furry faces.
 </section>
 
+<section class="region">
+
 ## D'Anne Witkowski
 
 ### Dog Walker, Pet Sitter
@@ -237,6 +239,7 @@ a Husky puppy named Boney.
 </section>
 
 <section class="region">
+
 ## Chloe' Collins
 
 ### Dog Walker, Pet Sitter
