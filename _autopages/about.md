@@ -227,6 +227,17 @@ appreciate and examine closely the diverse range of personalities each can posse
 this knowledge as a dog walker and looks forward to meeting some new furry faces.
 </section>
 
+## D'Anne Witkowski
+
+### Dog Walker, Pet Sitter
+
+<img class="right" src="/images/danne.jpg" alt="" />
+D'Anne loves poochers and has three at home: a miniature poodle, a chihuahua mix, and a human son who frequently insists he is 
+a Husky puppy named Boney. 
+</section>
+
+<section class="region">
+
 <section class="region">
 ## Chloe' Collins
 
