@@ -237,8 +237,6 @@ a Husky puppy named Boney.
 </section>
 
 <section class="region">
-
-<section class="region">
 ## Chloe' Collins
 
 ### Dog Walker, Pet Sitter
