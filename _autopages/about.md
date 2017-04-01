@@ -30,26 +30,15 @@ We would love to talk to you about your training, grooming, sitting, or walking 
 
 <img class="right" src="/images/tammy.jpg" alt="" />
 
-I have lived with and loved dogs my whole life and have worked with them for 17 years. 
-I started a pet sitting/dog walking business in 1997 and have been training since 2005. 
-I live in Oak Park, Michigan with my husband Robert, our pit bull mix Daisy, the action-packed 
-cat Posey, and a 30 year old Amazon Parrot named Petey.
+I have lived with and loved dogs my whole life and have worked with them for 19 years. I started a pet sitting/dog walking
+business in 1997 and have been training since 2005. I live in Oak Park, Michigan with my husband Robert, our pit bull mix Daisy,and our senior cat Posey.
 
-One of my primary personal and professional goals is to help dogs live happy lives with their 
-human guardians. By teaching people how to communicate with their pets in a way that both 
-human and dog can truly understand, I hope to do my part in making dog and human worlds a 
-better place.
+One of my primary personal and professional goals is to help dogs live happy lives with their human guardians. By teaching people how to communicate with their pets in a way that both human and dog can truly understand, I hope to do my part in making the dog and human worlds a better place. In my training, I use only science based, force free methods. My first-hand experience has shown me that this is the most rewarding, compassionate and effective way to train a dog.
 
-In my training, I use only science based, force free methods. My first-hand experience has 
-shown me that this is the most rewarding, compassionate, and effective way to train a dog. 
-I believe positive reinforcement methods are much less stressful on dogs than 
-punishment based methods. In fact, most dogs look forward to and even enjoy clicker 
-training sessions!
+I graduated from Animal Behavioral College with honors in 2006. I continued my studies by earning my certification through the
+Certification Council for Professional Dog Trainers as a Certified Professional Dog Trainer – Knowledge Assessed (CPDT-KA) in 2011.
 
-I graduated from Animal Behavioral College with honors in 2006. I continued my studies 
-by earning my certification through the Certification Council for Professional Dog Trainers 
-as a Certified Professional Dog Trainer – Knowledge Assessed (CPDT-KA) in 2011. I offer 
-private and group classes through my company Fido Personal Dog Training, LLC in Ferndale, Michigan.
+I love working with dogs and their people, helping to make their lives happy ones without force or confusion.
 
 </section>
 
