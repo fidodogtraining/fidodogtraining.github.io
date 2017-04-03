@@ -33,7 +33,7 @@ we can address the problem in the environment it is happening in.
 Dogs who aren't eligible for a group class, are nervous in new places, or are troubled 
 travelers benefit from having us conduct an in-home appointment. 
 
-Cost: In home training starts at $120 per hour. A $75 non-refundable deposit is required to hold your appointment time. 
+Cost: In home training starts at $125 per hour. A $75 non-refundable deposit is required to hold your appointment time. 
 
 <a class="button" href="https://squareup.com/store/FidoPersonalDogTraining/item/deposit-for-private-lesson">Make a deposit</a>
 
