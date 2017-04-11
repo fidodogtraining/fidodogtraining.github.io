@@ -5,8 +5,8 @@ tagline: "Outdoor exercises, real life scenarios"
 image: advanced.jpg
 trainer: Tammy Crenshaw
 assistant: varies
-duration: "4 weeks"
-price: "$170"
+duration: "6 weeks"
+price: "$260"
 square: "https://squareup.com/market/FidoPersonalDogTraining/advanced-field-trip-aft-web"
 ---
 
