@@ -2,7 +2,7 @@
 title: "Dogs and Toddlers"
 tagline: "Keeping families safe "
 trainer: Cathy Reisfield
-duration: "Friday, Sept 16 6-8:30pm"
+duration: "Saturday Aug 5 1-3:30p"
 price: "$50 per couple"
 square: "https://squareup.com/market/FidoPersonalDogTraining/seminars"
 ---
