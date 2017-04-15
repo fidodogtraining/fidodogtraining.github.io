@@ -1,6 +1,6 @@
 ---
 weight: 7
-title: Leash Reactivity
+title: Leash Reactivity Level One
 tagline: "Skills to help the leash reactive dog"
 trainer: Laura Witkowski
 assistant: Jane Wolff
@@ -27,3 +27,17 @@ Answer the following yes or no questions to see if this class is suitable for yo
 
 If you answered yes to one or more of these questions (or if you’re unsure if this 
 class is suitable for your dog) please contact us before signing up for this class.
+
+weight: 7
+title: Leash Reactivity Level Two
+tagline: "Skills to help the leash reactive dog"
+trainer: Laura Witkowski
+assistant: Jane Wolff
+duration: "4 weeks"
+price: "$285"
+square: "https://squareup.com/store/FidoPersonalDogTraining/item/leash-reactivity-level"
+---
+Build on what you learned in our Leash Reactivity class with this additional 4-weeks of practice in a class setting! We’ll do 
+more with other dogs present like leash walking and space navigation, allowing you to strengthen the skills and exercises you 
+learned in Leash Reactivity 1! 
+Prerequisite: Graduation from Leash Reactivity One
