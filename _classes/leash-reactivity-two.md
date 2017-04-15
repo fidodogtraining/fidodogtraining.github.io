@@ -1,7 +1,7 @@
 ---
 weight: 7
 title: Leash Reactivity Level Two
-tagline: "Skills to help the leash reactive dog"
+tagline: "Continuing Education for the Leash Reactive Dog"
 trainer: Laura Witkowski
 assistant: Jane Wolff
 duration: "4 weeks"
