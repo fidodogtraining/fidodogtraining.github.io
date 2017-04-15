@@ -28,6 +28,7 @@ Answer the following yes or no questions to see if this class is suitable for yo
 If you answered yes to one or more of these questions (or if you’re unsure if this 
 class is suitable for your dog) please contact us before signing up for this class.
 
+---
 weight: 7
 title: Leash Reactivity Level Two
 tagline: "Skills to help the leash reactive dog"
