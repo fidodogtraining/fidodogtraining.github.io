@@ -35,7 +35,7 @@ tagline: "Skills to help the leash reactive dog"
 trainer: Laura Witkowski
 assistant: Jane Wolff
 duration: "4 weeks"
-price: "$285"
+price: "$175"
 square: "https://squareup.com/store/FidoPersonalDogTraining/item/leash-reactivity-level"
 ---
 Build on what you learned in our Leash Reactivity class with this additional 4-weeks of practice 
