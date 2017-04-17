@@ -4,7 +4,7 @@ title: Leash Reactivity Level Two
 tagline: "Continuing education for leash reactivity"
 trainer: Laura Witkowski
 assistant: Jane Wolff
-image: lr2.jpg
+image: leashreacttwo.jpg
 duration: "4 weeks"
 price: "$175"
 square: "https://squareup.com/store/FidoPersonalDogTraining/item/leash-reactivity-level"
