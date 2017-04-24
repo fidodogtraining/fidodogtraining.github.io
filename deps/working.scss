@@ -620,7 +620,7 @@ ul.inline {
         background-color: hex-add($primary, 3);
         color: $tertiary;
       }
-      .menu > li > a.first {
+      .menu > li:first-child > a {
         margin: 0 0 0 -2em;
       }
       .menu > li > a.active {
@@ -635,7 +635,7 @@ ul.inline {
             display: block;
             padding: .25em 2em;
           }
-            .menu > li > a.first {
+            .menu > li:first-child > a {
               margin: 0;
             }
       }
@@ -944,7 +944,7 @@ section.region {}
     }
   }
 .region-cta {
-  background: hex-add($light, -1) url('images/bestdetroit2014.jpg') top left scroll no-repeat;
+  background: hex-add($light, -1) url('images/ferndale-friends.jpg') top left scroll no-repeat;
   background-size: cover;
   color: $light;
   min-height: 145px;

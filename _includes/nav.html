@@ -1,7 +1,6 @@
 <nav class="region"><div class="inner">
 {% assign pages = site.autopages | sort:"weight" %}
 <ul class="menu">
-  <li><a class="first{% if page.url == '/index.html' %} active{% endif %}" href="/">Home</a></li>
   {% for p in pages %}
   {% if p.exclude == null %}
   <li>
