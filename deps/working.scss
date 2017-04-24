@@ -857,6 +857,15 @@ header.region {
     background-color: $tertiary;
     border-radius: 1.2em;
     color: hex-add($primary, 1);
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
   }
     header.region a.button:hover {
       background-color: $secondary;
@@ -878,6 +887,10 @@ header.region {
     .actions,
     .logo-link {
       float: none;
+      margin: 0 0 5px;
+    }
+    header.region a.button {
+      margin-right: 0;
     }
   }
 nav.region {
