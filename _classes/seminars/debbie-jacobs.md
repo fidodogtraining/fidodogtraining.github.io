@@ -1,10 +1,10 @@
 ---
 title: Debbie Jacobs presents Living With & Training A Fearful Dog 
 tagline: "Help for those who live with and love anxious dogs"
+image: debbie.jpg
 instructor: Debbie Jacobs
 duration: "Sept 30, 2017 from 9a-4p"
 price: "$100 per student"
-image: debbie.jpg
 square: "https://squareup.com/store/FidoPersonalDogTraining/item/debbie-jacob-seminar"
 ---
 
