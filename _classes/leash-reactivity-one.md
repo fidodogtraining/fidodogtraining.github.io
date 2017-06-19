@@ -7,7 +7,7 @@ assistant: Jane Wolff
 image: vocalizing.jpg
 duration: "6 weeks"
 price: "$285"
-square: "https://squareup.com/store/FidoPersonalDogTraining/item/leash-reactivity-class"
+square: "https://squareup.com/store/FidoPersonalDogTraining/item/leash-reactivity-level-1"
 ---
 If your dog barks and lunges at other dogs on leash, this 6 week class might be 
 for you! We will focus on skills to help your dog better be able to cope when 
