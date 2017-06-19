@@ -4,7 +4,7 @@ tagline: "Help for those who live with and love anxious dogs"
 instructor: Debbie Jacobs
 duration: "Sept 30, 2017 from 9a-4p"
 price: "$100 per student"
-image: tricks.jpg
+image: debbie.jpg
 square: "https://squareup.com/store/FidoPersonalDogTraining/item/debbie-jacob-seminar"
 ---
 
