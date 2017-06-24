@@ -2,7 +2,7 @@
 title: Canine Massage
 tagline: "Canine Massage"
 instructor: Holly Schutlz
-duration: "June 24, 2017 from 2-4pm"
+duration: dates to come
 price: "$35 per student"
 square: "https://squareup.com/market/FidoPersonalDogTraining/seminars"
 ---
