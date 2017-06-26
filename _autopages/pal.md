@@ -27,9 +27,7 @@ PAL is for puppies 2 ½ to 6 months old and space is limited today so sign up to
 This program is held at Fido on Mondays and Fridays in two sessions, with the option 
 to sign up for a full day. Morning session is 7:00-11:00 AM, our afternoon group runs 
 from 1:00-4:00 PM. All puppies must be current on vaccinations, including a clean 
-fecal exam within 30 days of enrollment.
+fecal exam within 30 days of enrollment. NOTE: Sign up for PAL ends at 5pm the evening before the scheduled session! This allows us to plan accurately for the puppies. 
+
 
 <a class="button" href="https://squareup.com/store/FidoPersonalDogTraining/item/puppy-pal-program">Register today</a>
-
-NOTE: Sign up for PAL ends at 5pm the evening before the scheduled session! This allows us to plan accurately for the puppies. 
-
