@@ -30,3 +30,5 @@ from 1:00-4:00 PM. All puppies must be current on vaccinations, including a clea
 fecal exam within 30 days of enrollment.
 
 <a class="button" href="https://squareup.com/store/FidoPersonalDogTraining/item/puppy-pal-program">Register today</a>
+NOTE: Sign up for PAL ends at 5pm the evening before the scheduled session! This allows us to plan accurately for the puppies. 
+
