@@ -22,7 +22,6 @@ different:
   * Reduce noise with cotton and a “Happy Hoodie” during drying
   * Strategically pre-trim heavy coats to speed drying time
   * Provide guidance, handouts, and videos to prepare for a visit
-  * Drop your dog off at home after his groom (with the option for a walk too!)
   * Walk-in floor tub for dogs with mobility issues or that are too large for normal grooming tubs
 
 Call now [(248) 854-5540] to schedule an appointment and get an estimate. [Fill out the grooming agreement](/forms/grooming-customer-agreement/) prior to your appointment.
