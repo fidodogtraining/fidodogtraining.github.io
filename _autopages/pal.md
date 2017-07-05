@@ -11,8 +11,7 @@ weight: 2
 <a class="button" href="https://squareup.com/store/FidoPersonalDogTraining/item/puppy-pal-program">Register today</a>
 
 Want to take your puppy’s education further? Our NEW Play and Learn (PAL) program 
-is the answer! Our trainers Jean Carew and Christy Hopkins, along with assistant 
-Chloe Collins, will keep your puppy’s mind growing! 
+is the answer! Our trainers Jean Carew, Jane Wolff, and Christy Hopkins will keep your puppy’s mind growing! 
 
 At PAL, your puppy will: 
 
