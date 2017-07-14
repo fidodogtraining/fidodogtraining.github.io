@@ -240,7 +240,7 @@ a Husky puppy named Boney.
 
 ### Dog Walker, Pet Sitter
 
-<img class="right" src="/images/chloe.jpg" alt="" />
+<img class="right" src="/images/sherri.jpg" alt="" />
 After 27 years in the Loss Prevention field, I had the chance to experience working with dogs in a grooming salon which led me 
 to follow my dream I have had work with dogs on a daily basis . I love meeting our clients and their dogs and enjoy every 
 individual dogs personality. It's a joy working with dogs everyday.
