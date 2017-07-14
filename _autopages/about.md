@@ -236,14 +236,17 @@ a Husky puppy named Boney.
 
 <section class="region">
 
-## Chloe' Collins
+## Sherri Warner
 
 ### Dog Walker, Pet Sitter
 
 <img class="right" src="/images/chloe.jpg" alt="" />
-Chloe’ has been involved in animal care for 8 years. She has worked at DePorre Veterinary Hospital, PetSmart Pet
-Hotel and other boarding facilities in the Macomb and Oakland areas. She shares her home with her favorite four-footed friend;
-a handsome orange tabby named Prince. 
+After 27 years in the Loss Prevention field, I had the chance to experience working with dogs in a grooming salon which led me 
+to follow my dream I have had work with dogs on a daily basis . I love meeting our clients and their dogs and enjoy every 
+individual dogs personality. It's a joy working with dogs everyday.
+
+I plan to attend an Animal Behavior College and would love to train and teach dogs one day.
+
 </section>
 
 <section class="region">
