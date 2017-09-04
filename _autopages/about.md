@@ -250,4 +250,21 @@ I plan to attend an Animal Behavior College and would love to train and teach do
 </section>
 
 <section class="region">
+  
+## Kim Negus
+
+### Dog Walker, Pet Sitter
+
+<img class="right" src="/images/kim.jpg" alt="" />
+Kim has been actively involved in animal rescue for many years. With a passion for the well-being of feral cats, she taught
+a TNR and shelter building workshop at All About Animals monthly for over two years. She's volunteered at MSU as well several 
+rescues, including a wildlife rehab center in Texas. Her father was a Detroit Zookeeper, and as a child Kim appeared on "At 
+the Zoo with Sonny Elliot", usually holding huge snakes or tarantulas! 
+
+Kim has two dogs, Samantha and Felipe as well as two kitties named Kate and Isabella. She loves working with animals and hopes 
+to open a sanctuary some day. 
+
+</section>
+
+<section class="region">
 
