@@ -169,26 +169,6 @@ a bulldog mix named Penny, and her Labrabdor, Pearl.
 
 <section class="region">
 
-## Alissa Sullivan
-
-### Assistant Trainer
-
-<img class="right" src="/images/alissa.jpg" alt="" />
-Hi there! My name is Alissa.I have over 10 years experience as a vet tech and am 
-currently working towards becoming a Certified Professional Dog Trainer (CPDT). 
-I have been working with animals - volunteering at shelters and rescues as well as 
-pet sitting and dog walking- for almost 20 years and have experience with all breeds 
-of dogs and cats, as well as exotics & even large mammals. My volunteer work with 
-some amazing rescue organizations has given me the opportunity to provide care for 
-animals from all walks of life. I enjoy animals and learning about them so much, I 
-have chosen to make their care and well-being my career. I believe that the more 
-education you have, the more knowledge you can share, and that leads to a better 
-relationship between owners and their pets! 
-
-</section>
-
-<section class="region">
-
 ## Kelli Marshall
 
 ### Dog Walker, Pet Sitter
