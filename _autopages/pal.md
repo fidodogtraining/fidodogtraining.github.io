@@ -17,6 +17,7 @@ Your puppy will spend his PAL time supervised by our trainers who will work on b
 behavior during group play! 
 
 At PAL, your puppy will engage in group play as well as work with our trainers on:
+
 *Basic cues like sit, down and recall
 *Confidence gaining and socialization skills
 *Handling and conditioning 
