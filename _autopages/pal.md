@@ -17,12 +17,12 @@ Your puppy will spend his PAL time supervised by our trainers who will work on b
 behavior during group play! 
 
 At PAL, your puppy will engage in group play as well as work with our trainers on:
-Basic cues like sit, down and recall
-Confidence gaining and socialization skills
-Handling and conditioning 
-Potty training
-Impulse control
-Appropriate play
+*Basic cues like sit, down and recall
+*Confidence gaining and socialization skills
+*Handling and conditioning 
+*Potty training
+*Impulse control
+*Appropriate play
 
 PAL runs Mondays and Fridays in two sessions, with the option to sign up for a full day. 
 Morning session is 7:00-11:00 AM 
