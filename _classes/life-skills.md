@@ -1,12 +1,12 @@
 ---
 weight: 3
 title: Life Skills
-tagline: "Take the next step"
+tagline: "Create a socially-savvy canine!"
 image: lifeskills.jpg
 trainer: varies
 duration: "6 weeks"
 price: "$265"
-square: "https://squareup.com/market/FidoPersonalDogTraining/basic-web-1"
+square: "https://squareup.com/store/FidoPersonalDogTraining/item/life-skills"
 ---
 
 If your dog loves to play with other dogs but needs to work on “real life” skills, this class is for you! 
