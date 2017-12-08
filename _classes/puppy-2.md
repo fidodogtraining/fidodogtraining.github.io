@@ -6,7 +6,7 @@ image: puppy-2.jpg
 trainer: varies
 assistant: varies
 duration: "6 weeks"
-price: "$260 (includes clicker)"
+price: "$265"
 square: "https://squareup.com/market/FidoPersonalDogTraining/puppy-class-web"
 ---
 Your puppy is growing by leaps and bounds — and so is his brain! You’ll learn about 
