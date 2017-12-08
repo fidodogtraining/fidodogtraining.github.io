@@ -3,7 +3,7 @@ title: Practical Tricks
 tagline: "Bond with your dog and teach useful behaviors"
 trainer: Laura Witkowski
 duration: "4 weeks"
-price: "$170"
+price: "$175"
 image: tricks.jpg
 square: "https://squareup.com/store/FidoPersonalDogTraining/item/practical-tricks"
 ---
