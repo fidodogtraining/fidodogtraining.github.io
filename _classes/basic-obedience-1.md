@@ -5,7 +5,7 @@ tagline: "The start of a good thing"
 image: basic.jpg
 trainer: varies
 duration: "6 weeks"
-price: "$260, includes clicker, No dogs first class"
+price: "$265, includes clicker, No dogs first class"
 square: "https://squareup.com/market/FidoPersonalDogTraining/basic-web"
 ---
 
