@@ -6,7 +6,7 @@ image: puppy.jpg
 trainer: varies
 assistant: varies
 duration: "8 weeks"
-price: "$345, includes clicker"
+price: "$350, includes clicker"
 square: "https://squareup.com/market/FidoPersonalDogTraining/puppy-wednesday-june-th-july-th-pm"
 ---
 
