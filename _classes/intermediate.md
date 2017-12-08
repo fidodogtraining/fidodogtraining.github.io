@@ -6,7 +6,7 @@ image: intermediate.jpg
 trainer: Tammy Crenshaw
 assistant: varies
 duration: "6 weeks"
-price: "$260, includes clicker"
+price: "$265"
 square: "https://squareup.com/market/FidoPersonalDogTraining/intermediate-web"
 ---
 You’ve laid a solid training foundation, successfully added distance, duration and distraction, improved your own training skills… Now, let’s sharpen your understanding of how your dog communicates with you and the world! Dogs tell us a lot through body language, so the better we understand what they're saying, the better our relationship with them! 
