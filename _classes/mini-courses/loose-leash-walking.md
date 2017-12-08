@@ -4,7 +4,7 @@ tagline: "Your best friend, right by your side"
 trainer: varies
 image: llw.jpg
 duration: "4 weeks"
-price: "$170"
+price: "$175"
 square: "https://squareup.com/market/FidoPersonalDogTraining/loose-leash-walking-llw-web"
 ---
 Teaching your dog to walk with a loose leash can be a very frustrating job for 
