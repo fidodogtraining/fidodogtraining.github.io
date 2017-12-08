@@ -6,7 +6,7 @@ image: advanced.jpg
 trainer: Tammy Crenshaw
 assistant: varies
 duration: "6 weeks"
-price: "$260"
+price: "$265"
 square: "https://squareup.com/market/FidoPersonalDogTraining/advanced-field-trip-aft-web"
 ---
 
