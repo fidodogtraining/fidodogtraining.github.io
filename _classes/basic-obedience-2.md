@@ -4,8 +4,8 @@ title: Basic 2
 tagline: "Take the next step"
 image: basic-2.jpg
 trainer: varies
-duration: "6 weeks"
-price: "$260, includes clicker"
+duration: "4 weeks"
+price: "$180"
 square: "https://squareup.com/market/FidoPersonalDogTraining/basic-web-1"
 ---
 Challenge your dog and take training further! Dogs that have completed our Basic One class or can demonstrate a strong basic skill set are welcome to join us for this fast-moving class where we add distance, distraction, and duration to our cues. 
