@@ -613,7 +613,7 @@ ul.inline {
       display: inline-block;
       font-weight: bold;
       letter-spacing: .065em;
-      padding: 1em 2em;
+      padding: 1em 1.75em;
       text-decoration: none;
     }
       .menu > li > a:hover {
@@ -923,7 +923,7 @@ section.region {}
     margin-bottom: 0;
   }
 .splash {
-  background: hex-add($light, -1) url('images/bg_new_class_shopped.jpg') top left scroll no-repeat;
+  background: hex-add($light, -1) url('images/fido_splash_2018.jpg') top left scroll no-repeat;
   background-size: cover;
   color: $light;
   min-height: 145px;
