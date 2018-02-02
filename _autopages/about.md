@@ -69,7 +69,7 @@ After adopting my third dog (a silly little muppet mix named Tchotchke), I reali
 do to help further the Postitive Reinforcement message; learn to groom in a way that respects the dog's boundaries. Trips 
 to the groomer were always stressful. Sprocket and Tchothcke would have to be dragged into the tub and came home exhausted 
 and clearly unhappy. I didn't like putting them through it, but their coats needed professional care. Even my English Lab,
-Molly, hated going for baths, and she's a pretty easy-going gal. I became determined to find another way, and attended Bingo
+Molly, hated going for baths, and she was a pretty easy-going gal. I became determined to find another way, and attended Bingo
 Institute of Grooming to learn how to bathe, clip and scissor. 
 
 Fido's Gray Dog Grooming opened its doors in Decemeber 2016 and I couldn't be prouder. My years of experience in canine body
@@ -159,7 +159,7 @@ their two young children, and their beloved rescued Border Collie, Rhodey.
 
 ## Christy Hopkins
 
-### Assistant Trainer, Dog Walker, Pet Sitter
+### Head Trainer, Dog Walker, Pet Sitter
 
 <img class="right" src="/images/christy.jpg" alt="" />
 Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is currently
