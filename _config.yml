@@ -5,7 +5,7 @@ kramdown:
   parse_block_html: true
 sass:
   style: :compressed
-gems:
+plugins:
   - jemoji
   - jekyll-sitemap
 
