@@ -1,8 +1,8 @@
 ---
 title: "Separation Anxiety with Malena DeMartini"
 tagline: "Help for the dog suffering from Separation Anxiety"
-image: "malena.jpg"
-trainer: "Malena DeMartini"
+image: malena.jpg
+trainer: Malena DeMartini
 duration: "June 28,2018 from 9:30a-5p"
 price: "$90 per student"
 square: "https://squareup.com/store/FidoPersonalDogTraining/item/seminars"
