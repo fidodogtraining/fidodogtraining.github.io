@@ -1,7 +1,7 @@
 ---
 title: Separation Anxiety with Malena DeMartini-Price
 tagline: "Help for the dog suffering from Separation Anxiety"
-image: debbie.jpg
+image: malena.jpg
 trainer: Malena DeMartini-Price
 duration: "June 28,2018 from 9:30a-5p"
 price: "$90 per student"
