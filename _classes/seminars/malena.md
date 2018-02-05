@@ -10,3 +10,5 @@ square: "https://squareup.com/store/FidoPersonalDogTraining/item/seminars"
 
 Author of Treating Separation Anxiety in Dogs and renowned SA expert Malena DeMartini-Price offers help for dogs suffering from this 
 disorder and the families that love them. 
+
+This seminar is for humans-only, please leave the pooches at home!
