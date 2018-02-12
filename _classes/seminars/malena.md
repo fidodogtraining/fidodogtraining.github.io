@@ -18,4 +18,4 @@ Separation Anxiety is not easy to resolve but it is simple in many ways and help
 Advances in technology, new ways of thinking about support, and a structured approach to creating separation anxiety plans have turned a nearly impossible task into a doable one with successful resolution of even the most severe separation anxiety cases being attainable. 
 
 
-This seminar is for humans-only, please leave the pooches at home! No refunds within 30 days of event.
+This seminar is for humans-only, please leave the pooches at home! No refunds within 30 days of event. The seminar is worth 4.5 CEUs for trainers and 4.5 CEUs for behavior consultants, please bring your certificant number for us to record. 
