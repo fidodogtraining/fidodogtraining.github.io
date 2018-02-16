@@ -80,34 +80,6 @@ the difference between "assembly line" groomers and what we're doing here.
 
 <section class="region">
 
-## Jean Carew
-
-### Head Trainer
-
-<img class="right" src="/images/jean.jpg" alt="" />
-Jean Carew is a nationally certified Force Free Trainer. She spends her time living 
-her passion; teaching dogs and their owners how to develop a better relationship 
-through training. She trains in both private and group class settings at all levels. 
-Jean is passionate about all dogs, but has a soft spot in her heart for those that 
-are fearful or aggressive. As a result, she co-developed one of the area’s most 
-successful reactive dog class programs. 
-
-Jean is a member in good standing with both APDT (Association of Professional Dog 
-Trainers) and PPG (Professional Pet Guild). For the past several years she has been 
-the owner of Sit Stay Swim, an indoor swim fitness and training facility in Garden 
-City.  While there, she taught owners and their dogs the benefits of warm water 
-swim therapy and relationship-building.  
-
-Jean also has a passion for rescue. She has spent the last decade volunteering her 
-time ensuring proper placement and integration of dogs from all walks of life.
-
-While at home, she shares her life with her 3 amazing children, her husband, three 
-beautiful rescue dogs, and one crazy rescue cat.
-
-</section>
-
-<section class="region">
-
 ## Jane Wolff
 
 ### Head Trainer
