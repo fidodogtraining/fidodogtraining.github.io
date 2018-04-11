@@ -104,8 +104,7 @@ deaf cattle dog named Indy, a sweet and sensitive pit bull mix named Nina, a sho
 Laura Witkowski loves all things dog, animal behavior and reward-based training. She is also a stand up comedian and writer.
 Laura lives with her two pit bulls: Asha the snuggle pup and Gomez the friendly barbarian.
 
-In February of 2016 Laura was accepted into The Academy for Dog Trainers and is currently studying to become a certified dog
-trainer. 
+In February of 2016 Laura was accepted into The Academy for Dog Trainers and earned her CPDT-KA in 2018.
 </section>
 
 <section class="region">
@@ -134,8 +133,7 @@ their two young children, and their beloved rescued Border Collie, Rhodey.
 ### Head Trainer, Dog Walker, Pet Sitter
 
 <img class="right" src="/images/christy.jpg" alt="" />
-Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is currently
-enrolled in the CATCH program to become a certified dog trainer! Christy has three dogs of her own; a pit mix named Palmer, 
+Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is a Certified Professional Dog Trainer-Knowledge Assessed! Christy has three dogs of her own; a pit mix named Palmer, 
 a bulldog mix named Penny, and her Labrabdor, Pearl. 
 </section>
 
