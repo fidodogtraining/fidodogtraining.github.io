@@ -67,7 +67,7 @@ with us, so that training feels like play instead of work.
 
 After adopting my third dog (a silly little muppet mix named Tchotchke), I realized there was another thing I could 
 do to help further the Postitive Reinforcement message; learn to groom in a way that respects the dog's boundaries. Trips 
-to the groomer were always stressful. Sprocket and Tchothcke would have to be dragged into the tub and came home exhausted 
+to the groomer were always stressful. Sprocket and Tchotchke would have to be dragged into the tub and came home exhausted 
 and clearly unhappy. I didn't like putting them through it, but their coats needed professional care. Even my English Lab,
 Molly, hated going for baths, and she was a pretty easy-going gal. I became determined to find another way, and attended Bingo
 Institute of Grooming to learn how to bathe, clip and scissor. 
