@@ -133,8 +133,8 @@ their two young children, and their beloved rescued Border Collie, Rhodey.
 ### Head Trainer, Dog Walker, Pet Sitter
 
 <img class="right" src="/images/christy.jpg" alt="" />
-Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is a Certified Professional Dog Trainer-Knowledge Assessed! Christy has three dogs of her own; a pit mix named Palmer, 
-a bulldog mix named Penny, and her Labrabdor, Pearl. 
+Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is a Certified Professional Dog Trainer-Knowledge Assessed! Christy has two dogs of her own; a pit mix named Palmer and 
+a bulldog mix named Penny.
 </section>
 
 <section class="region">
