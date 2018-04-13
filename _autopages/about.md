@@ -82,7 +82,7 @@ the difference between "assembly line" groomers and what we're doing here.
 
 ## Jane Wolff
 
-### Head Trainer
+### Head Trainer, PAL Trainer
 
 <img class="right" src="/images/jane.jpg" alt="" />
 Jane Wolff has been working with dogs professionally since 2014 and is certified through the Certification Council for 
@@ -98,7 +98,7 @@ deaf cattle dog named Indy, a sweet and sensitive pit bull mix named Nina, a sho
 
 ## Laura Witkowski
 
-### Head Trainer
+### Head Trainer, PAL Trainer
 
 <img class="right" src="/images/laura.jpg" alt="" />
 Laura Witkowski is certified through the Certification Council for Professional Dog Trainers as a Certified Professional Dog 
@@ -130,7 +130,7 @@ their two young children, and their beloved rescued Border Collie, Rhodey.
 
 ## Christy Hopkins
 
-### Head Trainer, Dog Walker, Pet Sitter
+### Head Trainer, Dog Walker, Pet Sitter, PAL Trainer
 
 <img class="right" src="/images/christy.jpg" alt="" />
 Christy has worked with dogs professionally for three years. She has completed her grooming apprenticeship and is a Certified Professional Dog Trainer-Knowledge Assessed! Christy has two dogs of her own; a pit mix named Palmer and 
