@@ -207,7 +207,7 @@ to open a sanctuary some day.
 
 <section class="region">
   
-  ## Kate Beechler
+## Kate Beechler
 
 ### Office Staff
 
