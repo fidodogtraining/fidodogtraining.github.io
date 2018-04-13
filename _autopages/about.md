@@ -211,7 +211,7 @@ to open a sanctuary some day.
 
 ### Office Staff
 
-<img class="right" src="/images/danne.jpg" alt="" />
+<img class="right" src="/images/kate.jpg" alt="" />
 Kate was a stay at home Mom for 17 years.  Searching for a part time job that would be both fun and fulfilling, she found Fido.  She loves to offer support to the staff at Fido and greet all the wonderful dogs that come in each day.  Kate lives in Royal Oak with her husband, two teenage boys and a 3 year old Golden Retriever named Tucker.
 </section>
 
