@@ -101,11 +101,11 @@ deaf cattle dog named Indy, a sweet and sensitive pit bull mix named Nina, a sho
 ### Head Trainer
 
 <img class="right" src="/images/laura.jpg" alt="" />
-Laura Witkowski loves all things dog, animal behavior and reward-based training. She is also a stand up comedian and writer.
-Laura lives with her two pit bulls: Asha the snuggle pup and Gomez the friendly barbarian.
-
-In February of 2016 Laura was accepted into The Academy for Dog Trainers and earned her CPDT-KA in 2018.
-</section>
+Laura Witkowski is certified through the Certification Council for Professional Dog Trainers as a Certified Professional Dog 
+Trainer – Knowledge Assessed (CPDT-KA) as well as a graduate of the esteemed Academy for Dog Trainers (CTC). Along with taking 
+in-home clients and teaching classes at Fido, Laura is the facilitator for Teacher's Pet at Detroit Animal Care and Control 
+where she teaches homeless and at-risk youth about reward-based training and animal welfare. When she's not working with dogs, 
+you can catch her doing stand up comedy. Probably telling jokes about dogs.
 
 <section class="region">
 
@@ -175,17 +175,6 @@ this knowledge as a dog walker and looks forward to meeting some new furry faces
 
 <section class="region">
 
-## D'Anne Witkowski
-
-### Dog Walker, Pet Sitter
-
-<img class="right" src="/images/danne.jpg" alt="" />
-D'Anne loves poochers and has three at home: a miniature poodle, a chihuahua mix, and a human son who frequently insists he is 
-a Husky puppy named Boney. 
-</section>
-
-<section class="region">
-
 ## Sherri Warner
 
 ### Dog Walker, Pet Sitter
@@ -217,4 +206,15 @@ to open a sanctuary some day.
 </section>
 
 <section class="region">
+  
+  ## Kate Beechler
+
+### Office Staff
+
+<img class="right" src="/images/danne.jpg" alt="" />
+Kate was a stay at home Mom for 17 years.  Searching for a part time job that would be both fun and fulfilling, she found Fido.  She loves to offer support to the staff at Fido and greet all the wonderful dogs that come in each day.  Kate lives in Royal Oak with her husband, two teenage boys and a 3 year old Golden Retriever named Tucker.
+</section>
+
+<section class="region">
+
 
