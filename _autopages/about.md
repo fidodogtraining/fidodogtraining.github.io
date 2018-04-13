@@ -167,10 +167,9 @@ calm personality, making her our go-to sitter for pups that stress when their pe
 ### Dog Walker, Pet Sitter
 
 <img class="right" src="/images/stephanie.jpg" alt="" />
-Stephanie is eagerly awaiting the right time to adopt and in the meantime, is happy to be considered the go-to pet 
-sitter for family and friends. As a dog bather at a busy pet salon, working daily with large groups of dogs made her
-appreciate and examine closely the diverse range of personalities each can possess. She is excited to build upon 
-this knowledge as a dog walker and looks forward to meeting some new furry faces.
+Since 2015 Stephanie has been sitting and walking pups with FIDO. Engaging with an array of dogs daily coupled with her 
+sensitive and easygoing personality has made developing her knowledge of dogs a joyful and natural process. She is grateful 
+for the many bonds formed with both pups and people over the years.
 </section>
 
 <section class="region">
