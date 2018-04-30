@@ -86,12 +86,11 @@ the difference between "assembly line" groomers and what we're doing here.
 
 <img class="right" src="/images/jane.jpg" alt="" />
 Jane Wolff has been working with dogs professionally since 2014 and is certified through the Certification Council for 
-Professional Dog Trainers as a Certified Professional Dog Trainer – Knowledge Assessed (CPDT-KA). She recently graduated with 
-honors from The Academy for Dog Trainers (CTC) — regarded by many as the Harvard of dog training programs. Jane loves working 
-with dogs and their people and loves teaching, especially puppy and leash reactive dog classes! Jane also works at Cascades 
-Humane Society in Jackson and is an ardent supporter of the adoption of shelter dogs. She lives in Ann Arbor with a goofy, 
-deaf cattle dog named Indy, a sweet and sensitive pit bull mix named Nina, a short, elderly, blonde mix-breed girl named Cdog. 
-
+Professional Dog Trainers as a Certified Professional Dog Trainer – Knowledge Assessed (CPDT-KA). She graduated with honors 
+from The Academy for Dog Trainers (CTC) — regarded by many as the Harvard of dog training programs. Jane loves working with 
+dogs and their people and loves teaching, especially puppy and leash reactive dog classes! Jane also specializes in treating 
+separation anxiety and is a Certified Separation Anxiety Training (CSAT). She lives in Ann Arbor with a goofy, deaf cattle dog 
+named Indy, a sweet and sensitive pit bull mix named Nina, a short, elderly, blonde mix-breed girl named Cdog.
 </section>
 
 <section class="region">
