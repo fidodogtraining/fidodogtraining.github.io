@@ -4,7 +4,7 @@ regions:
   contact: true
 ---
 
-![FIDO is at 23440 Woodward in Ferndale, MI](/images/fido_building.png)
+![FIDO is at 23440 Woodward in Ferndale, MI](../images/fido_building.png)
 
 At Fido Personal Dog Training we use reward-based training methods to teach your dog that learning is fun! Our 
 trainers are educated, experienced professionals with a passion for all things dog. We are here to help 
