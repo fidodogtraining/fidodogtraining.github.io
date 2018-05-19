@@ -9,17 +9,17 @@ regions:
   testimonials: true
 ---
 <section class="region divided highlight" id="home"><div class="inner">
-  <a href="/about/"><img class="right" src="/images/tammy_sarah.jpg" alt="Tammy and Sarah are friendly." /></a>
+  <a href="{{ '/about/' | relative_url }}"><img class="right" src="{{ '/images/tammy_sarah.jpg' | relative_url }}" alt="Tammy and Sarah are friendly." /></a>
   <h1 class="title">FIDO cares about you <br />and your dog</h1>
-  <p itemprop="description">We at FIDO Personal Dog Training are passionate about positive reinforcement 
-    dog training. We use proven <em>rewards-based</em> methods to help you solve behavioral problems and 
-  gain obedience skills, allowing you and your dog to have a happier, healthier 
+  <p itemprop="description">We at FIDO Personal Dog Training are passionate about positive reinforcement
+    dog training. We use proven <em>rewards-based</em> methods to help you solve behavioral problems and
+  gain obedience skills, allowing you and your dog to have a happier, healthier
   relationship.</p>
-  <a class="button cta" href="/about">Learn about FIDO</a>
+  <a class="button cta" href="{{ '/about' | relative_url }}">Learn about FIDO</a>
 </div></section>
 <section class="region divided"><div class="inner">
-  <a href="/classes/"><img class="right" src="/images/classes.jpg" alt="People have fun here" /></a>
-  <h2 class="title"><a href="/classes/">Classes</a></h2>
+  <a href="{{ '/classes/' | relative_url }}"><img class="right" src="{{ '/images/classes.jpg' | relative_url }}" alt="People have fun here" /></a>
+  <h2 class="title"><a href="{{ '/classes/' | relative_url }}">Classes</a></h2>
   <p>We offer small-group classes to teach skills and improve socialization. Just some
   of the classes we offer:</p>
   {% assign classes = site.classes | sort: "weight" %}
@@ -28,37 +28,37 @@ regions:
   {% assign args = class.url | split: '/' %}
   {% assign args = args | size %}
   {% unless args > 3 %}
-    <li><a href="{{ class.url }}">{{ class.title }}</a></li>
+    <li><a href="{{ class.url | relative_url }}">{{ class.title }}</a></li>
   {% endunless %}
   {% endfor %}
   </ul><br />
-  <a class="button cta" href="/classes/">Take a class</a>
+  <a class="button cta" href="{{ '/classes/' | relative_url }}">Take a class</a>
 </div></section>
 <section class="region divided"><div class="inner">
-  <a href="/training/"><img class="right" src="/images/training.jpg" alt="Training where you are" /></a>
-  <h2 class="title"><a href="/training/">Training</a></h2>
+  <a href="{{ '/training/' | relative_url }}"><img class="right" src="{{ '/images/training.jpg' | relative_url }}" alt="Training where you are" /></a>
+  <h2 class="title"><a href="{{ '/training/' | relative_url }}">Training</a></h2>
   <p>In addition to classes, we offer multiple training options to suit your needs.</p>
-  <a class="button cta" href="/training/">Get training</a>
+  <a class="button cta" href="{{ '/training/' | relative_url }}">Get training</a>
 </div></section>
 <section class="region divided"><div class="inner">
-  <a href="/walking/"><img class="right" src="/images/walk.jpg" alt="Rain or shine" /></a>
-  <h2 class="title"><a href="/walking/">Walking and more</a></h2>
+  <a href="{{ '/walking/' | relative_url }}"><img class="right" src="{{ '/images/walk.jpg' | relative_url }}" alt="Rain or shine" /></a>
+  <h2 class="title"><a href="{{ '/walking/' | relative_url }}">Walking and more</a></h2>
   <p>We've been walking dogs since 1996 in Southeast Oakland County, Michigan.
     We are dependable, insured, adult dog walkers who love dogs.</p>
   <p>We provide many services: walking, pick-up and drop-off for grooming,
     veterinary check-ups, and in-home pet sitting</p>
-  <a class="button cta" href="/walking/">Learn more</a>
+  <a class="button cta" href="{{ '/walking/' | relative_url }}">Learn more</a>
 </div></section>
 <section class="region divided"><div class="inner">
-  <a href="/grooming/"><img class="right" src="/images/grooming.jpg" alt="Grooming to the highest standard" /></a>
-  <h2 class="title"><a href="/grooming/">Grooming</a></h2>
+  <a href="{{ '/grooming/' | relative_url }}"><img class="right" src="{{ '/images/grooming.jpg' | relative_url }}" alt="Grooming to the highest standard" /></a>
+  <h2 class="title"><a href="{{ '/grooming/' | relative_url }}">Grooming</a></h2>
   <p>Fido's brand-new Gray Dog Grooming service is the safe, comfortable way to make your pup look great.</p>
-  <a class="button cta" href="/grooming/">Grooming info</a>
+  <a class="button cta" href="{{ '/grooming/' | relative_url }}">Grooming info</a>
 </div></section>
 <section class="region divided last"><div class="inner">
-  <a href="/pal/"><img class="right" src="/images/pal.jpg" alt="Play and learn with puppies" /></a>
-  <h2 class="title"><a href="/pal/">Play and Learn</a></h2>
+  <a href="{{ '/pal/' | relative_url }}"><img class="right" src="{{ '/images/pal.jpg' | relative_url }}" alt="Play and learn with puppies" /></a>
+  <h2 class="title"><a href="{{ '/pal/' | relative_url }}">Play and Learn</a></h2>
   <p>Want to take your puppy’s education further? Our NEW Play and Learn (PAL) program
     is the answer!</p>
-  <a class="button cta" href="/pal/">PAL info</a>
+  <a class="button cta" href="{{ '/pal/' | relative_url }}">PAL info</a>
 </div></section>
