@@ -7,16 +7,16 @@ regions:
 <p>All classes take place at FIDO in Ferndale. Class sizes are kept small to provide personal attention, 
 so sign up now to save your spot! To register:</p>
 <ol>
-  <li>Please review our <a href="/rules/">class rules</a></li>
-  <li><a href="/forms/group-class-customer-agreement/">Fill out the Customer Agreement form</a> or 
-  <a href="/images/fido_agree_rules.pdf">print a paper copy</a></li>
+  <li>Please review our <a href="{{ '/rules/' | relative_url }}">class rules</a></li>
+  <li><a href="{{ '/forms/group-class-customer-agreement/' | relative_url }}">Fill out the Customer Agreement form</a> or
+  <a href="{{ '/images/fido_agree_rules.pdf' | relative_url }}">print a paper copy</a></li>
   <li>Click a "Sessions/Register" button below to see class dates. Payment is required to reserve your spot in class. We offer
   a 10% discount when you register for more than one class at a time, as well as a 10% discount for repeating a class with the
   same dog. Please call us before signing up in either of those cases.</li>
 </ol>
 
 <p>All dogs must have age-appropriate vaccinations in order to attend class. Please see the 
-<a href="/forms/group-class-customer-agreement/">Customer Agreement</a> for the required vaccinations.</p>
+<a href="{{ '/forms/group-class-customer-agreement/' | relative_url }}">Customer Agreement</a> for the required vaccinations.</p>
 
 {% comment %} Main classes (brief template) {% endcomment %}
 {% for class in classes %}

@@ -3,10 +3,12 @@ title: Walking & Sitting
 regions:
   contactsarah: true
 ---
-<img class="right" src="/images/walk.jpg" alt="" />
-**Fido Dog Walking and Pet Sitting Service** - Fido Personal Dog Training has been walking dogs since 
-1996 in the Southeast Oakland County area in Michigan. We are dependable, 
-insured, adult dog walkers who *love* dogs.
+
+<img class="right" src="{{ '/images/walk.jpg' | relative_url }}" alt="" />
+
+**Fido Dog Walking and Pet Sitting Service** - Fido Personal Dog Training has been 
+walking dogs since 1996 in the Southeast Oakland County area in Michigan. We are 
+dependable, insured, adult dog walkers who *love* dogs.
 
 We have many long-term clients, and their dogs are as important
 to us as our own. We provide dog-walking services for the following
@@ -30,7 +32,7 @@ if you have any questions about our service, call Sarah at 248-854-5540
   * Pick up and drop off at groomers or day care- $20 each way
   * Veterinary check ups - $35
 
-<img class="right" src="/images/sitting.jpg" alt="" />
+<img class="right" src="{{ '/images/sitting.jpg' | relative_url }}" alt="" />
 
 ## Overnight, in-home pet sitting
 
@@ -44,4 +46,7 @@ additional $10 per day (New Year's Day, Easter, Thanksgiving Day and Christmas D
 Additional fees apply for clients outside of service area, please call Sarah 
 at 248-854-5540 for a price or to schedule a sitter for your pooch. 
 
-<aside class="clear">Fido Dog Walking and Pet Sitting Service is a service of Fido Personal Dog Training, LLC.</aside>
+<aside class="clear">
+Fido Dog Walking and Pet Sitting Service is a service of Fido 
+Personal Dog Training, LLC.
+</aside>
