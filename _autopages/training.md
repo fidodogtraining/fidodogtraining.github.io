@@ -3,8 +3,8 @@ title: One-on-One
 regions:
   contact: true
 ---
-<img class="right" src="/images/training.jpg" alt="" />
-In addition to [classes](/classes), we offer personal training.
+<img class="right" src="{{ '/images/training.jpg' | relative_url }}" alt="" />
+In addition to [classes](../classes), we offer personal training.
 
 ## Private lessons at our office
 
@@ -29,5 +29,3 @@ Dogs who aren't eligible for a group class, are nervous in new places, or are tr
 travelers benefit from having us conduct an in-home appointment. 
 
 Cost: In home training starts at $130 per hour. Please call to make an appointment
-
-
