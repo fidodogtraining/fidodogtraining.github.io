@@ -1,6 +1,6 @@
 <div class="class-brief" id="{{ include.class.url | slugify }}">
-  {% if include.class.image %}<a href="{{ include.class.url }}"><img class="right" src="/images/classes/{{ include.class.image }}" alt="" /></a>{% endif %}
-  <h2 itemprop="name headline"><a href="{{ include.class.url }}">{{ include.class.title }}</a></h2>
+  {% if include.class.image %}<a href="{{ include.class.url | relative_url }}"><img class="right" src="{{ '/images/classes/' | relative_url }}{{ include.class.image }}" alt="" /></a>{% endif %}
+  <h2 itemprop="name headline"><a href="{{ include.class.url | relative_url }}">{{ include.class.title }}</a></h2>
   <p>{{ include.class.tagline }}</p>
   {% if include.class.square %}<a class="button" href="{{ include.class.square }}" target="_blank">Sessions/Register</a>{% endif %}
 </div>

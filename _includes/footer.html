@@ -13,7 +13,7 @@
   <ul class="menu">
     <li><a class="first" href="http://www.fidoblog.com/" target="_blank">FIDO Blog</a></li>
     {% for p in pages %}{% if p.exclude %}
-    <li><a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">{{ p.title }}</a></li>
+    <li><a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
     {% endif %}{% endfor %}
   </ul>
   </div>
@@ -25,7 +25,7 @@
       <address class="inline-block" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
         <span>FIDO Personal Dog Training, LLC</span><br>
         <span itemprop="streetAddress">23440 Woodward Ave</span><br>
-        <span itemprop="addressLocality">Ferndale</span>, <span itemprop="addressRegion">MI</span> 
+        <span itemprop="addressLocality">Ferndale</span>, <span itemprop="addressRegion">MI</span>
          <span itemprop="postalCode">48220</span>
       </address>
       <div class="inline-block smaller">
@@ -42,16 +42,16 @@
   <p><a href="http://www.github.com/fidodogtraining/fidodogtraining.github.io" target="_blank">Github source</a></p>
   <div class="affiliations">
     <a href="http://www.ccpdt.org/" target="_blank">
-      <img alt="" src="/images/affiliations/cpdt-ka.png" />
+      <img alt="" src="{{ '/images/affiliations/cpdt-ka.png' | relative_url }}" />
     </a>
     <a href="http://www.associationofanimalbehaviorprofessionals.com/pillars.html" target="_blank">
-      <img alt="" src="/images/affiliations/aabp.png" />
+      <img alt="" src="{{ '/images/affiliations/aabp.png' | relative_url }}" />
     </a>
     <a href="https://apdt.com/about/" target="_blank">
-      <img alt="" src="/images/affiliations/apdt.png" />
+      <img alt="" src="{{ '/images/affiliations/apdt.png' | relative_url }}" />
     </a>
     <a href="http://catchdogtrainers.com/who-we-are/" target="_blank">
-      <img alt="" src="/images/affiliations/catch.png" />
+      <img alt="" src="{{ '/images/affiliations/catch.png' | relative_url }}" />
     </a>
   </div>
 </div></div>

@@ -8,7 +8,7 @@ regions:
 		<h1 itemprop="name headline">{{ page.title }}</h1>
     <h2>&#8220;{{ page.tagline }}&#8221;</h2>
 	</header>
-  {% if page.image %}<img class="right" src="/images/testimonials/{{ page.image }}" alt="" />{% endif %}
+  {% if page.image %}<img class="right" src="{{ '/images/testimonials/' | relative_url }}{{ page.image }}" alt="" />{% endif %}
 	<div itemprop="articleBody">
 		{{ content }}
 	</div>
