@@ -19,5 +19,3 @@ massage sessions.
 Our canine massage seminar is taught by Holly Schultz, a Certified Massage Therapist who has been working with both 
 humans and canines for 13 years. Holly will demonstrate soothing touch techniques on our live demo dogs and every 
 participant will get the chance to practice with her guidance. 
-
-
