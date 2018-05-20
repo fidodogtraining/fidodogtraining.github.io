@@ -9,6 +9,7 @@ regions:
 
   * [Patricia McConnell, PhD](http://www.patriciamcconnell.com/) - source for dog training books and tips
   * [Nicole Wilde](http://www.gentleguidance4dogs.com/bios.htm) - internationally recognized author and lecturer
+  * [Malena's information on Separation anxiety](https://malenademartini.com/about/about-separation-anxiety/) - mentor for [Jane's FIDO program](../separation-anxiety/)
   * [Dog Star Daily](http://www.dogstardaily.com/) - a free dog blog
   * [Karen Pryor clicker training](http://www.clickertraining.com/) - clicker training info
 
