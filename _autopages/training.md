@@ -29,3 +29,12 @@ Dogs who aren't eligible for a group class, are nervous in new places, or are tr
 travelers benefit from having us conduct an in-home appointment. 
 
 Cost: In home training starts at $130 per hour. Please call to make an appointment
+
+## Guided training for Separation Anxiety
+
+Are you unable to leave your dog home alone for fear of them destroying the house 
+or their crate? Are you getting complaints from the neighbors or landlord about 
+excessive barking or howling while you are at work?
+
+If so, see our <a href="{{ '/separation-anxiety/' | relative_url }}">Separation 
+Anxiety page</a> for full details on our program.

@@ -113,10 +113,12 @@ through the Certification Council for Professional Dog Trainers as a Certified P
 Dog Trainer – Knowledge Assessed (CPDT-KA). She graduated with honors from The Academy 
 for Dog Trainers (CTC) — regarded by many as the Harvard of dog training programs. 
 Jane loves working with dogs and their people and loves teaching, especially puppy 
-and leash reactive dog classes! Jane also specializes in treating separation anxiety 
-and is a Certified Separation Anxiety Training (CSAT). She lives in Ann Arbor with 
-a goofy, deaf cattle dog named Indy, a sweet and sensitive pit bull mix named Nina, 
-a short, elderly, blonde mix-breed girl named Cdog.
+and leash reactive dog classes! 
+
+Jane [also specializes in treating separation anxiety](../separation-anxiety/) and is a Certified Separation 
+Anxiety Training (CSAT). She lives in Ann Arbor with a goofy, deaf cattle dog named 
+Indy, a sweet and sensitive pit bull mix named Nina, a short, elderly, blonde mix-breed 
+girl named Cdog.
 
 </section>
 <section class="region">
