@@ -360,8 +360,13 @@ b, strong {
   letter-spacing: .065em;
 }
 blockquote {
+  background: hex-add($light, -.35);
+  border: 1px solid hex-add($light, -1);
+  font-size: 1.25em;
   font-style: italic;
-  margin: 1em 40px;
+  margin: 1em 40px 1em 0;
+  overflow: hidden;
+  padding: 1em;
 }
 dfn {
   font-style: italic;
