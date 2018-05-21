@@ -70,15 +70,20 @@ always be FUN!
 
 ## Supervise Your Dog
 
-ALWAYS carefully supervise all activity between children and your dog. Children 
+**Always** carefully supervise all activity between children and your dog. Children 
 can behave in ways that sometimes stress or agitate dogs, occasionally to the point 
 of biting. Prepare your dog best as you can for the types of things children might 
 do like pulling, prodding and hugging. Associate pleasant things with these activities. 
+
 For instance, you can actually produce a good response to having an ear pulled by 
 tugging the ears lightly, pulling on the dogs tail softly, pinching his body and 
 hugging him, followed immediately with some very yummy food treats. Please never 
 assume that your dog will not bite. Biting when fearful is a normal canine behavior. 
 Prepare your dog for these things so biting will not be his first response.
+
+If you have to leave your dog unsupervised for long periods of time and they exhibit 
+barking, destruction, or other anxious behaviors, consider [learning more about 
+canine Separation Anxiety](../separation-anxiety/).
 
 ## Welcome Outside Help
 

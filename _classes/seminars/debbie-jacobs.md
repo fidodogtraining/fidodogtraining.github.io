@@ -20,5 +20,3 @@ With & Training A Fearful Dog. She is also the creator of Fearfuldogs.com and ad
 where she shares valuable resources, insight and training information. This is her first time presenting in the metro-Detroit area.
  
 Space for this seminar is limited! We do expect it to sell out, so please register TODAY. This seminar is worth 3.5 CEUs with CCPDT.
- 
-
