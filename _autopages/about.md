@@ -36,8 +36,8 @@ needs. Please get in touch today!
 
 I have lived with and loved dogs my whole life and have worked with them for 19 
 years. I started a pet sitting/dog walking business in 1997 and have been training 
-since 2005. I live in Oak Park, Michigan with my husband Robert, our pit bull mix 
-Daisy,and our senior cat Posey.
+since 2005. I live in Oak Park with my husband Robert, our fast-growing pup Cleo, 
+and a silly kitty named Purrscilla. 
 
 One of my primary personal and professional goals is to help dogs live happy lives 
 with their human guardians. By teaching people how to communicate with their pets 
@@ -116,9 +116,8 @@ Jane loves working with dogs and their people and loves teaching, especially pup
 and leash reactive dog classes! 
 
 Jane [also specializes in treating separation anxiety](../separation-anxiety/) and is a Certified Separation 
-Anxiety Training (CSAT). She lives in Ann Arbor with a goofy, deaf cattle dog named 
-Indy, a sweet and sensitive pit bull mix named Nina, a short, elderly, blonde mix-breed 
-girl named Cdog.
+Anxiety Trainer (CSAT). She lives in Ann Arbor with a goofy, deaf cattle dog named 
+Indy and a sweet and sensitive pit bull mix named Nina.
 
 </section>
 <section class="region">
