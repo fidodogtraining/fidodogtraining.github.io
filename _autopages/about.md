@@ -92,7 +92,7 @@ going for baths, and she was a pretty easy-going gal. I became determined to fin
 another way, and attended Bingo Institute of Grooming to learn how to bathe, clip 
 and scissor. 
 
-Fido's Gray Dog Grooming opened its doors in Decemeber 2016 and I couldn't be prouder. 
+Fido's Gray Dog Grooming opened its doors in December 2016 and I couldn't be prouder. 
 My years of experience in canine body language let me recognize when a dog needs 
 coaching, a different method, or just a break. The team at Fido gave their input 
 and we designed a salon that minimizes stress and truly is something special. We 
