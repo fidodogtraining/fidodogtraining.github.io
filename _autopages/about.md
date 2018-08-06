@@ -230,7 +230,7 @@ for the many bonds formed with both pups and people over the years.
 After 27 years in the Loss Prevention field, I had the chance to experience working 
 with dogs in a grooming salon which led me to follow my dream I have had work with 
 dogs on a daily basis . I love meeting our clients and their dogs and enjoy every 
-individual dogs personality. It's a joy working with dogs everyday.
+individual dog's personality. It's a joy working with dogs everyday.
 
 I plan to attend an Animal Behavior College and would love to train and teach dogs 
 one day.
@@ -238,35 +238,3 @@ one day.
 </section>
 <section class="region">
   
-## Kim Negus
-
-### Dog Walker, Pet Sitter
-
-<img class="right" src="{{ '/images/kim.jpg' | relative_url }}" alt="" />
-
-Kim has been actively involved in animal rescue for many years. With a passion for 
-the well-being of feral cats, she taught a TNR and shelter building workshop at 
-All About Animals monthly for over two years. She's volunteered at MSU as well several 
-rescues, including a wildlife rehab center in Texas. Her father was a Detroit Zookeeper, 
-and as a child Kim appeared on "At the Zoo with Sonny Elliot", usually holding huge 
-snakes or tarantulas! 
-
-Kim has two dogs, Samantha and Felipe as well as two kitties named Kate and Isabella. 
-She loves working with animals and hopes to open a sanctuary some day. 
-
-</section>
-<section class="region">
-  
-## Kate Beechler
-
-### Office Staff
-
-<img class="right" src="{{ '/images/kate.jpg' | relative_url }}" alt="" />
-
-Kate was a stay at home Mom for 17 years.  Searching for a part time job that would 
-be both fun and fulfilling, she found Fido.  She loves to offer support to the staff 
-at Fido and greet all the wonderful dogs that come in each day.  Kate lives in Royal 
-Oak with her husband, two teenage boys and a 3 year old Golden Retriever named Tucker.
-
-</section>
-<section class="region">
