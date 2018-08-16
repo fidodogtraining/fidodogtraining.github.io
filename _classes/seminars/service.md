@@ -4,7 +4,7 @@ tagline: "Dogs with Jobs "
 trainer: Adrienne Wisok
 duration: "Saturday Dec 22 11a-1p"
 price: "$25 per student"
-square: "https://squareup.com/market/FidoPersonalDogTraining/seminars"
+square: "https://squareup.com/store/FidoPersonalDogTraining/item/seminars"
 ---
 
 Emotional support animals, therapy dogs, facility dogs, service dogs, guide dogs, peacocks on airplanes!? 
