@@ -165,13 +165,12 @@ rescued Border Collie, Rhodey.
 
 ### Head Trainer, Dog Walker, Pet Sitter, PAL Trainer
 
-<img class="right" src="{{ '/images/suzi.jpg' | relative_url }}" alt="" />
+<img class="right" src="{{ '/images/christy.jpg' | relative_url }}" alt="" />
 
-My name is Suzi Gagnier Bertrand and I’ve been working with dogs for 40+ years. I spent 
-almost 20 of those years in the veterinary field as a tech and hospital manager. In addition 
-I worked as a groomer, trainer and also managed a show horse stable. Animals are my love and 
-passion and I enjoy the company of 2 lovely dogs and 3 needy cats!
-
+Christy has worked with dogs professionally for three years. She has completed her 
+grooming apprenticeship and is a Certified Professional Dog Trainer-Knowledge Assessed! 
+Christy has two dogs of her own; a pit mix named Palmer and a bulldog mix named 
+Penny.
 
 </section>
 <section class="region">
@@ -180,12 +179,13 @@ passion and I enjoy the company of 2 lovely dogs and 3 needy cats!
 
 ### PAL Trainer, Assistant Trainer
 
-<img class="right" src="{{ '/images/christy.jpg' | relative_url }}" alt="" />
+<img class="right" src="{{ '/images/suzi.jpg' | relative_url }}" alt="" />
 
-Christy has worked with dogs professionally for three years. She has completed her 
-grooming apprenticeship and is a Certified Professional Dog Trainer-Knowledge Assessed! 
-Christy has two dogs of her own; a pit mix named Palmer and a bulldog mix named 
-Penny.
+My name is Suzi Gagnier Bertrand and I’ve been working with dogs for 40+ years. I spent 
+almost 20 of those years in the veterinary field as a tech and hospital manager. In addition 
+I worked as a groomer, trainer and also managed a show horse stable. Animals are my love and 
+passion and I enjoy the company of 2 lovely dogs and 3 needy cats!
+
 
 </section>
 <section class="region">  
