@@ -142,7 +142,7 @@ dogs.
 
 ## Lindsay Flatter
 
-### Assistant Trainer, Dog Walker
+### Head Trainer
 
 <img class="right" src="{{ '/images/lindsay.jpg' | relative_url }}" alt="" />
 
@@ -192,7 +192,7 @@ passion and I enjoy the company of 2 lovely dogs and 3 needy cats!
 
 ## Kelli Marshall
 
-### Dog Walker, Pet Sitter
+### Pet Sitter
 
 <img class="right" src="{{ '/images/kelli.jpg' | relative_url }}" alt="" />
 
@@ -210,7 +210,7 @@ named Rōkō.
 
 ## Beth Delaney
 
-### Dog Walker, Pet Sitter
+### Pet Sitter
 
 <img class="right" src="{{ '/images/beth.jpg' | relative_url }}" alt="" />
 
