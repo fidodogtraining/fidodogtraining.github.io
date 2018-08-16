@@ -2,7 +2,7 @@
 title: First Aid
 tagline: "Canine First Aid"
 trainer: Felicia Asher 
-duration: "Nov 11, 2017 3-5p"
+duration: "dates to come"
 price: "$55 per student"
 square: "https://squareup.com/market/FidoPersonalDogTraining/seminars"
 ---
