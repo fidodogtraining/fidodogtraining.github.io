@@ -2,7 +2,7 @@
 weight: 2
 title: Building Confidence Through Agility
 tagline: "Jump, Weave, Succeed!"
-image: basic.jpg
+image: agility.jpg
 trainer: Lindsay Flatter and Christy Hopkins
 duration: "6 weeks"
 price: "$265"
