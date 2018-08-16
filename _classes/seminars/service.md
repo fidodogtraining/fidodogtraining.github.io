@@ -2,7 +2,7 @@
 title: "What is a Service Dog?"
 tagline: "Dogs with Jobs "
 trainer: Adrienne Wisok
-duration: "Saturday August 25,2018 10a-12:30p"
+duration: "Saturday Dec 22 11a-1p"
 price: "$25 per student"
 square: "https://squareup.com/market/FidoPersonalDogTraining/seminars"
 ---
