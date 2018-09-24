@@ -252,3 +252,38 @@ one day.
 </section>
 <section class="region">
   
+## Adrienne Wisok
+
+### PAL Trainer, Dog Walker, Pet Sitter
+
+While working towards her first bachelor’s degree in biochemistry at University of
+Michigan, Adrienne started working as a veterinary assistant in 1993. In 1994, she
+moved to emergency veterinary medicine and stayed working in that capacity for
+the next 20 years, during which she finished another bachelor’s degree in Molecular
+Biology from Portland State University and sat for her national exam to be a
+Certified Veterinary Technician. In 2000 after finding a dog abandoned in a local
+park; an energetic young dog that needed a job; she discovered her love of Search
+and Rescue. They became a certified search team in 2002 through the Oregon State
+Sheriff’s Association, eventually finding 13 people lost in the woods in the Pacific
+Northwest over 5 years. After deciding it was time to move on from veterinary
+medicine, Adrienne pursued the love of dog training and the working dog
+relationship by pursuing a master’s degree in Canine Life Sciences from Bergin
+University. There she learned and practiced advanced concepts in service dog
+training, and sat for her exam to become a Certified Professional Dog Trainer
+through CCPDT and became a Canine Good Citizen Evaluator for the AKC. After
+graduating with her Masters in Science in only 11 months, Adrienne started working
+as a Guide Dog Mobility Instructor Apprentice at Leader Dogs for the Blind in
+Rochester Hills, MI. A year later, her alma mater Bergin University hired her as the
+Dean of the College of Business and Companion Dogs where she was in charge of
+teaching students and training over 50 dogs to become service, facility, and therapy
+dogs. Moving back to Detroit to be close to family, Adrienne now trains dogs for
+private clients, TSA, to be service or working dogs, and teaches group classes and
+seminars. This fall, she started a PhD program in Psychology focusing on trauma and
+disaster relief. When not working with people and their canine companions,
+Adrienne trains her Labrador Xena in nose work, trains her German Shepherd Taff
+with Michigan Search and Rescue, and loves never-ending snuggles with Iva her
+Chow Chow. Her two cats Lucas and Norton occasionally allow her to adorn them
+with affection.
+
+ </section>
+<section class="region">
