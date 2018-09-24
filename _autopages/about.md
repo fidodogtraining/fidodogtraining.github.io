@@ -256,6 +256,8 @@ one day.
 
 ### PAL Trainer, Dog Walker, Pet Sitter
 
+<img class="right" src="{{ '/images/adrienne.jpg' | relative_url }}" alt="" />
+
 While working towards her first bachelor’s degree in biochemistry at University of
 Michigan, Adrienne started working as a veterinary assistant in 1993. In 1994, she
 moved to emergency veterinary medicine and stayed working in that capacity for
