@@ -287,5 +287,5 @@ with Michigan Search and Rescue, and loves never-ending snuggles with Iva her
 Chow Chow. Her two cats Lucas and Norton occasionally allow her to adorn them
 with affection.
 
- </section>
+</section>
 <section class="region">
