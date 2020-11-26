@@ -9,6 +9,7 @@ duration: "6 weeks"
 price: "$265"
 square: "https://squareup.com/market/FidoPersonalDogTraining/puppy-class-web"
 ---
+
 Your puppy is growing by leaps and bounds — and so is his brain! You’ll learn about 
 the needs of your now “teenage” puppy as well as how this stage of growth and 
 development plays into different behavioral issues. We will continue working on 

@@ -5,8 +5,8 @@ regions:
   contactsarah: true
 ---
 <div class="tt-wrap"><div class="twenty-twenty">
-  <img src="/images/2020/fuzzball-before.jpg" alt="" />
-  <img src="/images/2020/fuzzball-after.jpg" alt="" />
+  <img src="{{ '/images/2020/fuzzball-before.jpg' | relative_url }}" alt="" />
+  <img src="{{ '/images/2020/fuzzball-after.jpg' | relative_url }}" alt="" />
 </div></div>
 Your dog deserves to look great without stress. As with our training programs, Fido's Gray Dog Grooming 
 was designed with your dog’s safety and comfort in mind. 
@@ -24,13 +24,13 @@ different:
   * Provide guidance, handouts, and videos to prepare for a visit
   * Walk-in floor tub for dogs with mobility issues or that are too large for normal grooming tubs
 
-Call now [(248) 854-5540] to schedule an appointment and get an estimate. [Fill out the grooming agreement](/forms/grooming-customer-agreement/) prior to your appointment.
+Call now [(248) 854-5540] to schedule an appointment and get an estimate. [Fill out the grooming agreement](../forms/grooming-customer-agreement/) prior to your appointment.
 
 <aside class="clear">
   Gray Dog Grooming is a service of Fido Personal Dog Training, LLC.
 </aside>
 
-<script src="/deps/jquery.min.js" type="text/javascript"></script>
-<script src="/deps/2020/js/jquery.event.move.js" type="text/javascript"></script>
-<script src="/deps/2020/js/jquery.twentytwenty.js" type="text/javascript"></script>
-<script src="/deps/behaviors.js" type="text/javascript"></script>
+<script src="{{ '/deps/jquery.min.js' | relative_url }}" type="text/javascript"></script>
+<script src="{{ '/deps/2020/js/jquery.event.move.js' | relative_url }}" type="text/javascript"></script>
+<script src="{{ '/deps/2020/js/jquery.twentytwenty.js' | relative_url }}" type="text/javascript"></script>
+<script src="{{ '/deps/behaviors.js' | relative_url }}" type="text/javascript"></script>

@@ -4,18 +4,23 @@ layout: layout
 <article itemscope itemtype="http://schema.org/BlogPosting">
 	<header>
 		<h1 itemprop="name headline">{{ page.title }}</h1>
-		<address class="byline">By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="https://plus.google.com/101859597007067422923?rel=author" itemprop="name url" rel="author">Brad Czerniak</a></span> on <time datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ page.date | date: "%B %e, %Y" }}</time></address>
+		<address class="byline">By
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a href="https://plus.google.com/101859597007067422923?rel=author" itemprop="name url" rel="author">Brad Czerniak</a>
+      </span> on
+      <time datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ page.date | date: "%B %e, %Y" }}</time>
+    </address>
 	</header>
 	<div itemprop="articleBody">
 		{{ content }}
 	</div>
 	<footer>
 	{% if page.next.url %} 
-		<a class="next" href="{{page.next.url}}">Newer: {{page.next.title}} &raquo;</a>
+		<a class="next" href="{{ page.next.url | relative_url }}">Newer: {{ page.next.title }} &raquo;</a>
 	{% endif %}
 	<br />
 	{% if page.previous.url %} 
-		<a class="previous" href="{{page.previous.url}}">&laquo; Older: {{page.previous.title}}</a>
+		<a class="previous" href="{{ page.previous.url |relative_url }}">&laquo; Older: {{ page.previous.title }}</a>
 	{% endif %}
 	</footer>
 </article>
